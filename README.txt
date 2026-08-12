@@ -1,0 +1,2 @@
+README
+HorseRacingGameWoeldのカレンダー公開用リポジトリ
