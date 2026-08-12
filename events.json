@@ -1,0 +1,819 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-12T15:45:22.385Z",
+  "generatedAtLabel": "2026/08/13 00:45",
+  "timezone": "Asia/Tokyo",
+  "refreshAfterSeconds": 3600,
+  "officialWebUrl": "https://vra-proj.web.app/races",
+  "defaultStartIndex": 14,
+  "visibleDayCount": 14,
+  "days": [
+    {
+      "dateKey": "2026-07-30",
+      "displayDate": "2026.07.30",
+      "dateLabel": "7月30日（木）",
+      "dayNumber": "30",
+      "weekday": "木",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-07-31",
+      "displayDate": "2026.07.31",
+      "dateLabel": "7月31日（金）",
+      "dayNumber": "31",
+      "weekday": "金",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-01",
+      "displayDate": "2026.08.01",
+      "dateLabel": "8月1日（土）",
+      "dayNumber": "1",
+      "weekday": "土",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-02",
+      "displayDate": "2026.08.02",
+      "dateLabel": "8月2日（日）",
+      "dayNumber": "2",
+      "weekday": "日",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-03",
+      "displayDate": "2026.08.03",
+      "dateLabel": "8月3日（月）",
+      "dayNumber": "3",
+      "weekday": "月",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-04",
+      "displayDate": "2026.08.04",
+      "dateLabel": "8月4日（火）",
+      "dayNumber": "4",
+      "weekday": "火",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-05",
+      "displayDate": "2026.08.05",
+      "dateLabel": "8月5日（水）",
+      "dayNumber": "5",
+      "weekday": "水",
+      "isToday": false,
+      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】定期交流会ハンデ戦 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "9pl7qbggattvfc8bk02lvkv2dk@google.com",
+          "eventId": "20260805",
+          "title": "【仮想中央競馬会】定期交流会ハンデ戦",
+          "timeLabel": "22:00 - 22:30",
+          "location": "VRChat",
+          "status": "回答集計済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "定期交流会ハンデ戦",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "騎手無条件・馬無条件 ①緑バッジ所持+3kg ②銅・銀バッジ所持+5kg",
+              "displayCondition": "平場芝 / コース1 / 騎手無条件・馬無条件 ①緑バッジ所持+3kg ②銅・銀バッジ所持+5kg",
+              "status": "回答集計済"
+            }
+          ]
+        },
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-06",
+      "displayDate": "2026.08.06",
+      "dateLabel": "8月6日（木）",
+      "dayNumber": "6",
+      "weekday": "木",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-07",
+      "displayDate": "2026.08.07",
+      "dateLabel": "8月7日（金）",
+      "dayNumber": "7",
+      "weekday": "金",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-08",
+      "displayDate": "2026.08.08",
+      "dateLabel": "8月8日（土）",
+      "dayNumber": "8",
+      "weekday": "土",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 【仮想中央競馬会】プレ開催A OP戦 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "4mb9225mm9b11pocv86vg2ni10@google.com",
+          "eventId": "20260808",
+          "title": "【仮想中央競馬会】プレ開催A OP戦",
+          "timeLabel": "21:00 - 22:00",
+          "location": "VRChat",
+          "status": "回答集計済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "プレ開催A 1レース OP",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース1",
+              "condition": "条件無",
+              "displayCondition": "坂芝 / コース1 / 条件無",
+              "status": "回答集計済"
+            }
+          ]
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260808_01",
+          "title": "8月8日夏場の少頭数レース",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "出走表作成済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "ヒマワリステークス",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース3",
+              "condition": "ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
+              "displayCondition": "平場芝 / コース3 / ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
+              "status": "出走表作成済"
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "アサガオステークス",
+              "grade": "OP",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
+              "displayCondition": "ダート / コース1 / ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
+              "status": "出走表作成済"
+            },
+            {
+              "raceId": "R03",
+              "raceNo": "3R",
+              "raceName": "マリーゴールドステークス",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース2",
+              "condition": "ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
+              "displayCondition": "坂芝 / コース2 / ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
+              "status": "出走表作成済"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-09",
+      "displayDate": "2026.08.09",
+      "dateLabel": "8月9日（日）",
+      "dayNumber": "9",
+      "weekday": "日",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        },
+        {
+          "calendarEventId": "qkvkseiou07friv3upj3lngo08@google.com",
+          "eventId": "20260809",
+          "title": "【仮想中央競馬会】プレ開催A OP 賞金50万毎+1kg",
+          "timeLabel": "22:00 - 22:15",
+          "location": "VRChat",
+          "status": "公開済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "プレ開催A OP 賞金50万 +1kg",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース2",
+              "condition": "賞金50万 で斤量 +1kg",
+              "displayCondition": "坂芝 / コース2 / 賞金50万 で斤量 +1kg",
+              "status": "公開済"
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "プレ開催A OP 無条件",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース2",
+              "condition": "無条件",
+              "displayCondition": "坂芝 / コース2 / 無条件",
+              "status": "公開済"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-10",
+      "displayDate": "2026.08.10",
+      "dateLabel": "8月10日（月）",
+      "dayNumber": "10",
+      "weekday": "月",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-11",
+      "displayDate": "2026.08.11",
+      "dateLabel": "8月11日（火）",
+      "dayNumber": "11",
+      "weekday": "火",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-12",
+      "displayDate": "2026.08.12",
+      "dateLabel": "8月12日（水）",
+      "dayNumber": "12",
+      "weekday": "水",
+      "isToday": false,
+      "eventSummary": "22:00 - 23:00 定期交流会 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260812",
+          "title": "0812定期交流会バッジレース",
+          "timeLabel": "23:00 - 23:15",
+          "location": "",
+          "status": "出走表作成済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "0812定期交流会バッジレース",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース1",
+              "condition": "①騎手10勝以上 +2㎏　30勝以上 +5㎏",
+              "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +2㎏　30勝以上 +5㎏",
+              "status": "出走表作成済"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-13",
+      "displayDate": "2026.08.13",
+      "dateLabel": "8月13日（木）",
+      "dayNumber": "13",
+      "weekday": "木",
+      "isToday": true,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-14",
+      "displayDate": "2026.08.14",
+      "dateLabel": "8月14日（金）",
+      "dayNumber": "14",
+      "weekday": "金",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-15",
+      "displayDate": "2026.08.15",
+      "dateLabel": "8月15日（土）",
+      "dayNumber": "15",
+      "weekday": "土",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 【仮想中央競馬会】8月 真夏のジャンボリー大波開催！",
+      "events": [
+        {
+          "calendarEventId": "mmf5barug6sf4dcvmnvv7kr7sg@google.com",
+          "eventId": "20260815",
+          "title": "【仮想中央競馬会】8月 真夏のジャンボリー大波開催！",
+          "timeLabel": "21:00 - 22:00",
+          "location": "VRChat",
+          "status": "回答集計済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "協賛募集 OP戦 第1レース",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース3",
+              "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+              "displayCondition": "坂芝 / コース3 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+              "status": "回答集計済"
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "協賛募集 OP戦 第2レース",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース2",
+              "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+              "displayCondition": "坂芝 / コース2 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+              "status": "回答集計済"
+            },
+            {
+              "raceId": "R03",
+              "raceNo": "3R",
+              "raceName": "協賛募集 GⅢ戦 第3レース",
+              "grade": "GⅢ",
+              "track": "坂芝",
+              "course": "コース1",
+              "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+              "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+              "status": "回答集計済"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-16",
+      "displayDate": "2026.08.16",
+      "dateLabel": "8月16日（日）",
+      "dayNumber": "16",
+      "weekday": "日",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-17",
+      "displayDate": "2026.08.17",
+      "dateLabel": "8月17日（月）",
+      "dayNumber": "17",
+      "weekday": "月",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-18",
+      "displayDate": "2026.08.18",
+      "dateLabel": "8月18日（火）",
+      "dayNumber": "18",
+      "weekday": "火",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-19",
+      "displayDate": "2026.08.19",
+      "dateLabel": "8月19日（水）",
+      "dayNumber": "19",
+      "weekday": "水",
+      "isToday": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-20",
+      "displayDate": "2026.08.20",
+      "dateLabel": "8月20日（木）",
+      "dayNumber": "20",
+      "weekday": "木",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-21",
+      "displayDate": "2026.08.21",
+      "dateLabel": "8月21日（金）",
+      "dayNumber": "21",
+      "weekday": "金",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-22",
+      "displayDate": "2026.08.22",
+      "dateLabel": "8月22日（土）",
+      "dayNumber": "22",
+      "weekday": "土",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-23",
+      "displayDate": "2026.08.23",
+      "dateLabel": "8月23日（日）",
+      "dayNumber": "23",
+      "weekday": "日",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-24",
+      "displayDate": "2026.08.24",
+      "dateLabel": "8月24日（月）",
+      "dayNumber": "24",
+      "weekday": "月",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-25",
+      "displayDate": "2026.08.25",
+      "dateLabel": "8月25日（火）",
+      "dayNumber": "25",
+      "weekday": "火",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-26",
+      "displayDate": "2026.08.26",
+      "dateLabel": "8月26日（水）",
+      "dayNumber": "26",
+      "weekday": "水",
+      "isToday": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-27",
+      "displayDate": "2026.08.27",
+      "dateLabel": "8月27日（木）",
+      "dayNumber": "27",
+      "weekday": "木",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-28",
+      "displayDate": "2026.08.28",
+      "dateLabel": "8月28日（金）",
+      "dayNumber": "28",
+      "weekday": "金",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-29",
+      "displayDate": "2026.08.29",
+      "dateLabel": "8月29日（土）",
+      "dayNumber": "29",
+      "weekday": "土",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-08-30",
+      "displayDate": "2026.08.30",
+      "dateLabel": "8月30日（日）",
+      "dayNumber": "30",
+      "weekday": "日",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-08-31",
+      "displayDate": "2026.08.31",
+      "dateLabel": "8月31日（月）",
+      "dayNumber": "31",
+      "weekday": "月",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-09-01",
+      "displayDate": "2026.09.01",
+      "dateLabel": "9月1日（火）",
+      "dayNumber": "1",
+      "weekday": "火",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-09-02",
+      "displayDate": "2026.09.02",
+      "dateLabel": "9月2日（水）",
+      "dayNumber": "2",
+      "weekday": "水",
+      "isToday": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-09-03",
+      "displayDate": "2026.09.03",
+      "dateLabel": "9月3日（木）",
+      "dayNumber": "3",
+      "weekday": "木",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-09-04",
+      "displayDate": "2026.09.04",
+      "dateLabel": "9月4日（金）",
+      "dayNumber": "4",
+      "weekday": "金",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-09-05",
+      "displayDate": "2026.09.05",
+      "dateLabel": "9月5日（土）",
+      "dayNumber": "5",
+      "weekday": "土",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-09-06",
+      "displayDate": "2026.09.06",
+      "dateLabel": "9月6日（日）",
+      "dayNumber": "6",
+      "weekday": "日",
+      "isToday": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-09-07",
+      "displayDate": "2026.09.07",
+      "dateLabel": "9月7日（月）",
+      "dayNumber": "7",
+      "weekday": "月",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-09-08",
+      "displayDate": "2026.09.08",
+      "dateLabel": "9月8日（火）",
+      "dayNumber": "8",
+      "weekday": "火",
+      "isToday": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-09-09",
+      "displayDate": "2026.09.09",
+      "dateLabel": "9月9日（水）",
+      "dayNumber": "9",
+      "weekday": "水",
+      "isToday": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    }
+  ]
+}
