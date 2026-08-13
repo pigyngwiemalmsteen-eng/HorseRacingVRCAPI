@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-13T14:44:40.938Z",
-  "generatedAtLabel": "2026/08/13 23:44",
+  "generatedAt": "2026-08-13T15:44:41.320Z",
+  "generatedAtLabel": "2026/08/14 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -786,8 +786,8 @@
       "dateLabel": "8月13日（木）",
       "dayNumber": "13",
       "weekday": "木",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "予定なし",
       "events": []
     },
@@ -797,7 +797,7 @@
       "dateLabel": "8月14日（金）",
       "dayNumber": "14",
       "weekday": "金",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
@@ -829,7 +829,7 @@
           "title": "【仮想中央競馬会】8月 真夏のジャンボリー大波開催！",
           "timeLabel": "21:00 - 22:00",
           "location": "VRChat",
-          "status": "回答集計済",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -841,7 +841,7 @@
               "course": "コース3",
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "displayCondition": "坂芝 / コース3 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "回答集計済"
+              "status": "公開済"
             },
             {
               "raceId": "R02",
@@ -852,7 +852,7 @@
               "course": "コース2",
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "displayCondition": "坂芝 / コース2 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "回答集計済"
+              "status": "公開済"
             },
             {
               "raceId": "R03",
@@ -863,7 +863,7 @@
               "course": "コース1",
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "回答集計済"
+              "status": "公開済"
             }
           ]
         }
