@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-13T23:44:41.237Z",
-  "generatedAtLabel": "2026/08/14 08:44",
+  "generatedAt": "2026-08-13T23:48:29.296Z",
+  "generatedAtLabel": "2026/08/14 08:48",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -853,7 +853,7 @@
           "title": "【仮想中央競馬会】8月 真夏のジャンボリー大波開催！",
           "timeLabel": "21:00 - 22:00",
           "location": "VRChat",
-          "description": "",
+          "description": "参加登録は公式Webの募集レースページからご確認ください",
           "status": "マッチング案作成済",
           "officialManaged": true,
           "races": [
