@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-13T11:44:41.039Z",
-  "generatedAtLabel": "2026/08/13 20:44",
+  "generatedAt": "2026-08-13T12:44:41.513Z",
+  "generatedAtLabel": "2026/08/13 21:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -877,8 +877,18 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "eventSummary": "21:00 - 22:00 【みみのこダービー外伝】 ほか1件",
       "events": [
+        {
+          "calendarEventId": "5jq2fsaj37ektj3m8ph5piseuc@google.com",
+          "eventId": "",
+          "title": "【みみのこダービー外伝】",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        },
         {
           "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
           "eventId": "",
