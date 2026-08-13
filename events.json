@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-13T20:44:40.287Z",
-  "generatedAtLabel": "2026/08/14 05:44",
+  "generatedAt": "2026-08-13T21:44:41.389Z",
+  "generatedAtLabel": "2026/08/14 06:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -829,7 +829,7 @@
           "title": "【仮想中央競馬会】8月 真夏のジャンボリー大波開催！",
           "timeLabel": "21:00 - 22:00",
           "location": "VRChat",
-          "status": "公開済",
+          "status": "マッチング案作成済",
           "officialManaged": true,
           "races": [
             {
@@ -841,18 +841,18 @@
               "course": "コース3",
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "displayCondition": "坂芝 / コース3 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "公開済"
+              "status": "マッチング案作成済"
             },
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "協賛募集 OP戦 第2レース",
+              "raceName": "第1回！一番の汗っかきは誰だ選手権！",
               "grade": "OP",
               "track": "坂芝",
               "course": "コース2",
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "displayCondition": "坂芝 / コース2 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "公開済"
+              "status": "マッチング案作成済"
             },
             {
               "raceId": "R03",
@@ -863,7 +863,7 @@
               "course": "コース1",
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "公開済"
+              "status": "マッチング案作成済"
             }
           ]
         }
