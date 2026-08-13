@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 2,
-  "generatedAt": "2026-08-13T22:44:41.282Z",
-  "generatedAtLabel": "2026/08/14 07:44",
+  "schemaVersion": 3,
+  "generatedAt": "2026-08-13T23:21:33.965Z",
+  "generatedAtLabel": "2026/08/14 08:21",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -46,6 +46,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -79,6 +80,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -89,6 +91,7 @@
           "title": "第一回レーティングバトル5R",
           "timeLabel": "22:00 - 22:15",
           "location": "",
+          "description": "",
           "status": "枠順決定済",
           "officialManaged": true,
           "races": [
@@ -134,6 +137,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -144,6 +148,7 @@
           "title": "第一回レーティングバトル6R",
           "timeLabel": "22:00 - 22:15",
           "location": "",
+          "description": "",
           "status": "枠順決定済",
           "officialManaged": true,
           "races": [
@@ -200,6 +205,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -210,6 +216,7 @@
           "title": "第一回レーティングバトル7R",
           "timeLabel": "22:00 - 22:15",
           "location": "",
+          "description": "",
           "status": "枠順決定済",
           "officialManaged": true,
           "races": [
@@ -255,6 +262,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -277,6 +285,7 @@
           "title": "【仮想中央競馬会】7月第二回イベントレース",
           "timeLabel": "21:00 - 22:00",
           "location": "VRChat",
+          "description": "",
           "status": "出走表作成済",
           "officialManaged": true,
           "races": [
@@ -333,6 +342,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -377,6 +387,7 @@
           "title": "【仮想中央競馬会】第二回ミミノコダービー",
           "timeLabel": "22:00 - 23:30",
           "location": "VRChat",
+          "description": "",
           "status": "出走表作成済",
           "officialManaged": true,
           "races": [
@@ -410,6 +421,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -443,6 +455,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -476,6 +489,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -520,6 +534,7 @@
           "title": "【仮想中央競馬会】定期交流会ハンデ戦",
           "timeLabel": "22:00 - 22:30",
           "location": "VRChat",
+          "description": "",
           "status": "回答集計済",
           "officialManaged": true,
           "races": [
@@ -542,6 +557,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -575,6 +591,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -597,6 +614,7 @@
           "title": "【仮想中央競馬会】プレ開催A OP戦",
           "timeLabel": "21:00 - 22:00",
           "location": "VRChat",
+          "description": "",
           "status": "回答集計済",
           "officialManaged": true,
           "races": [
@@ -619,6 +637,7 @@
           "title": "8月8日夏場の少頭数レース",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "出走表作成済",
           "officialManaged": true,
           "races": [
@@ -675,6 +694,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -685,6 +705,7 @@
           "title": "【仮想中央競馬会】プレ開催A OP 賞金50万毎+1kg",
           "timeLabel": "22:00 - 22:15",
           "location": "VRChat",
+          "description": "",
           "status": "公開済",
           "officialManaged": true,
           "races": [
@@ -752,6 +773,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -762,6 +784,7 @@
           "title": "0812定期交流会バッジレース",
           "timeLabel": "23:00 - 23:15",
           "location": "",
+          "description": "",
           "status": "出走表作成済",
           "officialManaged": true,
           "races": [
@@ -807,6 +830,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -829,6 +853,7 @@
           "title": "【仮想中央競馬会】8月 真夏のジャンボリー大波開催！",
           "timeLabel": "21:00 - 22:00",
           "location": "VRChat",
+          "description": "",
           "status": "マッチング案作成済",
           "officialManaged": true,
           "races": [
@@ -885,6 +910,7 @@
           "title": "【みみのこダービー外伝】",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "3レース勝ち抜け戦です。\n 各レースの１位にみみのこをプレゼントします。\n企画by 懐かしのアンタレス",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -895,6 +921,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -939,6 +966,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -972,6 +1000,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1005,6 +1034,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1049,6 +1079,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1082,6 +1113,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1115,6 +1147,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1159,6 +1192,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1192,6 +1226,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1225,6 +1260,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1269,6 +1305,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1302,6 +1339,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1335,6 +1373,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1379,6 +1418,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1412,6 +1452,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1445,6 +1486,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1489,6 +1531,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1522,6 +1565,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1555,6 +1599,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1599,6 +1644,7 @@
           "title": "定期交流会",
           "timeLabel": "22:00 - 23:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1632,6 +1678,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
@@ -1665,6 +1712,7 @@
           "title": "初心者向け交流会",
           "timeLabel": "21:00 - 22:00",
           "location": "",
+          "description": "",
           "status": "",
           "officialManaged": false,
           "races": []
