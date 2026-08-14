@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-14T05:44:41.055Z",
-  "generatedAtLabel": "2026/08/14 14:44",
+  "generatedAt": "2026-08-14T06:44:42.086Z",
+  "generatedAtLabel": "2026/08/14 15:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -29,18 +29,6 @@
             {
               "frameNumber": 1,
               "horseNumber": 1,
-              "horseId": "H000223",
-              "horseName": "ブラックジョーク",
-              "ownerName": "メデタイラー",
-              "jockeyName": "メデタイラー",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 2,
-              "horseNumber": 2,
               "horseId": "H000098",
               "horseName": "ネミサンインパクト",
               "ownerName": "ねみぃさん",
@@ -66,8 +54,8 @@
               "thirdCount": 0
             },
             {
-              "frameNumber": 3,
-              "horseNumber": 3,
+              "frameNumber": 2,
+              "horseNumber": 2,
               "horseId": "H000225",
               "horseName": "レーゲンキセキ",
               "ownerName": "雨乃ユウ",
@@ -78,21 +66,33 @@
               "thirdCount": 0
             },
             {
-              "frameNumber": 4,
-              "horseNumber": 4,
-              "horseId": "H000214",
-              "horseName": "ルチカライトロード",
-              "ownerName": "YuyaKuga",
-              "jockeyName": "YuyaKuga",
+              "frameNumber": 3,
+              "horseNumber": 3,
+              "horseId": "H000212",
+              "horseName": "コスノアヴァロン",
+              "ownerName": "こっすー",
+              "jockeyName": "こっすー",
               "previousRuns": [
                 {
                   "eventId": "20260812",
                   "raceId": "R01",
                   "raceName": "0812定期交流会バッジレース",
                   "grade": "OP",
-                  "finishPosition": 6
+                  "finishPosition": 1
                 }
               ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 4,
+              "horseId": "H000223",
+              "horseName": "ブラックジョーク",
+              "ownerName": "メデタイラー",
+              "jockeyName": "メデタイラー",
+              "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
@@ -100,18 +100,6 @@
             {
               "frameNumber": 5,
               "horseNumber": 5,
-              "horseId": "H000224",
-              "horseName": "レーゲンスピリット",
-              "ownerName": "雨乃ユウ",
-              "jockeyName": "小雨xiaoyu",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 6,
-              "horseNumber": 6,
               "horseId": "H000142",
               "horseName": "カナコイン",
               "ownerName": "東雲れいあ",
@@ -135,6 +123,38 @@
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 6,
+              "horseId": "H000214",
+              "horseName": "ルチカライトロード",
+              "ownerName": "YuyaKuga",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [
+                {
+                  "eventId": "20260812",
+                  "raceId": "R01",
+                  "raceName": "0812定期交流会バッジレース",
+                  "grade": "OP",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 7,
+              "horseId": "H000224",
+              "horseName": "レーゲンスピリット",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
             }
           ]
         },
@@ -153,18 +173,6 @@
             {
               "frameNumber": 1,
               "horseNumber": 1,
-              "horseId": "H000222",
-              "horseName": "ハリボテエレジー",
-              "ownerName": "結月アオバ",
-              "jockeyName": "雨乃ユウ",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 2,
-              "horseNumber": 2,
               "horseId": "H000210",
               "horseName": "アルカトラズ",
               "ownerName": "メデタイラー",
@@ -183,21 +191,25 @@
               "thirdCount": 0
             },
             {
+              "frameNumber": 2,
+              "horseNumber": 2,
+              "horseId": "H000224",
+              "horseName": "レーゲンスピリット",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
               "frameNumber": 3,
               "horseNumber": 3,
-              "horseId": "H000214",
-              "horseName": "ルチカライトロード",
-              "ownerName": "YuyaKuga",
-              "jockeyName": "YuyaKuga",
-              "previousRuns": [
-                {
-                  "eventId": "20260812",
-                  "raceId": "R01",
-                  "raceName": "0812定期交流会バッジレース",
-                  "grade": "OP",
-                  "finishPosition": 6
-                }
-              ],
+              "horseId": "H000222",
+              "horseName": "ハリボテエレジー",
+              "ownerName": "結月アオバ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
@@ -252,11 +264,19 @@
             {
               "frameNumber": 6,
               "horseNumber": 6,
-              "horseId": "H000224",
-              "horseName": "レーゲンスピリット",
-              "ownerName": "雨乃ユウ",
-              "jockeyName": "小雨xiaoyu",
-              "previousRuns": [],
+              "horseId": "H000214",
+              "horseName": "ルチカライトロード",
+              "ownerName": "YuyaKuga",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [
+                {
+                  "eventId": "20260812",
+                  "raceId": "R01",
+                  "raceName": "0812定期交流会バッジレース",
+                  "grade": "OP",
+                  "finishPosition": 6
+                }
+              ],
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
@@ -278,10 +298,10 @@
             {
               "frameNumber": 1,
               "horseNumber": 1,
-              "horseId": "H000192",
-              "horseName": "ナリタ",
+              "horseId": "H000193",
+              "horseName": "メイヘム",
               "ownerName": "えーすけ。A_S_K",
-              "jockeyName": "東雲れいあ",
+              "jockeyName": "雨乃ユウ",
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
@@ -290,29 +310,17 @@
             {
               "frameNumber": 2,
               "horseNumber": 2,
-              "horseId": "H000193",
-              "horseName": "メイヘム",
-              "ownerName": "えーすけ。A_S_K",
-              "jockeyName": "メデタイラー",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 3,
-              "horseNumber": 3,
-              "horseId": "H000211",
-              "horseName": "リインフォース",
-              "ownerName": "神威ルカ",
-              "jockeyName": "YuyaKuga",
+              "horseId": "H000139",
+              "horseName": "ナイトウィングス",
+              "ownerName": "yakisushi0619",
+              "jockeyName": "ねみぃさん",
               "previousRuns": [
                 {
-                  "eventId": "20260812",
-                  "raceId": "R01",
-                  "raceName": "0812定期交流会バッジレース",
-                  "grade": "OP",
-                  "finishPosition": 10
+                  "eventId": "20260808_01",
+                  "raceId": "R02",
+                  "raceName": "アサガオステークス",
+                  "grade": "",
+                  "finishPosition": 6
                 }
               ],
               "firstCount": 0,
@@ -320,12 +328,24 @@
               "thirdCount": 0
             },
             {
+              "frameNumber": 3,
+              "horseNumber": 3,
+              "horseId": "H000192",
+              "horseName": "ナリタ",
+              "ownerName": "えーすけ。A_S_K",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
               "frameNumber": 4,
               "horseNumber": 4,
-              "horseId": "H000207",
-              "horseName": "TowerOfLondoon",
-              "ownerName": "MEA.YZKR(メア）",
-              "jockeyName": "雨乃ユウ",
+              "horseId": "H000221",
+              "horseName": "ルナヘーゼル",
+              "ownerName": "神威ルカ",
+              "jockeyName": "メデタイラー",
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
@@ -334,10 +354,10 @@
             {
               "frameNumber": 5,
               "horseNumber": 5,
-              "horseId": "H000221",
-              "horseName": "ルナヘーゼル",
-              "ownerName": "神威ルカ",
-              "jockeyName": "ねみぃさん",
+              "horseId": "H000207",
+              "horseName": "TowerOfLondoon",
+              "ownerName": "MEA.YZKR(メア）",
+              "jockeyName": "YuyaKuga",
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
@@ -346,17 +366,17 @@
             {
               "frameNumber": 6,
               "horseNumber": 6,
-              "horseId": "H000139",
-              "horseName": "ナイトウィングス",
-              "ownerName": "yakisushi0619",
-              "jockeyName": "小雨xiaoyu",
+              "horseId": "H000211",
+              "horseName": "リインフォース",
+              "ownerName": "神威ルカ",
+              "jockeyName": "東雲れいあ",
               "previousRuns": [
                 {
-                  "eventId": "20260808_01",
-                  "raceId": "R02",
-                  "raceName": "アサガオステークス",
-                  "grade": "",
-                  "finishPosition": 6
+                  "eventId": "20260812",
+                  "raceId": "R01",
+                  "raceName": "0812定期交流会バッジレース",
+                  "grade": "OP",
+                  "finishPosition": 10
                 }
               ],
               "firstCount": 0,
@@ -1233,7 +1253,7 @@
           "timeLabel": "21:00 - 22:00",
           "location": "VRChat",
           "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "回答集計済",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -1246,7 +1266,7 @@
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース3 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "回答集計済"
+              "status": "公開済"
             },
             {
               "raceId": "R02",
@@ -1258,7 +1278,7 @@
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース2 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "回答集計済"
+              "status": "公開済"
             },
             {
               "raceId": "R03",
@@ -1270,7 +1290,7 @@
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "回答集計済"
+              "status": "公開済"
             }
           ]
         }
