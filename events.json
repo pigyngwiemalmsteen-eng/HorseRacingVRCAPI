@@ -1,10 +1,373 @@
 {
-  "schemaVersion": 3,
-  "generatedAt": "2026-08-13T23:48:29.296Z",
-  "generatedAtLabel": "2026/08/14 08:48",
+  "schemaVersion": 4,
+  "generatedAt": "2026-08-14T00:36:37.857Z",
+  "generatedAtLabel": "2026/08/14 09:36",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
+  "defaultRaceCardEventIndex": 0,
+  "raceCards": [
+    {
+      "eventId": "20260815",
+      "eventName": "8月 真夏のジャンボリー大波開催！",
+      "eventDate": "2026-08-15",
+      "eventDateLabel": "2026.08.15 土",
+      "startTime": "21:00",
+      "races": [
+        {
+          "eventId": "20260815",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "協賛募集 OP戦 第1レース",
+          "grade": "OP",
+          "track": "坂芝",
+          "course": "コース3",
+          "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000098",
+              "horseName": "ネミサンインパクト",
+              "ownerName": "ねみぃさん",
+              "jockeyName": "ねみぃさん",
+              "previousRuns": [
+                {
+                  "eventId": "20260808_01",
+                  "raceId": "R03",
+                  "raceName": "マリーゴールドステークス",
+                  "grade": "",
+                  "finishPosition": 9
+                },
+                {
+                  "eventId": "20260808_01",
+                  "raceId": "R02",
+                  "raceName": "アサガオステークス",
+                  "grade": "",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 2,
+              "horseId": "H000214",
+              "horseName": "ルチカライトロード",
+              "ownerName": "YuyaKuga",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [
+                {
+                  "eventId": "20260812",
+                  "raceId": "R01",
+                  "raceName": "0812定期交流会バッジレース",
+                  "grade": "OP",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 3,
+              "horseId": "H000225",
+              "horseName": "レーゲンキセキ",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 4,
+              "horseId": "H000223",
+              "horseName": "ブラックジョーク",
+              "ownerName": "メデタイラー",
+              "jockeyName": "メデタイラー",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 5,
+              "horseId": "H000142",
+              "horseName": "カナコイン",
+              "ownerName": "東雲れいあ",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [
+                {
+                  "eventId": "20260717",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル5R",
+                  "grade": "",
+                  "finishPosition": 5
+                },
+                {
+                  "eventId": "20260705",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル1R",
+                  "grade": "",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 6,
+              "horseId": "H000224",
+              "horseName": "レーゲンスピリット",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20260815",
+          "raceId": "R02",
+          "raceNumber": 2,
+          "raceNo": "2R",
+          "raceName": "協賛募集 OP戦 第2レース",
+          "grade": "OP",
+          "track": "坂芝",
+          "course": "コース2",
+          "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000224",
+              "horseName": "レーゲンスピリット",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 2,
+              "horseId": "H000222",
+              "horseName": "ハリボテエレジー",
+              "ownerName": "結月アオバ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 3,
+              "horseId": "H000098",
+              "horseName": "ネミサンインパクト",
+              "ownerName": "ねみぃさん",
+              "jockeyName": "ねみぃさん",
+              "previousRuns": [
+                {
+                  "eventId": "20260808_01",
+                  "raceId": "R03",
+                  "raceName": "マリーゴールドステークス",
+                  "grade": "",
+                  "finishPosition": 9
+                },
+                {
+                  "eventId": "20260808_01",
+                  "raceId": "R02",
+                  "raceName": "アサガオステークス",
+                  "grade": "",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 4,
+              "horseId": "H000210",
+              "horseName": "アルカトラズ",
+              "ownerName": "メデタイラー",
+              "jockeyName": "メデタイラー",
+              "previousRuns": [
+                {
+                  "eventId": "20260812",
+                  "raceId": "R01",
+                  "raceName": "0812定期交流会バッジレース",
+                  "grade": "OP",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 5,
+              "horseId": "H000131",
+              "horseName": "バカラナインエイト",
+              "ownerName": "kingnaka2357",
+              "jockeyName": "kingnaka2357",
+              "previousRuns": [
+                {
+                  "eventId": "20260808_01",
+                  "raceId": "R02",
+                  "raceName": "アサガオステークス",
+                  "grade": "",
+                  "finishPosition": 4
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 6,
+              "horseId": "H000214",
+              "horseName": "ルチカライトロード",
+              "ownerName": "YuyaKuga",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [
+                {
+                  "eventId": "20260812",
+                  "raceId": "R01",
+                  "raceName": "0812定期交流会バッジレース",
+                  "grade": "OP",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20260815",
+          "raceId": "R03",
+          "raceNumber": 3,
+          "raceNo": "3R",
+          "raceName": "協賛募集 GⅢ戦 第3レース",
+          "grade": "GⅢ",
+          "track": "坂芝",
+          "course": "コース1",
+          "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000139",
+              "horseName": "ナイトウィングス",
+              "ownerName": "yakisushi0619",
+              "jockeyName": "メデタイラー",
+              "previousRuns": [
+                {
+                  "eventId": "20260808_01",
+                  "raceId": "R02",
+                  "raceName": "アサガオステークス",
+                  "grade": "",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 2,
+              "horseId": "H000211",
+              "horseName": "リインフォース",
+              "ownerName": "神威ルカ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [
+                {
+                  "eventId": "20260812",
+                  "raceId": "R01",
+                  "raceName": "0812定期交流会バッジレース",
+                  "grade": "OP",
+                  "finishPosition": 10
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 3,
+              "horseId": "H000206",
+              "horseName": "Secretoriat",
+              "ownerName": "MEA.YZKR(メア）",
+              "jockeyName": "ねみぃさん",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 4,
+              "horseId": "H000192",
+              "horseName": "ナリタ",
+              "ownerName": "えーすけ。A_S_K",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 5,
+              "horseId": "H000207",
+              "horseName": "TowerOfLondoon",
+              "ownerName": "MEA.YZKR(メア）",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 6,
+              "horseId": "H000193",
+              "horseName": "メイヘム",
+              "ownerName": "えーすけ。A_S_K",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -91,7 +454,7 @@
           "title": "第一回レーティングバトル5R",
           "timeLabel": "22:00 - 22:15",
           "location": "",
-          "description": "",
+          "description": "参加登録は公式Webの募集レースページからご確認ください",
           "status": "枠順決定済",
           "officialManaged": true,
           "races": [
@@ -103,6 +466,7 @@
               "track": "平場芝",
               "course": "コース3",
               "condition": "なし",
+              "firstPrize": 0,
               "displayCondition": "平場芝 / コース3 / なし",
               "status": "枠順決定済"
             }
@@ -148,7 +512,7 @@
           "title": "第一回レーティングバトル6R",
           "timeLabel": "22:00 - 22:15",
           "location": "",
-          "description": "",
+          "description": "参加登録は公式Webの募集レースページからご確認ください",
           "status": "枠順決定済",
           "officialManaged": true,
           "races": [
@@ -160,6 +524,7 @@
               "track": "坂芝",
               "course": "コース4",
               "condition": "なし",
+              "firstPrize": 0,
               "displayCondition": "坂芝 / コース4 / なし",
               "status": "枠順決定済"
             }
@@ -216,7 +581,7 @@
           "title": "第一回レーティングバトル7R",
           "timeLabel": "22:00 - 22:15",
           "location": "",
-          "description": "",
+          "description": "参加登録は公式Webの募集レースページからご確認ください",
           "status": "枠順決定済",
           "officialManaged": true,
           "races": [
@@ -228,6 +593,7 @@
               "track": "ダート",
               "course": "コース2",
               "condition": "なし",
+              "firstPrize": 0,
               "displayCondition": "ダート / コース2 / なし",
               "status": "枠順決定済"
             }
@@ -297,6 +663,7 @@
               "track": "ダート",
               "course": "コース1",
               "condition": "騎手30勝以下・馬無条件 : ①騎手10勝以上 +2kg : ②trusted馬 +2kg : ③牡馬 +1kg",
+              "firstPrize": 0,
               "displayCondition": "ダート / コース1 / 騎手30勝以下・馬無条件 : ①騎手10勝以上 +2kg : ②trusted馬 +2kg : ③牡馬 +1kg",
               "status": "出走表作成済"
             },
@@ -308,6 +675,7 @@
               "track": "ダート",
               "course": "コース1",
               "condition": "騎手無条件・馬無条件: ①騎手30勝以上 +2kg : ②trusted馬 +2kg : ③牡馬 +1kg",
+              "firstPrize": 0,
               "displayCondition": "ダート / コース1 / 騎手無条件・馬無条件: ①騎手30勝以上 +2kg : ②trusted馬 +2kg : ③牡馬 +1kg",
               "status": "出走表作成済"
             },
@@ -319,6 +687,7 @@
               "track": "ダート",
               "course": "コース1",
               "condition": "騎手無条件・馬無条件 ハンデ無し",
+              "firstPrize": 0,
               "displayCondition": "ダート / コース1 / 騎手無条件・馬無条件 ハンデ無し",
               "status": "出走表作成済"
             }
@@ -399,6 +768,7 @@
               "track": "平場芝",
               "course": "コース1",
               "condition": "みみのこ限定。漢字あり。一部騎手にハンデあり。",
+              "firstPrize": 0,
               "displayCondition": "平場芝 / コース1 / みみのこ限定。漢字あり。一部騎手にハンデあり。",
               "status": "出走表作成済"
             },
@@ -410,6 +780,7 @@
               "track": "平場芝",
               "course": "コース1",
               "condition": "みみのこ限定。漢字あり。一部騎手にハンデあり。",
+              "firstPrize": 0,
               "displayCondition": "平場芝 / コース1 / みみのこ限定。漢字あり。一部騎手にハンデあり。",
               "status": "出走表作成済"
             }
@@ -546,6 +917,7 @@
               "track": "平場芝",
               "course": "コース1",
               "condition": "騎手無条件・馬無条件 ①緑バッジ所持+3kg ②銅・銀バッジ所持+5kg",
+              "firstPrize": 0,
               "displayCondition": "平場芝 / コース1 / 騎手無条件・馬無条件 ①緑バッジ所持+3kg ②銅・銀バッジ所持+5kg",
               "status": "回答集計済"
             }
@@ -626,6 +998,7 @@
               "track": "坂芝",
               "course": "コース1",
               "condition": "条件無",
+              "firstPrize": 240,
               "displayCondition": "坂芝 / コース1 / 条件無",
               "status": "回答集計済"
             }
@@ -649,6 +1022,7 @@
               "track": "平場芝",
               "course": "コース3",
               "condition": "ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
+              "firstPrize": 0,
               "displayCondition": "平場芝 / コース3 / ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
               "status": "出走表作成済"
             },
@@ -660,6 +1034,7 @@
               "track": "ダート",
               "course": "コース1",
               "condition": "ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
+              "firstPrize": 0,
               "displayCondition": "ダート / コース1 / ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
               "status": "出走表作成済"
             },
@@ -671,6 +1046,7 @@
               "track": "坂芝",
               "course": "コース2",
               "condition": "ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
+              "firstPrize": 0,
               "displayCondition": "坂芝 / コース2 / ハンデ戦：①30勝以上+3kg②50勝以上+5kg",
               "status": "出走表作成済"
             }
@@ -717,6 +1093,7 @@
               "track": "坂芝",
               "course": "コース2",
               "condition": "賞金50万 で斤量 +1kg",
+              "firstPrize": 240,
               "displayCondition": "坂芝 / コース2 / 賞金50万 で斤量 +1kg",
               "status": "公開済"
             },
@@ -728,6 +1105,7 @@
               "track": "坂芝",
               "course": "コース2",
               "condition": "無条件",
+              "firstPrize": 450,
               "displayCondition": "坂芝 / コース2 / 無条件",
               "status": "公開済"
             }
@@ -784,7 +1162,7 @@
           "title": "0812定期交流会バッジレース",
           "timeLabel": "23:00 - 23:15",
           "location": "",
-          "description": "",
+          "description": "参加登録は公式Webの募集レースページからご確認ください",
           "status": "出走表作成済",
           "officialManaged": true,
           "races": [
@@ -796,6 +1174,7 @@
               "track": "坂芝",
               "course": "コース1",
               "condition": "①騎手10勝以上 +2㎏　30勝以上 +5㎏",
+              "firstPrize": 0,
               "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +2㎏　30勝以上 +5㎏",
               "status": "出走表作成済"
             }
@@ -865,6 +1244,7 @@
               "track": "坂芝",
               "course": "コース3",
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+              "firstPrize": 0,
               "displayCondition": "坂芝 / コース3 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "status": "マッチング案作成済"
             },
@@ -876,6 +1256,7 @@
               "track": "坂芝",
               "course": "コース2",
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+              "firstPrize": 0,
               "displayCondition": "坂芝 / コース2 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "status": "マッチング案作成済"
             },
@@ -887,6 +1268,7 @@
               "track": "坂芝",
               "course": "コース1",
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
+              "firstPrize": 0,
               "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "status": "マッチング案作成済"
             }
