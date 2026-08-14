@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-14T00:36:37.857Z",
-  "generatedAtLabel": "2026/08/14 09:36",
+  "generatedAt": "2026-08-14T00:44:42.170Z",
+  "generatedAtLabel": "2026/08/14 09:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1233,7 +1233,7 @@
           "timeLabel": "21:00 - 22:00",
           "location": "VRChat",
           "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "マッチング案作成済",
+          "status": "回答集計済",
           "officialManaged": true,
           "races": [
             {
@@ -1246,7 +1246,7 @@
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース3 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "マッチング案作成済"
+              "status": "回答集計済"
             },
             {
               "raceId": "R02",
@@ -1258,7 +1258,7 @@
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース2 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "マッチング案作成済"
+              "status": "回答集計済"
             },
             {
               "raceId": "R03",
@@ -1270,7 +1270,7 @@
               "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "マッチング案作成済"
+              "status": "回答集計済"
             }
           ]
         }
