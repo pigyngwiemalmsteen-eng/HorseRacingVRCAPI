@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-14T14:44:41.638Z",
-  "generatedAtLabel": "2026/08/14 23:44",
+  "generatedAt": "2026-08-14T15:44:40.898Z",
+  "generatedAtLabel": "2026/08/15 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1219,8 +1219,8 @@
       "dateLabel": "8月14日（金）",
       "dayNumber": "14",
       "weekday": "金",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
         {
@@ -1242,7 +1242,7 @@
       "dateLabel": "8月15日（土）",
       "dayNumber": "15",
       "weekday": "土",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 22:00 【仮想中央競馬会】8月 真夏のジャンボリー大波開催！",
       "events": [
