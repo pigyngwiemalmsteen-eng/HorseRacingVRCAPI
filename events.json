@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-15T16:44:42.386Z",
-  "generatedAtLabel": "2026/08/16 01:44",
+  "generatedAt": "2026-08-15T17:44:40.352Z",
+  "generatedAtLabel": "2026/08/16 02:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -51,7 +51,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -62,7 +62,7 @@
               "jockeyName": "雨乃ユウ",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -140,8 +140,8 @@
                   "finishPosition": 6
                 }
               ],
-              "firstCount": 0,
-              "secondCount": 0,
+              "firstCount": 1,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -154,7 +154,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             }
           ]
         },
@@ -197,10 +197,18 @@
               "horseName": "レーゲンスピリット",
               "ownerName": "雨乃ユウ",
               "jockeyName": "小雨xiaoyu",
-              "previousRuns": [],
+              "previousRuns": [
+                {
+                  "eventId": "20260815",
+                  "raceId": "R01",
+                  "raceName": "真夏のジャンボリー第1 レース",
+                  "grade": "OP",
+                  "finishPosition": 3
+                }
+              ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 3,
@@ -223,6 +231,13 @@
               "jockeyName": "ねみぃさん",
               "previousRuns": [
                 {
+                  "eventId": "20260815",
+                  "raceId": "R01",
+                  "raceName": "真夏のジャンボリー第1 レース",
+                  "grade": "OP",
+                  "finishPosition": 5
+                },
+                {
                   "eventId": "20260808_01",
                   "raceId": "R03",
                   "raceName": "マリーゴールドステークス",
@@ -239,7 +254,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -257,7 +272,7 @@
                   "finishPosition": 4
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -270,6 +285,13 @@
               "jockeyName": "YuyaKuga",
               "previousRuns": [
                 {
+                  "eventId": "20260815",
+                  "raceId": "R01",
+                  "raceName": "真夏のジャンボリー第1 レース",
+                  "grade": "OP",
+                  "finishPosition": 1
+                },
+                {
                   "eventId": "20260812",
                   "raceId": "R01",
                   "raceName": "0812定期交流会バッジレース",
@@ -277,8 +299,8 @@
                   "finishPosition": 6
                 }
               ],
-              "firstCount": 0,
-              "secondCount": 0,
+              "firstCount": 1,
+              "secondCount": 1,
               "thirdCount": 0
             }
           ]
@@ -305,7 +327,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -348,7 +370,7 @@
               "jockeyName": "メデタイラー",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -359,7 +381,7 @@
               "ownerName": "MEA.YZKR(メア）",
               "jockeyName": "YuyaKuga",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
