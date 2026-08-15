@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-15T14:44:40.685Z",
-  "generatedAtLabel": "2026/08/15 23:44",
+  "generatedAt": "2026-08-15T15:44:41.032Z",
+  "generatedAtLabel": "2026/08/16 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1242,8 +1242,8 @@
       "dateLabel": "8月15日（土）",
       "dayNumber": "15",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 【仮想中央競馬会】8月 真夏のジャンボリー大波開催！",
       "events": [
         {
@@ -1302,7 +1302,7 @@
       "dateLabel": "8月16日（日）",
       "dayNumber": "16",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 22:00 【みみのこダービー外伝】 ほか1件",
       "events": [
