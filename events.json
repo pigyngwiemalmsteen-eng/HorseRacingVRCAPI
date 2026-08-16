@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-16T04:45:06.569Z",
-  "generatedAtLabel": "2026/08/16 13:45",
+  "generatedAt": "2026-08-16T05:44:43.904Z",
+  "generatedAtLabel": "2026/08/16 14:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -270,11 +270,18 @@
                   "raceName": "アサガオステークス",
                   "grade": "",
                   "finishPosition": 4
+                },
+                {
+                  "eventId": "20260726",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル8R",
+                  "grade": "OP",
+                  "finishPosition": 3
                 }
               ],
               "firstCount": 1,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 6,
@@ -368,7 +375,15 @@
               "horseName": "ルナヘーゼル",
               "ownerName": "神威ルカ",
               "jockeyName": "メデタイラー",
-              "previousRuns": [],
+              "previousRuns": [
+                {
+                  "eventId": "20260726",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル8R",
+                  "grade": "OP",
+                  "finishPosition": 5
+                }
+              ],
               "firstCount": 0,
               "secondCount": 1,
               "thirdCount": 0
@@ -745,7 +760,7 @@
       "weekday": "日",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "eventSummary": "21:00 - 22:00 初心者向け交流会 ほか1件",
       "events": [
         {
           "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
@@ -757,6 +772,30 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260726",
+          "title": "第一回レーティングバトル8R",
+          "timeLabel": "22:00 - 22:15",
+          "location": "",
+          "description": "参加登録は公式Webの募集レースページからご確認ください",
+          "status": "枠順決定済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "第一回レーティングバトル8R",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース2",
+              "condition": "なし",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース2 / なし",
+              "status": "枠順決定済"
+            }
+          ]
         }
       ]
     },
