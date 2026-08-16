@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T23:02:00.046Z",
-  "generatedAtLabel": "2026/08/17 08:02",
+  "generatedAt": "2026-08-16T23:31:39.286Z",
+  "generatedAtLabel": "2026/08/17 08:31",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -89,5 +89,28 @@
     "明智ナオユキ",
     "风须sayuri"
   ],
-  "races": []
+  "races": [
+    {
+      "eventId": "20260817",
+      "eventName": "ワールド内登録テスト",
+      "eventDate": "2026-08-17",
+      "eventDateLabel": "2026/08/17 12:00",
+      "deadline": "2026-08-17T05:00:00.000Z",
+      "deadlineLabel": "2026/08/17 14:00",
+      "raceId": "R01",
+      "raceNo": 1,
+      "raceNoLabel": "1R",
+      "raceName": "ワールド内登録テストレース",
+      "grade": "OP",
+      "trackType": "平場芝",
+      "course": "コース2",
+      "entryCondition": "全員斤量5",
+      "maxEntries": 12,
+      "racehorseOnly": false,
+      "racehorseEventId": "",
+      "firstPrize": 0,
+      "firstPrizeLabel": "",
+      "applicationType": "normalSet"
+    }
+  ]
 }
