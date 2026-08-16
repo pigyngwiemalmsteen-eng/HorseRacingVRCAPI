@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-16T05:44:43.904Z",
-  "generatedAtLabel": "2026/08/16 14:44",
+  "generatedAt": "2026-08-16T06:44:40.834Z",
+  "generatedAtLabel": "2026/08/16 15:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -120,7 +120,7 @@
                   "finishPosition": 7
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -829,7 +829,7 @@
       "weekday": "水",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "22:00 - 23:30 【仮想中央競馬会】第二回ミミノコダービー ほか1件",
+      "eventSummary": "22:00 - 23:30 【仮想中央競馬会】第二回ミミノコダービー ほか2件",
       "events": [
         {
           "calendarEventId": "nt6l06h1h0oim1srcc7t3m9gvc@google.com",
@@ -877,6 +877,30 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260729_1",
+          "title": "第一回レーティングバトル9R",
+          "timeLabel": "22:00 - 22:15",
+          "location": "",
+          "description": "参加登録は公式Webの募集レースページからご確認ください",
+          "status": "枠順決定済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "第一回レーティングバトル9R",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース1",
+              "condition": "なし",
+              "firstPrize": 0,
+              "displayCondition": "坂芝 / コース1 / なし",
+              "status": "枠順決定済"
+            }
+          ]
         }
       ]
     },
@@ -922,8 +946,33 @@
       "weekday": "土",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "22:00 - 22:15 第一回レーティングバトル10R",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20260801",
+          "title": "第一回レーティングバトル10R",
+          "timeLabel": "22:00 - 22:15",
+          "location": "",
+          "description": "参加登録は公式Webの募集レースページからご確認ください",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "第一回レーティングバトル10R",
+              "grade": "OP",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "なし",
+              "firstPrize": 0,
+              "displayCondition": "ダート / コース1 / なし",
+              "status": "募集中"
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-08-02",
