@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-16T14:44:40.953Z",
-  "generatedAtLabel": "2026/08/16 23:44",
+  "generatedAt": "2026-08-16T15:44:41.533Z",
+  "generatedAtLabel": "2026/08/17 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -515,167 +515,6 @@
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
-    {
-      "dateKey": "2026-07-13",
-      "displayDate": "2026.07.13",
-      "dateLabel": "7月13日（月）",
-      "dayNumber": "13",
-      "weekday": "月",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-07-14",
-      "displayDate": "2026.07.14",
-      "dateLabel": "7月14日（火）",
-      "dayNumber": "14",
-      "weekday": "火",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-07-15",
-      "displayDate": "2026.07.15",
-      "dateLabel": "7月15日（水）",
-      "dayNumber": "15",
-      "weekday": "水",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "22:00 - 23:00 定期交流会",
-      "events": [
-        {
-          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
-          "eventId": "",
-          "title": "定期交流会",
-          "timeLabel": "22:00 - 23:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-07-16",
-      "displayDate": "2026.07.16",
-      "dateLabel": "7月16日（木）",
-      "dayNumber": "16",
-      "weekday": "木",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-07-17",
-      "displayDate": "2026.07.17",
-      "dateLabel": "7月17日（金）",
-      "dayNumber": "17",
-      "weekday": "金",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会 ほか1件",
-      "events": [
-        {
-          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        },
-        {
-          "calendarEventId": "",
-          "eventId": "20260717",
-          "title": "第一回レーティングバトル5R",
-          "timeLabel": "22:00 - 22:15",
-          "location": "",
-          "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "枠順決定済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "第一回レーティングバトル5R",
-              "grade": "OP",
-              "track": "平場芝",
-              "course": "コース3",
-              "condition": "なし",
-              "firstPrize": 0,
-              "displayCondition": "平場芝 / コース3 / なし",
-              "status": "枠順決定済"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-07-18",
-      "displayDate": "2026.07.18",
-      "dateLabel": "7月18日（土）",
-      "dayNumber": "18",
-      "weekday": "土",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-07-19",
-      "displayDate": "2026.07.19",
-      "dateLabel": "7月19日（日）",
-      "dayNumber": "19",
-      "weekday": "日",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会 ほか1件",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        },
-        {
-          "calendarEventId": "",
-          "eventId": "20260719",
-          "title": "第一回レーティングバトル6R",
-          "timeLabel": "22:00 - 22:15",
-          "location": "",
-          "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "枠順決定済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "第一回レーティングバトル6R",
-              "grade": "OP",
-              "track": "坂芝",
-              "course": "コース4",
-              "condition": "なし",
-              "firstPrize": 0,
-              "displayCondition": "坂芝 / コース4 / なし",
-              "status": "枠順決定済"
-            }
-          ]
-        }
-      ]
-    },
     {
       "dateKey": "2026-07-20",
       "displayDate": "2026.07.20",
@@ -1596,8 +1435,8 @@
       "dateLabel": "8月16日（日）",
       "dayNumber": "16",
       "weekday": "日",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 【みみのこダービー外伝】 ほか1件",
       "events": [
         {
@@ -1630,7 +1469,7 @@
       "dateLabel": "8月17日（月）",
       "dayNumber": "17",
       "weekday": "月",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
@@ -2397,6 +2236,119 @@
       "displayDate": "2026.10.04",
       "dateLabel": "10月4日（日）",
       "dayNumber": "4",
+      "weekday": "日",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-10-05",
+      "displayDate": "2026.10.05",
+      "dateLabel": "10月5日（月）",
+      "dayNumber": "5",
+      "weekday": "月",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-10-06",
+      "displayDate": "2026.10.06",
+      "dateLabel": "10月6日（火）",
+      "dayNumber": "6",
+      "weekday": "火",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-10-07",
+      "displayDate": "2026.10.07",
+      "dateLabel": "10月7日（水）",
+      "dayNumber": "7",
+      "weekday": "水",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-10-08",
+      "displayDate": "2026.10.08",
+      "dateLabel": "10月8日（木）",
+      "dayNumber": "8",
+      "weekday": "木",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-10-09",
+      "displayDate": "2026.10.09",
+      "dateLabel": "10月9日（金）",
+      "dayNumber": "9",
+      "weekday": "金",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-10-10",
+      "displayDate": "2026.10.10",
+      "dateLabel": "10月10日（土）",
+      "dayNumber": "10",
+      "weekday": "土",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-10-11",
+      "displayDate": "2026.10.11",
+      "dateLabel": "10月11日（日）",
+      "dayNumber": "11",
       "weekday": "日",
       "isToday": false,
       "isPast": false,
