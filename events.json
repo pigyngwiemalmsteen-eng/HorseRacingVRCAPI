@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-16T08:44:43.187Z",
-  "generatedAtLabel": "2026/08/16 17:44",
+  "generatedAt": "2026-08-16T09:44:41.124Z",
+  "generatedAtLabel": "2026/08/16 18:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -92,10 +92,18 @@
               "horseName": "ブラックジョーク",
               "ownerName": "メデタイラー",
               "jockeyName": "メデタイラー",
-              "previousRuns": [],
+              "previousRuns": [
+                {
+                  "eventId": "20260811",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル13R",
+                  "grade": "OP",
+                  "finishPosition": 3
+                }
+              ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -145,6 +153,13 @@
                   "raceName": "0812定期交流会バッジレース",
                   "grade": "OP",
                   "finishPosition": 6
+                },
+                {
+                  "eventId": "20260811",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル13R",
+                  "grade": "OP",
+                  "finishPosition": 4
                 }
               ],
               "firstCount": 1,
@@ -158,8 +173,16 @@
               "horseName": "レーゲンスピリット",
               "ownerName": "雨乃ユウ",
               "jockeyName": "小雨xiaoyu",
-              "previousRuns": [],
-              "firstCount": 0,
+              "previousRuns": [
+                {
+                  "eventId": "20260811",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル13R",
+                  "grade": "OP",
+                  "finishPosition": 1
+                }
+              ],
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             }
@@ -211,9 +234,16 @@
                   "raceName": "真夏のジャンボリー第1 レース",
                   "grade": "OP",
                   "finishPosition": 3
+                },
+                {
+                  "eventId": "20260811",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル13R",
+                  "grade": "OP",
+                  "finishPosition": 1
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             },
@@ -318,6 +348,13 @@
                   "raceName": "0812定期交流会バッジレース",
                   "grade": "OP",
                   "finishPosition": 6
+                },
+                {
+                  "eventId": "20260811",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル13R",
+                  "grade": "OP",
+                  "finishPosition": 4
                 }
               ],
               "firstCount": 1,
@@ -405,6 +442,13 @@
               "jockeyName": "メデタイラー",
               "previousRuns": [
                 {
+                  "eventId": "20260811",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル13R",
+                  "grade": "OP",
+                  "finishPosition": 8
+                },
+                {
                   "eventId": "20260809_1",
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル12R",
@@ -417,13 +461,6 @@
                   "raceName": "第一回レーティングバトル11R",
                   "grade": "OP",
                   "finishPosition": 8
-                },
-                {
-                  "eventId": "20260801",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル10R",
-                  "grade": "OP",
-                  "finishPosition": 3
                 }
               ],
               "firstCount": 0,
@@ -1361,7 +1398,7 @@
           "timeLabel": "22:00 - 22:15",
           "location": "",
           "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "募集中",
+          "status": "枠順決定済",
           "officialManaged": true,
           "races": [
             {
@@ -1374,7 +1411,7 @@
               "condition": "なし",
               "firstPrize": 0,
               "displayCondition": "ダート / コース2 / なし",
-              "status": "募集中"
+              "status": "枠順決定済"
             }
           ]
         }
@@ -1469,7 +1506,7 @@
       "weekday": "土",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "21:00 - 22:00 【仮想中央競馬会】8月 真夏のジャンボリー大波開催！",
+      "eventSummary": "21:00 - 22:00 【仮想中央競馬会】8月 真夏のジャンボリー大波開催！ ほか1件",
       "events": [
         {
           "calendarEventId": "mmf5barug6sf4dcvmnvv7kr7sg@google.com",
@@ -1516,6 +1553,30 @@
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
               "status": "公開済"
+            }
+          ]
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260815_1",
+          "title": "第一回レーティングバトル13R",
+          "timeLabel": "22:00 - 22:15",
+          "location": "",
+          "description": "参加登録は公式Webの募集レースページからご確認ください",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "第一回レーティングバトル14R",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース4",
+              "condition": "なし",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース4 / なし",
+              "status": "募集中"
             }
           ]
         }
