@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-16T06:44:40.834Z",
-  "generatedAtLabel": "2026/08/16 15:44",
+  "generatedAt": "2026-08-16T07:44:40.919Z",
+  "generatedAtLabel": "2026/08/16 16:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -105,6 +105,13 @@
               "ownerName": "東雲れいあ",
               "jockeyName": "東雲れいあ",
               "previousRuns": [
+                {
+                  "eventId": "20260729_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル9R",
+                  "grade": "OP",
+                  "finishPosition": 1
+                },
                 {
                   "eventId": "20260717",
                   "raceId": "R01",
@@ -272,6 +279,13 @@
                   "finishPosition": 4
                 },
                 {
+                  "eventId": "20260801",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル10R",
+                  "grade": "OP",
+                  "finishPosition": 11
+                },
+                {
                   "eventId": "20260726",
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル8R",
@@ -350,6 +364,13 @@
                   "raceName": "アサガオステークス",
                   "grade": "",
                   "finishPosition": 6
+                },
+                {
+                  "eventId": "20260801",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル10R",
+                  "grade": "OP",
+                  "finishPosition": 4
                 }
               ],
               "firstCount": 0,
@@ -377,6 +398,13 @@
               "jockeyName": "メデタイラー",
               "previousRuns": [
                 {
+                  "eventId": "20260801",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル10R",
+                  "grade": "OP",
+                  "finishPosition": 3
+                },
+                {
                   "eventId": "20260726",
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル8R",
@@ -386,7 +414,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -955,7 +983,7 @@
           "timeLabel": "22:00 - 22:15",
           "location": "",
           "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "募集中",
+          "status": "枠順決定済",
           "officialManaged": true,
           "races": [
             {
@@ -968,7 +996,7 @@
               "condition": "なし",
               "firstPrize": 0,
               "displayCondition": "ダート / コース1 / なし",
-              "status": "募集中"
+              "status": "枠順決定済"
             }
           ]
         }
@@ -1027,7 +1055,7 @@
       "weekday": "水",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】定期交流会ハンデ戦 ほか1件",
+      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】定期交流会ハンデ戦 ほか2件",
       "events": [
         {
           "calendarEventId": "9pl7qbggattvfc8bk02lvkv2dk@google.com",
@@ -1063,6 +1091,30 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260805_1",
+          "title": "第一回レーティングバトル11R",
+          "timeLabel": "22:00 - 22:15",
+          "location": "",
+          "description": "参加登録は公式Webの募集レースページからご確認ください",
+          "status": "回答集計済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "第一回レーティングバトル11R",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "なし",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース1 / なし",
+              "status": "回答集計済"
+            }
+          ]
         }
       ]
     },
