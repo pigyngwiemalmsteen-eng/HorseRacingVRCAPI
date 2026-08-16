@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-16T09:44:41.124Z",
-  "generatedAtLabel": "2026/08/16 18:44",
+  "generatedAt": "2026-08-16T10:44:43.833Z",
+  "generatedAtLabel": "2026/08/16 19:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -163,7 +163,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -254,7 +254,15 @@
               "horseName": "ハリボテエレジー",
               "ownerName": "結月アオバ",
               "jockeyName": "雨乃ユウ",
-              "previousRuns": [],
+              "previousRuns": [
+                {
+                  "eventId": "20260815_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル14R",
+                  "grade": "OP",
+                  "finishPosition": 11
+                }
+              ],
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
@@ -343,22 +351,22 @@
                   "finishPosition": 1
                 },
                 {
+                  "eventId": "20260815_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル14R",
+                  "grade": "OP",
+                  "finishPosition": 2
+                },
+                {
                   "eventId": "20260812",
                   "raceId": "R01",
                   "raceName": "0812定期交流会バッジレース",
                   "grade": "OP",
                   "finishPosition": 6
-                },
-                {
-                  "eventId": "20260811",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル13R",
-                  "grade": "OP",
-                  "finishPosition": 4
                 }
               ],
               "firstCount": 1,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             }
           ]
@@ -1559,11 +1567,11 @@
         {
           "calendarEventId": "",
           "eventId": "20260815_1",
-          "title": "第一回レーティングバトル13R",
+          "title": "第一回レーティングバトル14R",
           "timeLabel": "22:00 - 22:15",
           "location": "",
           "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "募集中",
+          "status": "枠順決定済",
           "officialManaged": true,
           "races": [
             {
@@ -1576,7 +1584,7 @@
               "condition": "なし",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース4 / なし",
-              "status": "募集中"
+              "status": "枠順決定済"
             }
           ]
         }
