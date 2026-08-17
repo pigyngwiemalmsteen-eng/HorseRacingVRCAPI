@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-17T11:44:41.254Z",
-  "generatedAtLabel": "2026/08/17 20:44",
+  "generatedAt": "2026-08-17T12:44:42.073Z",
+  "generatedAtLabel": "2026/08/17 21:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -966,33 +966,8 @@
       "weekday": "月",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "12:00 - 13:00 ワールド内登録テスト",
-      "events": [
-        {
-          "calendarEventId": "",
-          "eventId": "20260817",
-          "title": "ワールド内登録テスト",
-          "timeLabel": "12:00 - 13:00",
-          "location": "",
-          "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "募集中",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "ワールド内登録テストレース",
-              "grade": "OP",
-              "track": "平場芝",
-              "course": "コース2",
-              "condition": "全員斤量5",
-              "firstPrize": 0,
-              "displayCondition": "平場芝 / コース2 / 全員斤量5",
-              "status": "募集中"
-            }
-          ]
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-08-18",
