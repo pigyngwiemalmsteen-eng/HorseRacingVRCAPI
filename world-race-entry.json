@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T12:40:24.601Z",
-  "generatedAtLabel": "2026/08/17 21:40",
+  "generatedAt": "2026-08-17T13:28:52.821Z",
+  "generatedAtLabel": "2026/08/17 22:28",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -85,5 +85,50 @@
     "明智ナオユキ",
     "风须sayuri"
   ],
-  "races": []
+  "races": [
+    {
+      "eventId": "20260817",
+      "eventName": "test",
+      "eventDate": "2026-08-17",
+      "eventDateLabel": "2026/08/17 22:45",
+      "deadline": "2026-08-17T14:00:00.000Z",
+      "deadlineLabel": "2026/08/17 23:00",
+      "raceId": "R01",
+      "raceNo": 1,
+      "raceNoLabel": "1R",
+      "raceName": "test1",
+      "grade": "OP",
+      "trackType": "ダート",
+      "course": "コース1",
+      "entryCondition": "new user",
+      "maxEntries": 18,
+      "racehorseOnly": false,
+      "racehorseEventId": "",
+      "firstPrize": 0,
+      "firstPrizeLabel": "",
+      "applicationType": "normalSet"
+    },
+    {
+      "eventId": "20260817",
+      "eventName": "test",
+      "eventDate": "2026-08-17",
+      "eventDateLabel": "2026/08/17 22:45",
+      "deadline": "2026-08-17T14:00:00.000Z",
+      "deadlineLabel": "2026/08/17 23:00",
+      "raceId": "R02",
+      "raceNo": 2,
+      "raceNoLabel": "2R",
+      "raceName": "test2",
+      "grade": "OP",
+      "trackType": "ダート",
+      "course": "コース2",
+      "entryCondition": "new user",
+      "maxEntries": 18,
+      "racehorseOnly": false,
+      "racehorseEventId": "",
+      "firstPrize": 0,
+      "firstPrizeLabel": "",
+      "applicationType": "normalSet"
+    }
+  ]
 }
