@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-17T14:52:35.787Z",
-  "generatedAtLabel": "2026/08/17 23:52",
+  "generatedAt": "2026-08-17T15:07:40.883Z",
+  "generatedAtLabel": "2026/08/18 00:07",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -964,8 +964,8 @@
       "dateLabel": "8月17日（月）",
       "dayNumber": "17",
       "weekday": "月",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "予定なし",
       "events": []
     },
@@ -975,10 +975,35 @@
       "dateLabel": "8月18日（火）",
       "dayNumber": "18",
       "weekday": "火",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "01:00 - 02:00 08月18日 公式レース開催",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20260818",
+          "title": "08月18日 公式レース開催",
+          "timeLabel": "01:00 - 02:00",
+          "location": "",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "08月18日 公式レース 第1R",
+              "grade": "OP",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "ダート / コース1",
+              "status": "募集中"
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-08-19",
