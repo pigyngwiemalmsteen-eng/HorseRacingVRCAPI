@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-17T16:00:18.318Z",
-  "generatedAtLabel": "2026/08/18 01:00",
+  "generatedAt": "2026-08-17T16:44:41.807Z",
+  "generatedAtLabel": "2026/08/18 01:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -34,7 +34,7 @@
               "ownerName": "小雨xiaoyu",
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -59,7 +59,7 @@
               "jockeyName": "こっすー",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -111,7 +111,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             }
           ]
         }
