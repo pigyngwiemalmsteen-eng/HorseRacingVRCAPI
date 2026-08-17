@@ -1,12 +1,123 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-17T15:46:49.277Z",
-  "generatedAtLabel": "2026/08/18 00:46",
+  "generatedAt": "2026-08-17T15:58:28.284Z",
+  "generatedAtLabel": "2026/08/18 00:58",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
   "defaultRaceCardEventIndex": 0,
-  "raceCards": [],
+  "raceCards": [
+    {
+      "eventId": "20260818",
+      "eventName": "08月18日 公式レース開催",
+      "eventDate": "2026-08-18",
+      "eventDateLabel": "2026.08.18 火",
+      "startTime": "01:00",
+      "races": [
+        {
+          "eventId": "20260818",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "08月18日 公式レース 第1R",
+          "grade": "OP",
+          "track": "ダート",
+          "course": "コース1",
+          "condition": "",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000255",
+              "horseName": "ナスダレλ",
+              "ownerName": "小雨xiaoyu",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 2,
+              "horseId": "H000252",
+              "horseName": "チノカツボウ§",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "SHINSHI0080",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 3,
+              "horseId": "H000254",
+              "horseName": "コスノレップウΦ",
+              "ownerName": "こっすー",
+              "jockeyName": "こっすー",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 4,
+              "horseId": "H000256",
+              "horseName": "ルナヘーゼルλ",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 5,
+              "horseId": "H000185",
+              "horseName": "ウラギリノコルク",
+              "ownerName": "コントキ",
+              "jockeyName": "コントキ",
+              "previousRuns": [
+                {
+                  "eventId": "20260801",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル10R",
+                  "grade": "OP",
+                  "finishPosition": 7
+                },
+                {
+                  "eventId": "20260711_01",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル4R",
+                  "grade": "",
+                  "finishPosition": 8
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 6,
+              "horseId": "H000253",
+              "horseName": "レーゲンジュネ",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -986,7 +1097,7 @@
           "timeLabel": "01:00 - 02:00",
           "location": "",
           "description": "",
-          "status": "募集中",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -999,7 +1110,7 @@
               "condition": "",
               "firstPrize": 0,
               "displayCondition": "ダート / コース1",
-              "status": "募集中"
+              "status": "出走表作成済"
             }
           ]
         }
