@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-19T13:44:41.146Z",
-  "generatedAtLabel": "2026/08/19 22:44",
+  "generatedAt": "2026-08-19T14:44:42.187Z",
+  "generatedAtLabel": "2026/08/19 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1486,8 +1486,20 @@
       "weekday": "木",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:00 - 22:00 第三回みみのこダービー",
+      "events": [
+        {
+          "calendarEventId": "3jh0t3l7jsa3paq1ai9munp3d8@google.com",
+          "eventId": "",
+          "title": "第三回みみのこダービー",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "description": "みみのこ達のダービー企画！\n１万馬で世代の頂点をめざせ！！\n企画 懐かしのアンタレス",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-09-11",
