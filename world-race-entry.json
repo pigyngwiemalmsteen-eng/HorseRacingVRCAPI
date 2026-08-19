@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T08:40:17.465Z",
-  "generatedAtLabel": "2026/08/19 17:40",
+  "generatedAt": "2026-08-19T09:40:17.410Z",
+  "generatedAtLabel": "2026/08/19 18:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
