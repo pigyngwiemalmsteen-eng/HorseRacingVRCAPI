@@ -1,123 +1,12 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-19T15:41:57.553Z",
-  "generatedAtLabel": "2026/08/20 00:41",
+  "generatedAt": "2026-08-20T13:31:57.160Z",
+  "generatedAtLabel": "2026/08/20 22:31",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
   "defaultRaceCardEventIndex": 0,
-  "raceCards": [
-    {
-      "eventId": "20260818",
-      "eventName": "08月18日 公式レース開催",
-      "eventDate": "2026-08-18",
-      "eventDateLabel": "2026.08.18 火",
-      "startTime": "01:00",
-      "races": [
-        {
-          "eventId": "20260818",
-          "raceId": "R01",
-          "raceNumber": 1,
-          "raceNo": "1R",
-          "raceName": "08月18日 公式レース 第1R",
-          "grade": "OP",
-          "track": "ダート",
-          "course": "コース1",
-          "condition": "",
-          "firstPrize": 0,
-          "entries": [
-            {
-              "frameNumber": 1,
-              "horseNumber": 1,
-              "horseId": "H000255",
-              "horseName": "ナスダレλ",
-              "ownerName": "小雨xiaoyu",
-              "jockeyName": "小雨xiaoyu",
-              "previousRuns": [],
-              "firstCount": 1,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 2,
-              "horseNumber": 2,
-              "horseId": "H000252",
-              "horseName": "チノカツボウ§",
-              "ownerName": "SHINSHI0080",
-              "jockeyName": "SHINSHI0080",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 3,
-              "horseNumber": 3,
-              "horseId": "H000254",
-              "horseName": "コスノレップウΦ",
-              "ownerName": "こっすー",
-              "jockeyName": "こっすー",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 1,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 4,
-              "horseNumber": 4,
-              "horseId": "H000256",
-              "horseName": "ルナヘーゼルλ",
-              "ownerName": "神威ルカ",
-              "jockeyName": "神威ルカ",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 5,
-              "horseNumber": 5,
-              "horseId": "H000185",
-              "horseName": "ウラギリノコルク",
-              "ownerName": "コントキ",
-              "jockeyName": "コントキ",
-              "previousRuns": [
-                {
-                  "eventId": "20260801",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル10R",
-                  "grade": "OP",
-                  "finishPosition": 7
-                },
-                {
-                  "eventId": "20260711_01",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル4R",
-                  "grade": "",
-                  "finishPosition": 8
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 6,
-              "horseNumber": 6,
-              "horseId": "H000253",
-              "horseName": "レーゲンジュネ",
-              "ownerName": "雨乃ユウ",
-              "jockeyName": "雨乃ユウ",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 1
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "raceCards": [],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -1147,8 +1036,33 @@
       "weekday": "木",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "23:00 - 23:48 08月20日 公式レース開催",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20260820",
+          "title": "08月20日 公式レース開催",
+          "timeLabel": "23:00 - 23:48",
+          "location": "",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "08月20日 公式レース 第1R",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース1",
+              "status": "募集中"
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-08-21",
