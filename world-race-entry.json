@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T13:32:06.531Z",
-  "generatedAtLabel": "2026/08/20 22:32",
+  "generatedAt": "2026-08-20T13:40:15.573Z",
+  "generatedAtLabel": "2026/08/20 22:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -85,28 +85,5 @@
     "明智ナオユキ",
     "风须sayuri"
   ],
-  "races": [
-    {
-      "eventId": "20260820",
-      "eventName": "08月20日 公式レース開催",
-      "eventDate": "2026-08-20",
-      "eventDateLabel": "2026/08/20 23:00",
-      "deadline": "2026-08-20T14:00:00.000Z",
-      "deadlineLabel": "2026/08/20 23:00",
-      "raceId": "R01",
-      "raceNo": 1,
-      "raceNoLabel": "1R",
-      "raceName": "08月20日 公式レース 第1R",
-      "grade": "OP",
-      "trackType": "平場芝",
-      "course": "コース1",
-      "entryCondition": "",
-      "maxEntries": 16,
-      "racehorseOnly": false,
-      "racehorseEventId": "",
-      "firstPrize": 0,
-      "firstPrizeLabel": "",
-      "applicationType": "normalSet"
-    }
-  ]
+  "races": []
 }
