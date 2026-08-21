@@ -1,48 +1,12 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-21T07:44:40.838Z",
-  "generatedAtLabel": "2026/08/21 16:44",
+  "generatedAt": "2026-08-21T08:44:40.983Z",
+  "generatedAtLabel": "2026/08/21 17:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
   "defaultRaceCardEventIndex": 0,
-  "raceCards": [
-    {
-      "eventId": "20260820",
-      "eventName": "08月20日 公式レース開催",
-      "eventDate": "2026-08-20",
-      "eventDateLabel": "2026.08.20 木",
-      "startTime": "23:00",
-      "races": [
-        {
-          "eventId": "20260820",
-          "raceId": "R01",
-          "raceNumber": 1,
-          "raceNo": "1R",
-          "raceName": "08月20日 公式レース 第1R",
-          "grade": "OP",
-          "track": "平場芝",
-          "course": "コース1",
-          "condition": "",
-          "firstPrize": 0,
-          "entries": [
-            {
-              "frameNumber": 1,
-              "horseNumber": 1,
-              "horseId": "H000111",
-              "horseName": "アークティカ",
-              "ownerName": "えーすけ。A_S_K",
-              "jockeyName": "えーすけ。A_S_K",
-              "previousRuns": [],
-              "firstCount": 1,
-              "secondCount": 0,
-              "thirdCount": 0
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "raceCards": [],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -1311,9 +1275,9 @@
               "grade": "G1",
               "track": "平場芝",
               "course": "コース1",
-              "condition": "",
+              "condition": "人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
               "firstPrize": 0,
-              "displayCondition": "平場芝 / コース1",
+              "displayCondition": "平場芝 / コース1 / 人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
               "status": ""
             }
           ]
