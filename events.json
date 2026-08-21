@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-21T08:44:40.983Z",
-  "generatedAtLabel": "2026/08/21 17:44",
+  "generatedAt": "2026-08-21T11:12:26.375Z",
+  "generatedAtLabel": "2026/08/21 20:12",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1232,16 +1232,16 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:30 夏の終わり将来の夢大きな希望",
+      "eventSummary": "21:00 - 22:30 【仮想中央競馬会】夏の終わり将来の夢大きな希望",
       "events": [
         {
-          "calendarEventId": "",
+          "calendarEventId": "9gghgtktmbcfpebv1c9jk5n224@google.com",
           "eventId": "20260829",
-          "title": "夏の終わり将来の夢大きな希望",
+          "title": "【仮想中央競馬会】夏の終わり将来の夢大きな希望",
           "timeLabel": "21:00 - 22:30",
-          "location": "",
+          "location": "VRChat",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1254,7 +1254,7 @@
               "condition": "初心者限定！初心者だと思う方は応募してください！目安はワールド内の勝利数が10回未満です！",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース1 / 初心者限定！初心者だと思う方は応募してください！目安はワールド内の勝利数が10回未満です！",
-              "status": ""
+              "status": "募集中"
             },
             {
               "raceId": "R02",
@@ -1266,7 +1266,7 @@
               "condition": "ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース3 / ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
-              "status": ""
+              "status": "募集中"
             },
             {
               "raceId": "R03",
@@ -1278,7 +1278,7 @@
               "condition": "人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース1 / 人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
-              "status": ""
+              "status": "募集中"
             }
           ]
         }
