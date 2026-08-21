@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-20T15:44:41.963Z",
-  "generatedAtLabel": "2026/08/21 00:44",
+  "generatedAt": "2026-08-21T05:01:56.951Z",
+  "generatedAtLabel": "2026/08/21 14:01",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1049,7 +1049,7 @@
       "weekday": "水",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "22:00 - 23:00 定期交流会 ほか1件",
       "events": [
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
@@ -1061,6 +1061,30 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260819",
+          "title": "第一回レーティングバトル15R",
+          "timeLabel": "22:00 - 22:15",
+          "location": "",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "第一回レーティングバトル15R",
+              "grade": "OP",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "なし",
+              "firstPrize": 0,
+              "displayCondition": "ダート / コース1 / なし",
+              "status": "募集中"
+            }
+          ]
         }
       ]
     },
