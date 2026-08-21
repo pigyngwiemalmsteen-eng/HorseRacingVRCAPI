@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-21T05:44:40.776Z",
-  "generatedAtLabel": "2026/08/21 14:44",
+  "generatedAt": "2026-08-21T07:44:40.838Z",
+  "generatedAtLabel": "2026/08/21 16:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1268,8 +1268,57 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:00 - 22:30 夏の終わり将来の夢大きな希望",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20260829",
+          "title": "夏の終わり将来の夢大きな希望",
+          "timeLabel": "21:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "新参記念",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "初心者限定！初心者だと思う方は応募してください！目安はワールド内の勝利数が10回未満です！",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース1 / 初心者限定！初心者だと思う方は応募してください！目安はワールド内の勝利数が10回未満です！",
+              "status": ""
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "スタダラストステークス",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース3",
+              "condition": "ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース3 / ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
+              "status": ""
+            },
+            {
+              "raceId": "R03",
+              "raceNo": "3R",
+              "raceName": "G1 ASK記念",
+              "grade": "G1",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース1",
+              "status": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-08-30",
