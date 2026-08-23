@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-23T15:44:40.490Z",
-  "generatedAtLabel": "2026/08/24 00:44",
+  "generatedAt": "2026-08-23T16:31:56.566Z",
+  "generatedAtLabel": "2026/08/24 01:31",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1104,7 +1104,7 @@
       "weekday": "日",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会 ほか1件",
+      "eventSummary": "21:00 - 22:00 初心者向け交流会 ほか2件",
       "events": [
         {
           "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
@@ -1116,6 +1116,30 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260823_1",
+          "title": "第一回レーティングバトル16R",
+          "timeLabel": "22:00 - 22:15",
+          "location": "",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "第一回レーティングバトル16R",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース2",
+              "condition": "なし",
+              "firstPrize": 0,
+              "displayCondition": "坂芝 / コース2 / なし",
+              "status": "募集中"
+            }
+          ]
         },
         {
           "calendarEventId": "",
