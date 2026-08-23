@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T13:57:07.433Z",
-  "generatedAtLabel": "2026/08/23 22:57",
+  "generatedAt": "2026-08-23T14:40:16.815Z",
+  "generatedAtLabel": "2026/08/23 23:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -90,28 +90,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20260823",
-      "eventName": "08月23日 公式レース開催",
-      "eventDate": "2026-08-23",
-      "eventDateLabel": "2026/08/23 22:45",
-      "deadline": "2026-08-23T15:00:00.000Z",
-      "deadlineLabel": "2026/08/24 00:00",
-      "raceId": "R01",
-      "raceNo": 1,
-      "raceNoLabel": "1R",
-      "raceName": "08月23日 公式レース 第1R",
-      "grade": "OP",
-      "trackType": "平場芝",
-      "course": "コース1",
-      "entryCondition": "",
-      "maxEntries": 16,
-      "racehorseOnly": false,
-      "racehorseEventId": "",
-      "firstPrize": 0,
-      "firstPrizeLabel": "",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20260829",
       "eventName": "夏の終わり将来の夢大きな希望",
