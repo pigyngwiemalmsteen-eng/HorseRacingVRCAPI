@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-23T14:05:25.543Z",
-  "generatedAtLabel": "2026/08/23 23:05",
+  "generatedAt": "2026-08-23T14:44:41.040Z",
+  "generatedAtLabel": "2026/08/23 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -115,7 +115,7 @@
               "jockeyName": "雨乃ユウ",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -160,7 +160,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 6,
@@ -182,7 +182,7 @@
               "ownerName": "toburuku",
               "jockeyName": "toburuku",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             }
