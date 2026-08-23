@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-22T15:44:40.774Z",
-  "generatedAtLabel": "2026/08/23 00:44",
+  "generatedAt": "2026-08-23T13:41:56.975Z",
+  "generatedAtLabel": "2026/08/23 22:41",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1130,7 +1130,7 @@
       "weekday": "日",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "eventSummary": "21:00 - 22:00 初心者向け交流会 ほか1件",
       "events": [
         {
           "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
@@ -1142,6 +1142,30 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260823",
+          "title": "08月23日 公式レース開催",
+          "timeLabel": "22:45 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "08月23日 公式レース 第1R",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース1",
+              "status": "募集中"
+            }
+          ]
         }
       ]
     },
@@ -1241,7 +1265,7 @@
           "timeLabel": "21:00 - 22:30",
           "location": "VRChat",
           "description": "",
-          "status": "回答集計済",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1254,7 +1278,7 @@
               "condition": "初心者限定！初心者だと思う方は応募してください！目安はワールド内の勝利数が10回未満です！",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース1 / 初心者限定！初心者だと思う方は応募してください！目安はワールド内の勝利数が10回未満です！",
-              "status": "回答集計済"
+              "status": "募集中"
             },
             {
               "raceId": "R02",
@@ -1266,7 +1290,7 @@
               "condition": "ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース3 / ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
-              "status": "回答集計済"
+              "status": "募集中"
             },
             {
               "raceId": "R03",
@@ -1278,7 +1302,7 @@
               "condition": "人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース1 / 人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
-              "status": "回答集計済"
+              "status": "募集中"
             }
           ]
         }
