@@ -1,12 +1,196 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-23T13:41:56.975Z",
-  "generatedAtLabel": "2026/08/23 22:41",
+  "generatedAt": "2026-08-23T14:05:25.543Z",
+  "generatedAtLabel": "2026/08/23 23:05",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
   "defaultRaceCardEventIndex": 0,
-  "raceCards": [],
+  "raceCards": [
+    {
+      "eventId": "20260823",
+      "eventName": "08月23日 公式レース開催",
+      "eventDate": "2026-08-23",
+      "eventDateLabel": "2026.08.23 日",
+      "startTime": "22:45",
+      "races": [
+        {
+          "eventId": "20260823",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "08月23日 公式レース 第1R",
+          "grade": "OP",
+          "track": "平場芝",
+          "course": "コース1",
+          "condition": "",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000262",
+              "horseName": "HorlickSky¶",
+              "ownerName": "MEA.YZKR(メア）",
+              "jockeyName": "SHINSHI0080",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000271",
+              "horseName": "ルチカライトロードλ",
+              "ownerName": "YuyaKuga",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000243",
+              "horseName": "フニャオスノジュウ",
+              "ownerName": "ふゆうぶったい",
+              "jockeyName": "ふゆうぶったい",
+              "previousRuns": [
+                {
+                  "eventId": "20260811",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル13R",
+                  "grade": "OP",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000270",
+              "horseName": "ユキチャン",
+              "ownerName": "Gisshi_ぎっしー",
+              "jockeyName": "Gisshi_ぎっしー",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000267",
+              "horseName": "コケコッコマツリ",
+              "ownerName": "きなこっこ祭",
+              "jockeyName": "きなこっこ祭",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000268",
+              "horseName": "シャッチャン",
+              "ownerName": "と～みの（toumino）",
+              "jockeyName": "と～みの（toumino）",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000265",
+              "horseName": "レーゲンウィンターζ",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000269",
+              "horseName": "Tahlia¶",
+              "ownerName": "メデタイラー",
+              "jockeyName": "メデタイラー",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000256",
+              "horseName": "ルナヘーゼルλ",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [
+                {
+                  "eventId": "20260818",
+                  "raceId": "R01",
+                  "raceName": "08月18日 公式レース 第1R",
+                  "grade": "OP",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000263",
+              "horseName": "ラストチャンスλ",
+              "ownerName": "PASTAKU（ぱすたく）",
+              "jockeyName": "PASTAKU（ぱすたく）",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 11,
+              "horseId": "H000264",
+              "horseName": "スパークルヤスツナδ",
+              "ownerName": "Nele-san",
+              "jockeyName": "Nele-san",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 12,
+              "horseId": "H000266",
+              "horseName": "モゲゾウλ",
+              "ownerName": "toburuku",
+              "jockeyName": "toburuku",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -1150,7 +1334,7 @@
           "timeLabel": "22:45 - 23:00",
           "location": "",
           "description": "",
-          "status": "募集中",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -1163,7 +1347,7 @@
               "condition": "",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース1",
-              "status": "募集中"
+              "status": "公開済"
             }
           ]
         }
