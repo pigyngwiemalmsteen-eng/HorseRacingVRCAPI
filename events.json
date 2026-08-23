@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-23T16:31:56.566Z",
-  "generatedAtLabel": "2026/08/24 01:31",
+  "generatedAt": "2026-08-23T17:44:43.611Z",
+  "generatedAtLabel": "2026/08/24 02:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1124,7 +1124,7 @@
           "timeLabel": "22:00 - 22:15",
           "location": "",
           "description": "",
-          "status": "募集中",
+          "status": "枠順決定済",
           "officialManaged": true,
           "races": [
             {
@@ -1137,7 +1137,7 @@
               "condition": "なし",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース2 / なし",
-              "status": "募集中"
+              "status": "枠順決定済"
             }
           ]
         },
