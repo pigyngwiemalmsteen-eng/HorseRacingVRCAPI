@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T16:32:04.101Z",
-  "generatedAtLabel": "2026/08/24 01:32",
+  "generatedAt": "2026-08-23T17:40:24.668Z",
+  "generatedAtLabel": "2026/08/24 02:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -19,6 +19,7 @@
     "Gogatsu_五月",
     "Haru_0110",
     "HRKR（はるくる）",
+    "inブリ",
     "k0909",
     "kaedew025",
     "kingnaka2357",
@@ -81,6 +82,7 @@
     "東雲れいあ",
     "熱堂スバル",
     "柊木紅葉",
+    "無作為無為",
     "明智ナオユキ",
     "风须sayuri"
   ],
