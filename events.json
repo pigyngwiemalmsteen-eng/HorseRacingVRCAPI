@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-24T13:34:27.652Z",
-  "generatedAtLabel": "2026/08/24 22:34",
+  "generatedAt": "2026-08-24T14:44:40.970Z",
+  "generatedAtLabel": "2026/08/24 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -85,7 +85,7 @@
               "ownerName": "メデタイラー",
               "jockeyName": "メデタイラー",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -180,7 +180,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 2
+              "thirdCount": 3
             },
             {
               "frameNumber": 5,
@@ -189,25 +189,10 @@
               "horseName": "ポヤン◇",
               "ownerName": "HRKR（はるくる）",
               "jockeyName": "HRKR（はるくる）",
-              "previousRuns": [
-                {
-                  "eventId": "20260729",
-                  "raceId": "R02",
-                  "raceName": "ミミノコダービー 本戦",
-                  "grade": "",
-                  "finishPosition": 1
-                },
-                {
-                  "eventId": "20260729",
-                  "raceId": "R01-A",
-                  "raceName": "ミミノコダービー A組",
-                  "grade": "",
-                  "finishPosition": 3
-                }
-              ],
-              "firstCount": 1,
+              "previousRuns": [],
+              "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 1
+              "thirdCount": 0
             },
             {
               "frameNumber": 5,
@@ -230,7 +215,7 @@
               "jockeyName": "桜月ミヅキ",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             }
           ]
@@ -293,7 +278,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 3,
@@ -327,7 +312,7 @@
               "ownerName": "雨乃ユウ",
               "jockeyName": "雨乃ユウ",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -379,7 +364,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             }
           ]
