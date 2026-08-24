@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-24T05:45:08.395Z",
-  "generatedAtLabel": "2026/08/24 14:45",
+  "generatedAt": "2026-08-24T06:44:41.210Z",
+  "generatedAtLabel": "2026/08/24 15:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -45,9 +45,31 @@
               "horseName": "ルチカライトロードλ",
               "ownerName": "YuyaKuga",
               "jockeyName": "YuyaKuga",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
+              "previousRuns": [
+                {
+                  "eventId": "20260815",
+                  "raceId": "R02",
+                  "raceName": "第1回！一番の汗っかきは誰だ選手権！",
+                  "grade": "OP",
+                  "finishPosition": 2
+                },
+                {
+                  "eventId": "20260815",
+                  "raceId": "R01",
+                  "raceName": "真夏のジャンボリー第1 レース",
+                  "grade": "OP",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260815_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル14R",
+                  "grade": "OP",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
