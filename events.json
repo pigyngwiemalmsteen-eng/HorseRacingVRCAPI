@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-24T16:44:42.156Z",
-  "generatedAtLabel": "2026/08/25 01:44",
+  "generatedAt": "2026-08-25T02:40:53.822Z",
+  "generatedAtLabel": "2026/08/25 11:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1027,8 +1027,33 @@
       "weekday": "火",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:00 - 23:00 08月25日 公式レース開催",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20260825",
+          "title": "08月25日 公式レース開催",
+          "timeLabel": "21:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "08月25日 公式レース 第1R",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース2",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース2",
+              "status": "募集中"
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-08-26",
