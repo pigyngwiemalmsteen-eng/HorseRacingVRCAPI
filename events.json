@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-25T15:44:41.969Z",
-  "generatedAtLabel": "2026/08/26 00:44",
+  "generatedAt": "2026-08-25T18:44:41.414Z",
+  "generatedAtLabel": "2026/08/26 03:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1197,11 +1197,11 @@
               "raceNo": "3R",
               "raceName": "G1 ASK記念",
               "grade": "G1",
-              "track": "平場芝",
+              "track": "坂芝",
               "course": "コース1",
               "condition": "人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
               "firstPrize": 0,
-              "displayCondition": "平場芝 / コース1 / 人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
+              "displayCondition": "坂芝 / コース1 / 人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
               "status": "募集中"
             }
           ]
