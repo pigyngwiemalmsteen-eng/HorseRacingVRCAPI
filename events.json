@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-25T02:40:53.822Z",
-  "generatedAtLabel": "2026/08/25 11:40",
+  "generatedAt": "2026-08-25T02:44:41.143Z",
+  "generatedAtLabel": "2026/08/25 11:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1036,7 +1036,7 @@
           "timeLabel": "21:00 - 23:00",
           "location": "",
           "description": "",
-          "status": "募集中",
+          "status": "回答集計済",
           "officialManaged": true,
           "races": [
             {
@@ -1049,7 +1049,7 @@
               "condition": "",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース2",
-              "status": "募集中"
+              "status": "回答集計済"
             }
           ]
         }
