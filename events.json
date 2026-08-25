@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-25T06:44:41.611Z",
-  "generatedAtLabel": "2026/08/25 15:44",
+  "generatedAt": "2026-08-25T15:44:41.969Z",
+  "generatedAtLabel": "2026/08/26 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1061,8 +1061,8 @@
       "dateLabel": "8月25日（火）",
       "dayNumber": "25",
       "weekday": "火",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 23:00 08月25日 公式レース開催",
       "events": [
         {
@@ -1097,7 +1097,7 @@
       "dateLabel": "8月26日（水）",
       "dayNumber": "26",
       "weekday": "水",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "22:00 - 23:00 定期交流会",
       "events": [
