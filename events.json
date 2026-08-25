@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-25T02:46:25.344Z",
-  "generatedAtLabel": "2026/08/25 11:46",
+  "generatedAt": "2026-08-25T02:48:45.701Z",
+  "generatedAtLabel": "2026/08/25 11:48",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -20,6 +20,32 @@
           "raceNumber": 1,
           "raceNo": "1R",
           "raceName": "08月25日 公式レース 第1R",
+          "grade": "OP",
+          "track": "平場芝",
+          "course": "コース2",
+          "condition": "",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000298",
+              "horseName": "ラララβ",
+              "ownerName": "えーすけ。A_S_K",
+              "jockeyName": "えーすけ。A_S_K",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20260825",
+          "raceId": "R02",
+          "raceNumber": 2,
+          "raceNo": "2R",
+          "raceName": "08月25日 公式レース 第2R",
           "grade": "OP",
           "track": "平場芝",
           "course": "コース2",
