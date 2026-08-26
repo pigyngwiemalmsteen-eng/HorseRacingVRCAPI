@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-26T13:44:40.541Z",
-  "generatedAtLabel": "2026/08/26 22:44",
+  "generatedAt": "2026-08-26T14:02:06.429Z",
+  "generatedAtLabel": "2026/08/26 23:02",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1083,7 +1083,7 @@
           "timeLabel": "23:00 - 23:59",
           "location": "",
           "description": "",
-          "status": "出走表作成済",
+          "status": "回答集計済",
           "officialManaged": true,
           "races": [
             {
@@ -1096,7 +1096,7 @@
               "condition": "",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース1",
-              "status": "出走表作成済"
+              "status": "回答集計済"
             }
           ]
         }
