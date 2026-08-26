@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-26T17:44:42.239Z",
-  "generatedAtLabel": "2026/08/27 02:44",
+  "generatedAt": "2026-08-26T20:44:41.314Z",
+  "generatedAtLabel": "2026/08/27 05:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1063,7 +1063,7 @@
       "weekday": "水",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "22:00 - 23:00 定期交流会 ほか1件",
+      "eventSummary": "22:00 - 23:00 定期交流会 ほか3件",
       "events": [
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
@@ -1074,6 +1074,41 @@
           "description": "",
           "status": "",
           "officialManaged": false,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260826_1",
+          "title": "第一回レーティングバトル17R",
+          "timeLabel": "22:00 - 22:15",
+          "location": "",
+          "description": "",
+          "status": "未作成",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "第一回レーティングバトル17R",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース3",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース3",
+              "status": "未作成"
+            }
+          ]
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260826_2",
+          "title": "第一回レーティングバトル18R",
+          "timeLabel": "22:15 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "未作成",
+          "officialManaged": true,
           "races": []
         },
         {
@@ -1173,11 +1208,11 @@
               "raceNo": "2R",
               "raceName": "スタダラストステークス",
               "grade": "OP",
-              "track": "平場芝",
-              "course": "コース3",
+              "track": "坂芝",
+              "course": "コース2",
               "condition": "ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
               "firstPrize": 0,
-              "displayCondition": "平場芝 / コース3 / ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
+              "displayCondition": "坂芝 / コース2 / ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
               "status": "回答集計済"
             },
             {
