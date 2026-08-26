@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-26T16:21:57.567Z",
-  "generatedAtLabel": "2026/08/27 01:21",
+  "generatedAt": "2026-08-26T17:44:42.239Z",
+  "generatedAtLabel": "2026/08/27 02:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1153,7 +1153,7 @@
           "timeLabel": "21:00 - 22:30",
           "location": "VRChat",
           "description": "",
-          "status": "募集中",
+          "status": "回答集計済",
           "officialManaged": true,
           "races": [
             {
@@ -1166,7 +1166,7 @@
               "condition": "初心者限定！初心者だと思う方は応募してください！目安はワールド内の勝利数が10回未満です！",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース1 / 初心者限定！初心者だと思う方は応募してください！目安はワールド内の勝利数が10回未満です！",
-              "status": "募集中"
+              "status": "回答集計済"
             },
             {
               "raceId": "R02",
@@ -1178,7 +1178,7 @@
               "condition": "ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース3 / ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
-              "status": "募集中"
+              "status": "回答集計済"
             },
             {
               "raceId": "R03",
@@ -1190,7 +1190,7 @@
               "condition": "人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース1 / 人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
-              "status": "募集中"
+              "status": "回答集計済"
             }
           ]
         }
