@@ -1,12 +1,244 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-26T14:17:45.452Z",
-  "generatedAtLabel": "2026/08/26 23:17",
+  "generatedAt": "2026-08-26T14:44:41.892Z",
+  "generatedAtLabel": "2026/08/26 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
   "defaultRaceCardEventIndex": 0,
-  "raceCards": [],
+  "raceCards": [
+    {
+      "eventId": "20260826",
+      "eventName": "08月26日 公式レース開催",
+      "eventDate": "2026-08-26",
+      "eventDateLabel": "2026.08.26 水",
+      "startTime": "23:00",
+      "races": [
+        {
+          "eventId": "20260826",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "08月26日 公式レース 第1R",
+          "grade": "OP",
+          "track": "平場芝",
+          "course": "コース1",
+          "condition": "",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000304",
+              "horseName": "EternalTrio♪",
+              "ownerName": "MEA.YZKR(メア）",
+              "jockeyName": "MEA․YZKR（メア）",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000321",
+              "horseName": "スターパースト",
+              "ownerName": "siyuu007",
+              "jockeyName": "siyuu007",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000320",
+              "horseName": "ナスホール",
+              "ownerName": "小雨xiaoyu",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000317",
+              "horseName": "セイヤノマツリζ○",
+              "ownerName": "きなこっこ祭",
+              "jockeyName": "きなこっこ祭",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000315",
+              "horseName": "カオスブレイク★†",
+              "ownerName": "RenNeko12",
+              "jockeyName": "RenNeko12",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000314",
+              "horseName": "スパークルザンテツΣ†",
+              "ownerName": "Nele-san",
+              "jockeyName": "Nele-san",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000313",
+              "horseName": "フニャオスクニミツ★★†",
+              "ownerName": "ふゆうぶったい",
+              "jockeyName": "ふゆうぶったい",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000310",
+              "horseName": "レーゲンミミ◇",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000287",
+              "horseName": "ニトウイッツイΦ■",
+              "ownerName": "メデタイラー",
+              "jockeyName": "メデタイラー",
+              "previousRuns": [
+                {
+                  "eventId": "20260824",
+                  "raceId": "R01-A",
+                  "raceName": "08月24日 公式レース 第1R A組",
+                  "grade": "OP",
+                  "finishPosition": 1
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000282",
+              "horseName": "ムーンナイトメア§●",
+              "ownerName": "桜月ミヅキ",
+              "jockeyName": "桜月ミヅキ",
+              "previousRuns": [
+                {
+                  "eventId": "20260824",
+                  "raceId": "R01-A",
+                  "raceName": "08月24日 公式レース 第1R A組",
+                  "grade": "OP",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 11,
+              "horseId": "H000309",
+              "horseName": "ルチカファンタジア★★★▲",
+              "ownerName": "YuyaKuga",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 12,
+              "horseId": "H000311",
+              "horseName": "オイシイマンゴーλ◆",
+              "ownerName": "toburuku",
+              "jockeyName": "toburuku",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 13,
+              "horseId": "H000318",
+              "horseName": "スターシャドウ○",
+              "ownerName": "siyuu007",
+              "jockeyName": "ROALDORS",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 14,
+              "horseId": "H000319",
+              "horseName": "ボクラヲツナグモノ",
+              "ownerName": "モーリス",
+              "jockeyName": "モーリス",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 15,
+              "horseId": "H000312",
+              "horseName": "ヨハネスコルクλ◎",
+              "ownerName": "コントキ",
+              "jockeyName": "コントキ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 8,
+              "horseNumber": 16,
+              "horseId": "H000316",
+              "horseName": "グランライダー□",
+              "ownerName": "RuM-らむ-",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -1083,7 +1315,7 @@
           "timeLabel": "23:00 - 23:59",
           "location": "",
           "description": "",
-          "status": "募集中",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -1096,7 +1328,7 @@
               "condition": "",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース1",
-              "status": "募集中"
+              "status": "公開済"
             }
           ]
         }
