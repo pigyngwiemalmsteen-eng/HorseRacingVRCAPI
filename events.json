@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-26T06:44:41.585Z",
-  "generatedAtLabel": "2026/08/26 15:44",
+  "generatedAt": "2026-08-26T13:44:40.541Z",
+  "generatedAtLabel": "2026/08/26 22:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1063,7 +1063,7 @@
       "weekday": "水",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "22:00 - 23:00 定期交流会 ほか1件",
       "events": [
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
@@ -1075,6 +1075,30 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260826",
+          "title": "08月26日 公式レース開催",
+          "timeLabel": "23:00 - 23:59",
+          "location": "",
+          "description": "",
+          "status": "出走表作成済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "08月26日 公式レース 第1R",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース1",
+              "status": "出走表作成済"
+            }
+          ]
         }
       ]
     },
