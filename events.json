@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-26T23:44:40.982Z",
-  "generatedAtLabel": "2026/08/27 08:44",
+  "generatedAt": "2026-08-27T04:44:41.635Z",
+  "generatedAtLabel": "2026/08/27 13:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -469,12 +469,34 @@
             {
               "frameNumber": 7,
               "horseNumber": 13,
-              "horseId": "H000303",
-              "horseName": "モゲゾウ",
+              "horseId": "H000266",
+              "horseName": "モゲゾウλ",
               "ownerName": "toburuku",
               "jockeyName": "toburuku",
-              "previousRuns": [],
-              "firstCount": 0,
+              "previousRuns": [
+                {
+                  "eventId": "20260823",
+                  "raceId": "R01",
+                  "raceName": "08月23日 公式レース 第1R",
+                  "grade": "OP",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260823_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル16R",
+                  "grade": "OP",
+                  "finishPosition": 14
+                },
+                {
+                  "eventId": "20260809_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル12R",
+                  "grade": "OP",
+                  "finishPosition": 8
+                }
+              ],
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
