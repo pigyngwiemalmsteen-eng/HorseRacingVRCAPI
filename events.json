@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-27T09:44:40.940Z",
-  "generatedAtLabel": "2026/08/27 18:44",
+  "generatedAt": "2026-08-27T12:44:41.762Z",
+  "generatedAtLabel": "2026/08/27 21:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -66,14 +66,21 @@
                   "finishPosition": 11
                 },
                 {
-                  "eventId": "20260722",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル7R",
+                  "eventId": "20260729",
+                  "raceId": "R02",
+                  "raceName": "ミミノコダービー 本戦",
                   "grade": "",
-                  "finishPosition": 14
+                  "finishPosition": 10
+                },
+                {
+                  "eventId": "20260729",
+                  "raceId": "R01-A",
+                  "raceName": "ミミノコダービー A組",
+                  "grade": "",
+                  "finishPosition": 1
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -591,10 +598,17 @@
                   "raceName": "第一回レーティングバトル16R",
                   "grade": "OP",
                   "finishPosition": 10
+                },
+                {
+                  "eventId": "20260725",
+                  "raceId": "R02",
+                  "raceName": "常連に下剋上レース",
+                  "grade": "",
+                  "finishPosition": 2
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -666,7 +680,7 @@
               "frameNumber": 1,
               "horseNumber": 1,
               "horseId": "H000140",
-              "horseName": "カオスブレイク",
+              "horseName": "カオスブレイク★",
               "ownerName": "なぎっちゅ。",
               "jockeyName": "RenNeko12",
               "previousRuns": [
@@ -678,21 +692,21 @@
                   "finishPosition": 11
                 },
                 {
+                  "eventId": "20260805",
+                  "raceId": "R01",
+                  "raceName": "定期交流会ハンデ戦",
+                  "grade": "",
+                  "finishPosition": 1
+                },
+                {
                   "eventId": "20260805_1",
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル11R",
                   "grade": "OP",
                   "finishPosition": 2
-                },
-                {
-                  "eventId": "20260729_1",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル9R",
-                  "grade": "OP",
-                  "finishPosition": 2
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 2,
               "thirdCount": 0
             },
@@ -710,11 +724,25 @@
                   "raceName": "08月24日 公式レース 第1R A組",
                   "grade": "OP",
                   "finishPosition": 7
+                },
+                {
+                  "eventId": "20260729",
+                  "raceId": "R02",
+                  "raceName": "ミミノコダービー 本戦",
+                  "grade": "",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260729",
+                  "raceId": "R01-A",
+                  "raceName": "ミミノコダービー A組",
+                  "grade": "",
+                  "finishPosition": 3
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -739,10 +767,10 @@
                   "finishPosition": 4
                 },
                 {
-                  "eventId": "20260801",
+                  "eventId": "20260805",
                   "raceId": "R01",
-                  "raceName": "第一回レーティングバトル10R",
-                  "grade": "OP",
+                  "raceName": "定期交流会ハンデ戦",
+                  "grade": "",
                   "finishPosition": 11
                 }
               ],
@@ -840,36 +868,36 @@
             {
               "frameNumber": 4,
               "horseNumber": 8,
-              "horseId": "H000063",
+              "horseId": "H000314",
               "horseName": "スパークルザンテツ",
               "ownerName": "Nele-san",
               "jockeyName": "Nele-san",
               "previousRuns": [
+                {
+                  "eventId": "20260826",
+                  "raceId": "R01",
+                  "raceName": "08月26日 公式レース 第1R",
+                  "grade": "OP",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260826_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル17R",
+                  "grade": "OP",
+                  "finishPosition": 1
+                },
                 {
                   "eventId": "20260823_1",
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル16R",
                   "grade": "OP",
                   "finishPosition": 2
-                },
-                {
-                  "eventId": "20260812",
-                  "raceId": "R01",
-                  "raceName": "0812定期交流会バッジレース",
-                  "grade": "OP",
-                  "finishPosition": 3
-                },
-                {
-                  "eventId": "20260805_1",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル11R",
-                  "grade": "OP",
-                  "finishPosition": 1
                 }
               ],
-              "firstCount": 2,
+              "firstCount": 4,
               "secondCount": 2,
-              "thirdCount": 1
+              "thirdCount": 2
             },
             {
               "frameNumber": 5,
@@ -894,14 +922,14 @@
                   "finishPosition": 1
                 },
                 {
-                  "eventId": "20260729_1",
+                  "eventId": "20260805",
                   "raceId": "R01",
-                  "raceName": "第一回レーティングバトル9R",
-                  "grade": "OP",
-                  "finishPosition": 5
+                  "raceName": "定期交流会ハンデ戦",
+                  "grade": "",
+                  "finishPosition": 4
                 }
               ],
-              "firstCount": 3,
+              "firstCount": 4,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -921,14 +949,21 @@
                   "finishPosition": 11
                 },
                 {
-                  "eventId": "20260722",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル7R",
+                  "eventId": "20260729",
+                  "raceId": "R02",
+                  "raceName": "ミミノコダービー 本戦",
                   "grade": "",
-                  "finishPosition": 14
+                  "finishPosition": 10
+                },
+                {
+                  "eventId": "20260729",
+                  "raceId": "R01-A",
+                  "raceName": "ミミノコダービー A組",
+                  "grade": "",
+                  "finishPosition": 1
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -1016,11 +1051,11 @@
                   "finishPosition": 16
                 },
                 {
-                  "eventId": "20260705",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル1R",
+                  "eventId": "20260711",
+                  "raceId": "R03",
+                  "raceName": "ウマ娘新シナリオ実装記念",
                   "grade": "",
-                  "finishPosition": 6
+                  "finishPosition": 11
                 }
               ],
               "firstCount": 0,
@@ -1041,6 +1076,20 @@
                   "raceName": "アサガオステークス",
                   "grade": "",
                   "finishPosition": 5
+                },
+                {
+                  "eventId": "20260725",
+                  "raceId": "R02",
+                  "raceName": "常連に下剋上レース",
+                  "grade": "",
+                  "finishPosition": 11
+                },
+                {
+                  "eventId": "20260711",
+                  "raceId": "R03",
+                  "raceName": "ウマ娘新シナリオ実装記念",
+                  "grade": "",
+                  "finishPosition": 12
                 }
               ],
               "firstCount": 0,
@@ -1097,22 +1146,22 @@
                   "finishPosition": 6
                 },
                 {
+                  "eventId": "20260711",
+                  "raceId": "R03",
+                  "raceName": "ウマ娘新シナリオ実装記念",
+                  "grade": "",
+                  "finishPosition": 2
+                },
+                {
                   "eventId": "20260708_01",
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル3R",
                   "grade": "",
                   "finishPosition": 9
-                },
-                {
-                  "eventId": "20260705",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル1R",
-                  "grade": "",
-                  "finishPosition": 5
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1158,21 +1207,21 @@
                   "finishPosition": 3
                 },
                 {
+                  "eventId": "20260725",
+                  "raceId": "R02",
+                  "raceName": "常連に下剋上レース",
+                  "grade": "",
+                  "finishPosition": 5
+                },
+                {
                   "eventId": "20260722",
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル7R",
                   "grade": "",
                   "finishPosition": 3
-                },
-                {
-                  "eventId": "20260719",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル6R",
-                  "grade": "",
-                  "finishPosition": 11
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 3
             }
