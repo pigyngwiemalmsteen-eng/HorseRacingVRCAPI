@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-27T12:44:41.762Z",
-  "generatedAtLabel": "2026/08/27 21:44",
+  "generatedAt": "2026-08-27T13:44:41.310Z",
+  "generatedAtLabel": "2026/08/27 22:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -182,45 +182,6 @@
             {
               "frameNumber": 5,
               "horseNumber": 10,
-              "horseId": "H000292",
-              "horseName": "ワタシハダレα▼",
-              "ownerName": "懐かしのアンタレス",
-              "jockeyName": "懐かしのアンタレス",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 6,
-              "horseNumber": 11,
-              "horseId": "H000287",
-              "horseName": "ニトウイッツイΦ■",
-              "ownerName": "メデタイラー",
-              "jockeyName": "メデタイラー",
-              "previousRuns": [
-                {
-                  "eventId": "20260826",
-                  "raceId": "R01",
-                  "raceName": "08月26日 公式レース 第1R",
-                  "grade": "OP",
-                  "finishPosition": 3
-                },
-                {
-                  "eventId": "20260824",
-                  "raceId": "R01-A",
-                  "raceName": "08月24日 公式レース 第1R A組",
-                  "grade": "OP",
-                  "finishPosition": 1
-                }
-              ],
-              "firstCount": 1,
-              "secondCount": 0,
-              "thirdCount": 1
-            },
-            {
-              "frameNumber": 6,
-              "horseNumber": 12,
               "horseId": "H000304",
               "horseName": "EternalTrio♪",
               "ownerName": "MEA.YZKR(メア）",
@@ -260,7 +221,7 @@
           "raceNumber": 2,
           "raceNo": "2R",
           "raceName": "スタダラストステークス",
-          "grade": "OP",
+          "grade": "G2",
           "track": "坂芝",
           "course": "コース2",
           "condition": "ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
@@ -1288,7 +1249,7 @@
               "status": "出走表作成済"
             },
             {
-              "raceId": "R01",
+              "raceId": "R02",
               "raceNo": "2R",
               "raceName": "ミミノコダービー",
               "grade": "GⅠ",
@@ -2424,7 +2385,7 @@
           "timeLabel": "21:00 - 22:30",
           "location": "VRChat",
           "description": "",
-          "status": "公開済",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -2437,7 +2398,7 @@
               "condition": "初心者限定！初心者だと思う方は応募してください！目安はワールド内の勝利数が10回未満です！",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース1 / 初心者限定！初心者だと思う方は応募してください！目安はワールド内の勝利数が10回未満です！",
-              "status": "公開済"
+              "status": "出走表作成済"
             },
             {
               "raceId": "R02",
@@ -2449,7 +2410,7 @@
               "condition": "ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース2 / ハンデ戦/斤量：†付きの馬+3kg,騎手の勝利数30以上+2kg",
-              "status": "公開済"
+              "status": "出走表作成済"
             },
             {
               "raceId": "R03",
@@ -2461,7 +2422,7 @@
               "condition": "人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース1 / 人気投票レース。運営側から出走が受理されるまでフォームの送信はしないでください！",
-              "status": "公開済"
+              "status": "出走表作成済"
             }
           ]
         }
