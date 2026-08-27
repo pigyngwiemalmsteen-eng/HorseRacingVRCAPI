@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-27T07:44:43.832Z",
-  "generatedAtLabel": "2026/08/27 16:44",
+  "generatedAt": "2026-08-27T08:16:58.653Z",
+  "generatedAtLabel": "2026/08/27 17:16",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -225,6 +225,13 @@
                   "raceName": "08月26日 公式レース 第1R",
                   "grade": "OP",
                   "finishPosition": 5
+                },
+                {
+                  "eventId": "20260826_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル17R",
+                  "grade": "OP",
+                  "finishPosition": 8
                 }
               ],
               "firstCount": 0,
@@ -254,6 +261,13 @@
               "jockeyName": "YuyaKuga",
               "previousRuns": [
                 {
+                  "eventId": "20260826_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル17R",
+                  "grade": "OP",
+                  "finishPosition": 3
+                },
+                {
                   "eventId": "20260826",
                   "raceId": "R01",
                   "raceName": "08月26日 公式レース 第1R",
@@ -263,7 +277,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 1,
@@ -330,6 +344,13 @@
               "jockeyName": "神威ルカ",
               "previousRuns": [
                 {
+                  "eventId": "20260826_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル17R",
+                  "grade": "OP",
+                  "finishPosition": 12
+                },
+                {
                   "eventId": "20260824",
                   "raceId": "R01-B",
                   "raceName": "08月24日 公式レース 第1R B組",
@@ -342,13 +363,6 @@
                   "raceName": "08月23日 公式レース 第1R",
                   "grade": "OP",
                   "finishPosition": 8
-                },
-                {
-                  "eventId": "20260818",
-                  "raceId": "R01",
-                  "raceName": "08月18日 公式レース 第1R",
-                  "grade": "OP",
-                  "finishPosition": 5
                 }
               ],
               "firstCount": 0,
@@ -441,9 +455,17 @@
               "horseName": "カナシール★★★",
               "ownerName": "東雲れいあ",
               "jockeyName": "東雲れいあ",
-              "previousRuns": [],
+              "previousRuns": [
+                {
+                  "eventId": "20260826_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル17R",
+                  "grade": "OP",
+                  "finishPosition": 2
+                }
+              ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -454,6 +476,13 @@
               "ownerName": "MEA.YZKR(メア）",
               "jockeyName": "メデタイラー",
               "previousRuns": [
+                {
+                  "eventId": "20260826_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル17R",
+                  "grade": "OP",
+                  "finishPosition": 7
+                },
                 {
                   "eventId": "20260815",
                   "raceId": "R03",
@@ -514,6 +543,13 @@
                   "raceName": "08月26日 公式レース 第1R",
                   "grade": "OP",
                   "finishPosition": 5
+                },
+                {
+                  "eventId": "20260826_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル17R",
+                  "grade": "OP",
+                  "finishPosition": 8
                 }
               ],
               "firstCount": 0,
@@ -2224,9 +2260,22 @@
           "timeLabel": "22:15 - 22:30",
           "location": "",
           "description": "",
-          "status": "未作成",
+          "status": "募集中",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "第一回レーティングバトル18R",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース3",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース3",
+              "status": "募集中"
+            }
+          ]
         },
         {
           "calendarEventId": "",
