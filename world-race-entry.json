@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T13:17:08.927Z",
-  "generatedAtLabel": "2026/08/29 22:17",
+  "generatedAt": "2026-08-29T14:22:05.075Z",
+  "generatedAtLabel": "2026/08/29 23:22",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -27,6 +27,7 @@
     "LUCKYSTRIKE_",
     "Mamekichi",
     "mattar1",
+    "mazetarou",
     "MEA.YZKR(メア）",
     "Nagare -ながれ-",
     "nan なん",
