@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T13:40:16.518Z",
-  "generatedAtLabel": "2026/08/28 22:40",
+  "generatedAt": "2026-08-29T13:17:08.927Z",
+  "generatedAtLabel": "2026/08/29 22:17",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -96,5 +96,50 @@
     "明智ナオユキ",
     "风须sayuri"
   ],
-  "races": []
+  "races": [
+    {
+      "eventId": "20260829_1",
+      "eventName": "ASK記念アフターレース",
+      "eventDate": "1970-01-01",
+      "eventDateLabel": "1970/01/01 22:45",
+      "deadline": "2026-08-29T17:00:00.000Z",
+      "deadlineLabel": "2026/08/30 02:00",
+      "raceId": "R01",
+      "raceNo": 1,
+      "raceNoLabel": "1R",
+      "raceName": "初心者用ASK記念アフターレース",
+      "grade": "OP",
+      "trackType": "坂芝",
+      "course": "コース1",
+      "entryCondition": "こっちは初心者用です！",
+      "maxEntries": 18,
+      "racehorseOnly": false,
+      "racehorseEventId": "",
+      "firstPrize": 0,
+      "firstPrizeLabel": "",
+      "applicationType": "normalSet"
+    },
+    {
+      "eventId": "20260829_1",
+      "eventName": "ASK記念アフターレース",
+      "eventDate": "1970-01-01",
+      "eventDateLabel": "1970/01/01 22:45",
+      "deadline": "2026-08-29T17:00:00.000Z",
+      "deadlineLabel": "2026/08/30 02:00",
+      "raceId": "R02",
+      "raceNo": 2,
+      "raceNoLabel": "2R",
+      "raceName": "無条件ASK記念アフターレース",
+      "grade": "OP",
+      "trackType": "坂芝",
+      "course": "コース1",
+      "entryCondition": "こっちは誰でも参加できます！",
+      "maxEntries": 18,
+      "racehorseOnly": false,
+      "racehorseEventId": "",
+      "firstPrize": 0,
+      "firstPrizeLabel": "",
+      "applicationType": "normalSet"
+    }
+  ]
 }
