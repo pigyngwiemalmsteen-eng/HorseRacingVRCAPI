@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-28T15:44:41.164Z",
-  "generatedAtLabel": "2026/08/29 00:44",
+  "generatedAt": "2026-08-29T15:44:40.550Z",
+  "generatedAtLabel": "2026/08/30 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2381,8 +2381,8 @@
       "dateLabel": "8月29日（土）",
       "dayNumber": "29",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:30 【仮想中央競馬会】夏の終わり将来の夢大きな希望",
       "events": [
         {
@@ -2441,7 +2441,7 @@
       "dateLabel": "8月30日（日）",
       "dayNumber": "30",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
