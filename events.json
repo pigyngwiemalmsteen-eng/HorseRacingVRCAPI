@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-29T16:44:40.673Z",
-  "generatedAtLabel": "2026/08/30 01:44",
+  "generatedAt": "2026-08-29T17:44:41.119Z",
+  "generatedAtLabel": "2026/08/30 02:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -595,9 +595,9 @@
             {
               "frameNumber": 8,
               "horseNumber": 17,
-              "horseId": "H000300",
-              "horseName": "ナスヴィーナス",
-              "ownerName": "小雨xiaoyu",
+              "horseId": "H000325",
+              "horseName": "ラストリゾートΣ",
+              "ownerName": "神威ルカ",
               "jockeyName": "くぁたん",
               "previousRuns": [],
               "firstCount": 0,
