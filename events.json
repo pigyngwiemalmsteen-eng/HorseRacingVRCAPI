@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-29T15:44:40.550Z",
-  "generatedAtLabel": "2026/08/30 00:44",
+  "generatedAt": "2026-08-29T16:44:40.673Z",
+  "generatedAtLabel": "2026/08/30 01:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -47,7 +47,7 @@
               "jockeyName": "団子あづも",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -165,7 +165,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -175,7 +175,7 @@
               "ownerName": "神威ルカ",
               "jockeyName": "RuM-らむ-",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 2,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -211,7 +211,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             }
           ]
         },
@@ -360,7 +360,7 @@
                   "finishPosition": 3
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             },
@@ -418,7 +418,15 @@
               "horseName": "ショーシャンクη",
               "ownerName": "モーリス",
               "jockeyName": "モーリス",
-              "previousRuns": [],
+              "previousRuns": [
+                {
+                  "eventId": "20260829",
+                  "raceId": "R01",
+                  "raceName": "新参記念",
+                  "grade": "OP",
+                  "finishPosition": 8
+                }
+              ],
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
@@ -474,7 +482,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -520,6 +528,13 @@
               "jockeyName": "RuM-らむ-",
               "previousRuns": [
                 {
+                  "eventId": "20260829",
+                  "raceId": "R01",
+                  "raceName": "新参記念",
+                  "grade": "OP",
+                  "finishPosition": 5
+                },
+                {
                   "eventId": "20260826_2",
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル18R",
@@ -532,18 +547,11 @@
                   "raceName": "08月26日 公式レース 第1R",
                   "grade": "OP",
                   "finishPosition": 5
-                },
-                {
-                  "eventId": "20260826_1",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル17R",
-                  "grade": "OP",
-                  "finishPosition": 8
                 }
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 7,
@@ -605,6 +613,13 @@
               "jockeyName": "nekoyume 693e",
               "previousRuns": [
                 {
+                  "eventId": "20260829",
+                  "raceId": "R01",
+                  "raceName": "新参記念",
+                  "grade": "OP",
+                  "finishPosition": 3
+                },
+                {
                   "eventId": "20260801",
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル10R",
@@ -621,7 +636,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             }
           ]
         },
@@ -822,7 +837,7 @@
                   "finishPosition": 3
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             },
@@ -858,7 +873,7 @@
               ],
               "firstCount": 4,
               "secondCount": 2,
-              "thirdCount": 2
+              "thirdCount": 3
             },
             {
               "frameNumber": 5,
@@ -890,7 +905,7 @@
                   "finishPosition": 4
                 }
               ],
-              "firstCount": 4,
+              "firstCount": 5,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -993,7 +1008,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -1096,7 +1111,7 @@
               ],
               "firstCount": 2,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 8,
@@ -2274,7 +2289,7 @@
           "timeLabel": "22:00 - 22:15",
           "location": "",
           "description": "",
-          "status": "枠順決定済",
+          "status": "回答集計済",
           "officialManaged": true,
           "races": [
             {
@@ -2287,7 +2302,7 @@
               "condition": "",
               "firstPrize": 0,
               "displayCondition": "平場芝 / コース3",
-              "status": "枠順決定済"
+              "status": "回答集計済"
             }
           ]
         },
