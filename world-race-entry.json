@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T13:22:11.867Z",
-  "generatedAtLabel": "2026/08/30 22:22",
+  "generatedAt": "2026-08-30T14:37:07.358Z",
+  "generatedAtLabel": "2026/08/30 23:37",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -98,28 +98,5 @@
     "明智ナオユキ",
     "风须sayuri"
   ],
-  "races": [
-    {
-      "eventId": "20260830",
-      "eventName": "8月30日 初心者限定！公式レース！",
-      "eventDate": "2026-08-30",
-      "eventDateLabel": "2026/08/30 22:45",
-      "deadline": "2026-08-30T17:00:00.000Z",
-      "deadlineLabel": "2026/08/31 02:00",
-      "raceId": "R01",
-      "raceNo": 1,
-      "raceNoLabel": "1R",
-      "raceName": "初心者限定公式レース！",
-      "grade": "OP",
-      "trackType": "平場芝",
-      "course": "コース1",
-      "entryCondition": "初心者限定です！初心者のラインはワールド勝利数5勝以下とします！",
-      "maxEntries": 16,
-      "racehorseOnly": false,
-      "racehorseEventId": "",
-      "firstPrize": 0,
-      "firstPrizeLabel": "",
-      "applicationType": "normalSet"
-    }
-  ]
+  "races": []
 }
