@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-29T17:44:41.119Z",
-  "generatedAtLabel": "2026/08/30 02:44",
+  "generatedAt": "2026-08-30T10:44:40.998Z",
+  "generatedAtLabel": "2026/08/30 19:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 0,
+  "defaultRaceCardEventIndex": 1,
   "raceCards": [
     {
       "eventId": "20260829",
@@ -952,6 +952,13 @@
               "jockeyName": "Re izu（レイズ）",
               "previousRuns": [
                 {
+                  "eventId": "20260829_1",
+                  "raceId": "R01",
+                  "raceName": "初心者用ASK記念アフターレース",
+                  "grade": "OP",
+                  "finishPosition": 5
+                },
+                {
                   "eventId": "20260824",
                   "raceId": "R01-A",
                   "raceName": "08月24日 公式レース 第1R A組",
@@ -964,13 +971,6 @@
                   "raceName": "ミミノコダービー 本戦",
                   "grade": "",
                   "finishPosition": 9
-                },
-                {
-                  "eventId": "20260729",
-                  "raceId": "R01-A",
-                  "raceName": "ミミノコダービー A組",
-                  "grade": "",
-                  "finishPosition": 5
                 }
               ],
               "firstCount": 0,
@@ -1207,6 +1207,558 @@
               "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "20260829_1",
+      "eventName": "ASK記念アフターレース",
+      "eventDate": "2026-08-29",
+      "eventDateLabel": "2026.08.29 土",
+      "startTime": "22:45",
+      "races": [
+        {
+          "eventId": "20260829_1",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "初心者用ASK記念アフターレース",
+          "grade": "OP",
+          "track": "坂芝",
+          "course": "コース1",
+          "condition": "こっちは初心者用です！",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000338",
+              "horseName": "ネミサンロクナナ★",
+              "ownerName": "ねみぃさん",
+              "jockeyName": "ねみぃさん",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 2,
+              "horseId": "H000317",
+              "horseName": "セイヤノマツリζ○",
+              "ownerName": "きなこっこ祭",
+              "jockeyName": "きなこっこ祭",
+              "previousRuns": [
+                {
+                  "eventId": "20260826",
+                  "raceId": "R01",
+                  "raceName": "08月26日 公式レース 第1R",
+                  "grade": "OP",
+                  "finishPosition": 12
+                },
+                {
+                  "eventId": "20260826_2",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル18R",
+                  "grade": "OP",
+                  "finishPosition": 15
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 3,
+              "horseId": "H000339",
+              "horseName": "マゼファランクスΨ◇",
+              "ownerName": "mazetarou",
+              "jockeyName": "mazetarou",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 4,
+              "horseId": "H000293",
+              "horseName": "レイジーマカロンβ△",
+              "ownerName": "Re izu（レイズ）",
+              "jockeyName": "Re izu（レイズ）",
+              "previousRuns": [
+                {
+                  "eventId": "20260824",
+                  "raceId": "R01-A",
+                  "raceName": "08月24日 公式レース 第1R A組",
+                  "grade": "OP",
+                  "finishPosition": 8
+                },
+                {
+                  "eventId": "20260729",
+                  "raceId": "R02",
+                  "raceName": "ミミノコダービー 本戦",
+                  "grade": "",
+                  "finishPosition": 9
+                },
+                {
+                  "eventId": "20260729",
+                  "raceId": "R01-A",
+                  "raceName": "ミミノコダービー A組",
+                  "grade": "",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 5,
+              "horseId": "H000323",
+              "horseName": "ドラエルΨ",
+              "ownerName": "ぎんねこ851",
+              "jockeyName": "ぎんねこ851",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 6,
+              "horseId": "H000299",
+              "horseName": "ルナタッピλ",
+              "ownerName": "神威ルカ",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [],
+              "firstCount": 2,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 7,
+              "horseId": "H000342",
+              "horseName": "ヤニカスナノカ♪",
+              "ownerName": "団子あづも",
+              "jockeyName": "団子あづも",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20260829_1",
+          "raceId": "R02",
+          "raceNumber": 2,
+          "raceNo": "2R",
+          "raceName": "無条件ASK記念アフターレース",
+          "grade": "OP",
+          "track": "坂芝",
+          "course": "コース1",
+          "condition": "こっちは誰でも参加できます！",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000285",
+              "horseName": "ヤシキフラッシュΣ",
+              "ownerName": "RenNeko12",
+              "jockeyName": "RenNeko12",
+              "previousRuns": [
+                {
+                  "eventId": "20260824",
+                  "raceId": "R01-A",
+                  "raceName": "08月24日 公式レース 第1R A組",
+                  "grade": "OP",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000314",
+              "horseName": "スパークルザンテツΣ†",
+              "ownerName": "Nele-san",
+              "jockeyName": "Nele-san",
+              "previousRuns": [
+                {
+                  "eventId": "20260826",
+                  "raceId": "R01",
+                  "raceName": "08月26日 公式レース 第1R",
+                  "grade": "OP",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260826_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル17R",
+                  "grade": "OP",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260823_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル16R",
+                  "grade": "OP",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 4,
+              "secondCount": 2,
+              "thirdCount": 3
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000327",
+              "horseName": "ドデカヘイムダルλ†",
+              "ownerName": "おとおと",
+              "jockeyName": "ポタジェ",
+              "previousRuns": [
+                {
+                  "eventId": "20260826_2",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル18R",
+                  "grade": "OP",
+                  "finishPosition": 5
+                },
+                {
+                  "eventId": "20260826_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル17R",
+                  "grade": "OP",
+                  "finishPosition": 11
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000271",
+              "horseName": "ルチカライトロードλ†",
+              "ownerName": "YuyaKuga",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [
+                {
+                  "eventId": "20260823",
+                  "raceId": "R01",
+                  "raceName": "08月23日 公式レース 第1R",
+                  "grade": "OP",
+                  "finishPosition": 4
+                },
+                {
+                  "eventId": "20260815",
+                  "raceId": "R02",
+                  "raceName": "第1回！一番の汗っかきは誰だ選手権！",
+                  "grade": "OP",
+                  "finishPosition": 2
+                },
+                {
+                  "eventId": "20260815",
+                  "raceId": "R01",
+                  "raceName": "真夏のジャンボリー第1 レース",
+                  "grade": "OP",
+                  "finishPosition": 1
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 2,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000257",
+              "horseName": "オイシイマンゴー¶■",
+              "ownerName": "toburuku",
+              "jockeyName": "toburuku",
+              "previousRuns": [
+                {
+                  "eventId": "20260819",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル15R",
+                  "grade": "OP",
+                  "finishPosition": 3
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000317",
+              "horseName": "セイヤノマツリζ○",
+              "ownerName": "きなこっこ祭",
+              "jockeyName": "きなこっこ祭",
+              "previousRuns": [
+                {
+                  "eventId": "20260829_1",
+                  "raceId": "R01",
+                  "raceName": "初心者用ASK記念アフターレース",
+                  "grade": "OP",
+                  "finishPosition": 3
+                },
+                {
+                  "eventId": "20260826",
+                  "raceId": "R01",
+                  "raceName": "08月26日 公式レース 第1R",
+                  "grade": "OP",
+                  "finishPosition": 12
+                },
+                {
+                  "eventId": "20260826_2",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル18R",
+                  "grade": "OP",
+                  "finishPosition": 15
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000339",
+              "horseName": "マゼファランクスΨ◇",
+              "ownerName": "mazetarou",
+              "jockeyName": "mazetarou",
+              "previousRuns": [
+                {
+                  "eventId": "20260829_1",
+                  "raceId": "R01",
+                  "raceName": "初心者用ASK記念アフターレース",
+                  "grade": "OP",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000262",
+              "horseName": "HorlickSky¶†",
+              "ownerName": "MEA.YZKR(メア）",
+              "jockeyName": "SHINSHI0080",
+              "previousRuns": [
+                {
+                  "eventId": "20260823",
+                  "raceId": "R01",
+                  "raceName": "08月23日 公式レース 第1R",
+                  "grade": "OP",
+                  "finishPosition": 10
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000328",
+              "horseName": "フニャオスノコエ♪◎",
+              "ownerName": "ふゆうぶったい",
+              "jockeyName": "ふゆうぶったい",
+              "previousRuns": [
+                {
+                  "eventId": "20260826_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル17R",
+                  "grade": "OP",
+                  "finishPosition": 9
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000336",
+              "horseName": "ネミサンオオニゲλ†",
+              "ownerName": "ねみぃさん",
+              "jockeyName": "ねみぃさん",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 11,
+              "horseId": "H000337",
+              "horseName": "スティクス★★★†",
+              "ownerName": "砂海ハトリ",
+              "jockeyName": "砂海ハトリ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 12,
+              "horseId": "H000335",
+              "horseName": "フジフローΨ",
+              "ownerName": "Nagare -ながれ-",
+              "jockeyName": "Nagare -ながれ-",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 13,
+              "horseId": "H000064",
+              "horseName": "ルナアーモンド",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [
+                {
+                  "eventId": "20260805",
+                  "raceId": "R01",
+                  "raceName": "定期交流会ハンデ戦",
+                  "grade": "",
+                  "finishPosition": 9
+                },
+                {
+                  "eventId": "20260725",
+                  "raceId": "R02",
+                  "raceName": "常連に下剋上レース",
+                  "grade": "",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260711",
+                  "raceId": "R03",
+                  "raceName": "ウマ娘新シナリオ実装記念",
+                  "grade": "",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 2,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 14,
+              "horseId": "H000293",
+              "horseName": "レイジーマカロンβ",
+              "ownerName": "Re izu（レイズ）",
+              "jockeyName": "Re izu（レイズ）",
+              "previousRuns": [
+                {
+                  "eventId": "20260829_1",
+                  "raceId": "R01",
+                  "raceName": "初心者用ASK記念アフターレース",
+                  "grade": "OP",
+                  "finishPosition": 5
+                },
+                {
+                  "eventId": "20260824",
+                  "raceId": "R01-A",
+                  "raceName": "08月24日 公式レース 第1R A組",
+                  "grade": "OP",
+                  "finishPosition": 8
+                },
+                {
+                  "eventId": "20260729",
+                  "raceId": "R02",
+                  "raceName": "ミミノコダービー 本戦",
+                  "grade": "",
+                  "finishPosition": 9
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 15,
+              "horseId": "H000129",
+              "horseName": "サクラロードナイトβ",
+              "ownerName": "Annulaire",
+              "jockeyName": "Annulaire",
+              "previousRuns": [
+                {
+                  "eventId": "20260805_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル11R",
+                  "grade": "OP",
+                  "finishPosition": 7
+                },
+                {
+                  "eventId": "20260805",
+                  "raceId": "R01",
+                  "raceName": "定期交流会ハンデ戦",
+                  "grade": "",
+                  "finishPosition": 10
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 16,
+              "horseId": "H000139",
+              "horseName": "ナイトウィングス",
+              "ownerName": "yakisushi0619",
+              "jockeyName": "yakisushi0619",
+              "previousRuns": [
+                {
+                  "eventId": "20260815",
+                  "raceId": "R03",
+                  "raceName": "スイレン記念",
+                  "grade": "GⅢ",
+                  "finishPosition": 6
+                },
+                {
+                  "eventId": "20260809_1",
+                  "raceId": "R01",
+                  "raceName": "第一回レーティングバトル12R",
+                  "grade": "OP",
+                  "finishPosition": 10
+                },
+                {
+                  "eventId": "20260808_01",
+                  "raceId": "R02",
+                  "raceName": "アサガオステークス",
+                  "grade": "",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
             }
           ]
         }
@@ -2398,7 +2950,7 @@
       "weekday": "土",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "21:00 - 22:30 【仮想中央競馬会】夏の終わり将来の夢大きな希望",
+      "eventSummary": "21:00 - 22:30 【仮想中央競馬会】夏の終わり将来の夢大きな希望 ほか1件",
       "events": [
         {
           "calendarEventId": "9gghgtktmbcfpebv1c9jk5n224@google.com",
@@ -2447,6 +2999,42 @@
               "status": "出走表作成済"
             }
           ]
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260829_1",
+          "title": "ASK記念アフターレース",
+          "timeLabel": "22:45 - 23:59",
+          "location": "",
+          "description": "",
+          "status": "公開済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "初心者用ASK記念アフターレース",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース1",
+              "condition": "こっちは初心者用です！",
+              "firstPrize": 0,
+              "displayCondition": "坂芝 / コース1 / こっちは初心者用です！",
+              "status": "公開済"
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "無条件ASK記念アフターレース",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース1",
+              "condition": "こっちは誰でも参加できます！",
+              "firstPrize": 0,
+              "displayCondition": "坂芝 / コース1 / こっちは誰でも参加できます！",
+              "status": "公開済"
+            }
+          ]
         }
       ]
     },
@@ -2458,8 +3046,19 @@
       "weekday": "日",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "eventSummary": "00:00 - 00:00 初心者限定！公式レース！ ほか1件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20260830",
+          "title": "初心者限定！公式レース！",
+          "timeLabel": "00:00 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
           "eventId": "",
