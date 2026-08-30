@@ -1,252 +1,12 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-30T20:44:41.008Z",
-  "generatedAtLabel": "2026/08/31 05:44",
+  "generatedAt": "2026-08-30T23:06:56.957Z",
+  "generatedAtLabel": "2026/08/31 08:06",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
   "defaultRaceCardEventIndex": 0,
-  "raceCards": [
-    {
-      "eventId": "20260830",
-      "eventName": "8月30日 公式レース！",
-      "eventDate": "2026-08-30",
-      "eventDateLabel": "2026.08.30 日",
-      "startTime": "22:45",
-      "races": [
-        {
-          "eventId": "20260830",
-          "raceId": "R01",
-          "raceNumber": 1,
-          "raceNo": "1R",
-          "raceName": "公式レース！",
-          "grade": "OP",
-          "track": "平場芝",
-          "course": "コース1",
-          "condition": "誰でも参加OK",
-          "firstPrize": 0,
-          "entries": [
-            {
-              "frameNumber": 1,
-              "horseNumber": 1,
-              "horseId": "H000344",
-              "horseName": "スパークルクニミツ★★★†",
-              "ownerName": "Nele-san",
-              "jockeyName": "Nele-san",
-              "previousRuns": [],
-              "firstCount": 1,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 1,
-              "horseNumber": 2,
-              "horseId": "H000284",
-              "horseName": "ウラギルコルクλ†",
-              "ownerName": "コントキ",
-              "jockeyName": "コントキ",
-              "previousRuns": [
-                {
-                  "eventId": "20260824",
-                  "raceId": "R01-B",
-                  "raceName": "08月24日 公式レース 第1R B組",
-                  "grade": "OP",
-                  "finishPosition": 5
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 2,
-              "horseNumber": 3,
-              "horseId": "H000084",
-              "horseName": "ネミサンエメラルド†",
-              "ownerName": "ねみぃさん",
-              "jockeyName": "ねみぃさん",
-              "previousRuns": [
-                {
-                  "eventId": "20260823_1",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル16R",
-                  "grade": "OP",
-                  "finishPosition": 8
-                },
-                {
-                  "eventId": "20260811",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル13R",
-                  "grade": "OP",
-                  "finishPosition": 13
-                },
-                {
-                  "eventId": "20260809_1",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル12R",
-                  "grade": "OP",
-                  "finishPosition": 13
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 1
-            },
-            {
-              "frameNumber": 2,
-              "horseNumber": 4,
-              "horseId": "H000345",
-              "horseName": "WhoIsTheLiar★◎",
-              "ownerName": "kaedew025",
-              "jockeyName": "kaedew025",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 3,
-              "horseNumber": 5,
-              "horseId": "H000346",
-              "horseName": "レーゲンキセキ★★▼",
-              "ownerName": "雨乃ユウ",
-              "jockeyName": "雨乃ユウ",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 1,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 3,
-              "horseNumber": 6,
-              "horseId": "H000317",
-              "horseName": "セイヤノマツリζ○",
-              "ownerName": "きなこっこ祭",
-              "jockeyName": "きなこっこ祭",
-              "previousRuns": [
-                {
-                  "eventId": "20260829_1",
-                  "raceId": "R02",
-                  "raceName": "無条件ASK記念アフターレース",
-                  "grade": "OP",
-                  "finishPosition": 14
-                },
-                {
-                  "eventId": "20260829_1",
-                  "raceId": "R01",
-                  "raceName": "初心者用ASK記念アフターレース",
-                  "grade": "OP",
-                  "finishPosition": 3
-                },
-                {
-                  "eventId": "20260826",
-                  "raceId": "R01",
-                  "raceName": "08月26日 公式レース 第1R",
-                  "grade": "OP",
-                  "finishPosition": 12
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 1
-            },
-            {
-              "frameNumber": 4,
-              "horseNumber": 7,
-              "horseId": "H000064",
-              "horseName": "ルナアーモンド",
-              "ownerName": "神威ルカ",
-              "jockeyName": "神威ルカ",
-              "previousRuns": [
-                {
-                  "eventId": "20260829",
-                  "raceId": "R03",
-                  "raceName": "G1 ASK記念",
-                  "grade": "G1",
-                  "finishPosition": 2
-                },
-                {
-                  "eventId": "20260829_1",
-                  "raceId": "R02",
-                  "raceName": "無条件ASK記念アフターレース",
-                  "grade": "OP",
-                  "finishPosition": 4
-                },
-                {
-                  "eventId": "20260805",
-                  "raceId": "R01",
-                  "raceName": "定期交流会ハンデ戦",
-                  "grade": "",
-                  "finishPosition": 9
-                }
-              ],
-              "firstCount": 1,
-              "secondCount": 2,
-              "thirdCount": 1
-            },
-            {
-              "frameNumber": 4,
-              "horseNumber": 8,
-              "horseId": "H000347",
-              "horseName": "VocaliseDuo♪△",
-              "ownerName": "MEA.YZKR(メア）",
-              "jockeyName": "MEA․YZKR（メア）",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 5,
-              "horseNumber": 9,
-              "horseId": "H000309",
-              "horseName": "ルチカファンタジア★★★†",
-              "ownerName": "YuyaKuga",
-              "jockeyName": "YuyaKuga",
-              "previousRuns": [
-                {
-                  "eventId": "20260829",
-                  "raceId": "R02",
-                  "raceName": "スタダラストステークス",
-                  "grade": "GⅡ",
-                  "finishPosition": 10
-                },
-                {
-                  "eventId": "20260826_1",
-                  "raceId": "R01",
-                  "raceName": "第一回レーティングバトル17R",
-                  "grade": "OP",
-                  "finishPosition": 3
-                },
-                {
-                  "eventId": "20260826",
-                  "raceId": "R01",
-                  "raceName": "08月26日 公式レース 第1R",
-                  "grade": "OP",
-                  "finishPosition": 4
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 1
-            },
-            {
-              "frameNumber": 5,
-              "horseNumber": 10,
-              "horseId": "H000348",
-              "horseName": "LunaFontaine★",
-              "ownerName": "神威ルカ",
-              "jockeyName": "RuM-らむ-",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "raceCards": [],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -1437,13 +1197,13 @@
           "races": []
         },
         {
-          "calendarEventId": "",
+          "calendarEventId": "2fppvlvhlhvko1opov70po9300@google.com",
           "eventId": "20260902",
-          "title": "9月2日定期交流会公式レース",
+          "title": "【仮想中央競馬会】9月2日定期交流会公式レース",
           "timeLabel": "22:45 - 23:59",
-          "location": "",
+          "location": "VRChat",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1456,7 +1216,7 @@
               "condition": "記号なしの馬限定戦です！",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース2 / 記号なしの馬限定戦です！",
-              "status": ""
+              "status": "募集中"
             },
             {
               "raceId": "R02",
@@ -1468,7 +1228,7 @@
               "condition": "漢字馬含むどの馬に乗ってもいいレースです！",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース4 / 漢字馬含むどの馬に乗ってもいいレースです！",
-              "status": ""
+              "status": "募集中"
             }
           ]
         }
