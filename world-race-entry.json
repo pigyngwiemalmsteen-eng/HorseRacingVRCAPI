@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T14:37:07.358Z",
-  "generatedAtLabel": "2026/08/30 23:37",
+  "generatedAt": "2026-08-30T23:07:05.418Z",
+  "generatedAtLabel": "2026/08/31 08:07",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -98,5 +98,50 @@
     "明智ナオユキ",
     "风须sayuri"
   ],
-  "races": []
+  "races": [
+    {
+      "eventId": "20260902",
+      "eventName": "9月2日定期交流会公式レース",
+      "eventDate": "2026-09-02",
+      "eventDateLabel": "2026/09/02 22:45",
+      "deadline": "2026-09-02T14:30:00.000Z",
+      "deadlineLabel": "2026/09/02 23:30",
+      "raceId": "R01",
+      "raceNo": 1,
+      "raceNoLabel": "1R",
+      "raceName": "記号なし馬限定戦",
+      "grade": "OP",
+      "trackType": "坂芝",
+      "course": "コース2",
+      "entryCondition": "記号なしの馬限定戦です！",
+      "maxEntries": 18,
+      "racehorseOnly": false,
+      "racehorseEventId": "",
+      "firstPrize": 0,
+      "firstPrizeLabel": "",
+      "applicationType": "normalSet"
+    },
+    {
+      "eventId": "20260902",
+      "eventName": "9月2日定期交流会公式レース",
+      "eventDate": "2026-09-02",
+      "eventDateLabel": "2026/09/02 22:45",
+      "deadline": "2026-09-02T14:30:00.000Z",
+      "deadlineLabel": "2026/09/02 23:30",
+      "raceId": "R02",
+      "raceNo": 2,
+      "raceNoLabel": "2R",
+      "raceName": "特殊馬全解禁レース",
+      "grade": "OP",
+      "trackType": "坂芝",
+      "course": "コース4",
+      "entryCondition": "漢字馬含むどの馬に乗ってもいいレースです！",
+      "maxEntries": 18,
+      "racehorseOnly": false,
+      "racehorseEventId": "",
+      "firstPrize": 0,
+      "firstPrizeLabel": "",
+      "applicationType": "normalSet"
+    }
+  ]
 }
