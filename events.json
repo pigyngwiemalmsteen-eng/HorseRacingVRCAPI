@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-30T16:44:40.925Z",
-  "generatedAtLabel": "2026/08/31 01:44",
+  "generatedAt": "2026-08-30T20:44:41.008Z",
+  "generatedAtLabel": "2026/08/31 05:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1357,7 +1357,7 @@
               "raceId": "R01",
               "raceNo": "1R",
               "raceName": "第一回レーティングバトル19R",
-              "grade": "",
+              "grade": "OP",
               "track": "ダート",
               "course": "コース1",
               "condition": "",
@@ -1423,7 +1423,7 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "22:00 - 23:00 定期交流会 ほか1件",
       "events": [
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
@@ -1435,6 +1435,42 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260902",
+          "title": "9月2日定期交流会公式レース",
+          "timeLabel": "22:45 - 23:59",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "記号なし馬限定戦",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース2",
+              "condition": "記号なしの馬限定戦です！",
+              "firstPrize": 0,
+              "displayCondition": "坂芝 / コース2 / 記号なしの馬限定戦です！",
+              "status": ""
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "特殊馬全解禁レース",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース4",
+              "condition": "漢字馬含むどの馬に乗ってもいいレースです！",
+              "firstPrize": 0,
+              "displayCondition": "坂芝 / コース4 / 漢字馬含むどの馬に乗ってもいいレースです！",
+              "status": ""
+            }
+          ]
         }
       ]
     },
@@ -1480,8 +1516,57 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:00 - 22:30 シーズンレース開始！",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20260905",
+          "title": "シーズンレース開始！",
+          "timeLabel": "21:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "新馬戦①",
+              "grade": "新馬",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "新馬戦です！①か②を馬ごとに選択してください！",
+              "firstPrize": 400,
+              "displayCondition": "平場芝 / コース1 / 新馬戦です！①か②を馬ごとに選択してください！",
+              "status": ""
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "新馬戦②",
+              "grade": "新馬",
+              "track": "平場芝",
+              "course": "コース3",
+              "condition": "新馬戦です！①か②を馬ごとに選択してください！",
+              "firstPrize": 400,
+              "displayCondition": "平場芝 / コース3 / 新馬戦です！①か②を馬ごとに選択してください！",
+              "status": ""
+            },
+            {
+              "raceId": "R03",
+              "raceNo": "3R",
+              "raceName": "レーティングバトルありがとうステークス",
+              "grade": "G2",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "Discordにて募集し、運営が入力するので、参加者の方は登録しないで大丈夫です！",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース1 / Discordにて募集し、運営が入力するので、参加者の方は登録しないで大丈夫です！",
+              "status": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-09-06",
