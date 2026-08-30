@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-30T14:36:57.353Z",
-  "generatedAtLabel": "2026/08/30 23:36",
+  "generatedAt": "2026-08-30T14:44:40.877Z",
+  "generatedAtLabel": "2026/08/30 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -23,7 +23,7 @@
           "grade": "OP",
           "track": "平場芝",
           "course": "コース1",
-          "condition": "初心者限定です！初心者のラインはワールド勝利数5勝以下とします！",
+          "condition": "誰でも参加OK",
           "firstPrize": 0,
           "entries": [
             {
@@ -1542,13 +1542,13 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "初心者限定公式レース！",
+              "raceName": "公式レース！",
               "grade": "OP",
               "track": "平場芝",
               "course": "コース1",
-              "condition": "初心者限定です！初心者のラインはワールド勝利数5勝以下とします！",
+              "condition": "誰でも参加OK",
               "firstPrize": 0,
-              "displayCondition": "平場芝 / コース1 / 初心者限定です！初心者のラインはワールド勝利数5勝以下とします！",
+              "displayCondition": "平場芝 / コース1 / 誰でも参加OK",
               "status": "公開済"
             }
           ]
