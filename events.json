@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-30T15:12:00.413Z",
-  "generatedAtLabel": "2026/08/31 00:12",
+  "generatedAt": "2026-08-30T15:44:40.534Z",
+  "generatedAtLabel": "2026/08/31 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -229,6 +229,18 @@
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 1
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000348",
+              "horseName": "LunaFontaine★",
+              "ownerName": "神威ルカ",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
             }
           ]
         }
