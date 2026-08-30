@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-30T15:44:40.534Z",
-  "generatedAtLabel": "2026/08/31 00:44",
+  "generatedAt": "2026-08-30T16:16:57.165Z",
+  "generatedAtLabel": "2026/08/31 01:16",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -34,7 +34,7 @@
               "ownerName": "Nele-san",
               "jockeyName": "Nele-san",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -113,7 +113,7 @@
               "jockeyName": "雨乃ユウ",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -182,7 +182,7 @@
               ],
               "firstCount": 1,
               "secondCount": 2,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -1330,7 +1330,7 @@
       "weekday": "日",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会 ほか1件",
+      "eventSummary": "21:00 - 22:00 初心者向け交流会 ほか2件",
       "events": [
         {
           "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
@@ -1342,6 +1342,30 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260830_1",
+          "title": "第一回レーティングバトル19R",
+          "timeLabel": "22:00 - 22:15",
+          "location": "",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "第一回レーティングバトル19R",
+              "grade": "",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "ダート / コース1",
+              "status": "募集中"
+            }
+          ]
         },
         {
           "calendarEventId": "",
