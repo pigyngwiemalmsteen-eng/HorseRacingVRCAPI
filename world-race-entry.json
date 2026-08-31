@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T10:22:09.531Z",
-  "generatedAtLabel": "2026/08/31 19:22",
+  "generatedAt": "2026-08-31T12:40:17.114Z",
+  "generatedAtLabel": "2026/08/31 21:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -43,6 +43,7 @@
     "RuM-らむ-",
     "SHINSHI0080",
     "Sirius.S",
+    "Sirius․S",
     "sirozakura_N",
     "siyuu007",
     "Teddy_Aoumi",
