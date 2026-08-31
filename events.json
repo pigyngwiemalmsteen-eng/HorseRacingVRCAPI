@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-31T09:44:41.003Z",
-  "generatedAtLabel": "2026/08/31 18:44",
+  "generatedAt": "2026-08-31T10:21:56.977Z",
+  "generatedAtLabel": "2026/08/31 19:21",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1276,16 +1276,16 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:30 シーズンレース開始！",
+      "eventSummary": "21:00 - 22:30 【仮想中央競馬会】シーズンレース開始！",
       "events": [
         {
-          "calendarEventId": "",
+          "calendarEventId": "baon7c69jmdtoam052mu0kv5fo@google.com",
           "eventId": "20260905",
-          "title": "シーズンレース開始！",
+          "title": "【仮想中央競馬会】シーズンレース開始！",
           "timeLabel": "21:00 - 22:30",
-          "location": "",
+          "location": "VRChat",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1298,7 +1298,7 @@
               "condition": "新馬戦です！①か②を馬ごとに選択してください！",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース1 / 新馬戦です！①か②を馬ごとに選択してください！",
-              "status": ""
+              "status": "募集中"
             },
             {
               "raceId": "R02",
@@ -1310,7 +1310,7 @@
               "condition": "新馬戦です！①か②を馬ごとに選択してください！",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース3 / 新馬戦です！①か②を馬ごとに選択してください！",
-              "status": ""
+              "status": "募集中"
             },
             {
               "raceId": "R03",
@@ -1322,7 +1322,7 @@
               "condition": "Discordにて出走か回避かのフォームを送り、それに応じて運営が入力するので、参加者の方は登録しないで大丈夫です！",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース4 / Discordにて出走か回避かのフォームを送り、それに応じて運営が入力するので、参加者の方は登録しないで大丈夫です！",
-              "status": ""
+              "status": "募集中"
             }
           ]
         }
