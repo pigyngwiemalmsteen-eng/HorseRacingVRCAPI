@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-02T13:44:42.519Z",
-  "generatedAtLabel": "2026/09/02 22:44",
+  "generatedAt": "2026-09-02T15:44:42.362Z",
+  "generatedAtLabel": "2026/09/03 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1862,8 +1862,8 @@
       "dateLabel": "9月2日（水）",
       "dayNumber": "2",
       "weekday": "水",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "22:00 - 23:00 定期交流会 ほか1件",
       "events": [
         {
@@ -1921,7 +1921,7 @@
       "dateLabel": "9月3日（木）",
       "dayNumber": "3",
       "weekday": "木",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
