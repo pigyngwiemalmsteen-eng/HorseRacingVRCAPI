@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-01T15:44:41.993Z",
-  "generatedAtLabel": "2026/09/02 00:44",
+  "generatedAt": "2026-09-02T03:44:41.365Z",
+  "generatedAtLabel": "2026/09/02 12:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1285,7 +1285,7 @@
           "timeLabel": "21:00 - 22:30",
           "location": "VRChat",
           "description": "",
-          "status": "募集中",
+          "status": "回答集計済",
           "officialManaged": true,
           "races": [
             {
@@ -1298,7 +1298,7 @@
               "condition": "新馬戦です！①か②を馬ごとに選択してください！",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース1 / 新馬戦です！①か②を馬ごとに選択してください！",
-              "status": "募集中"
+              "status": "回答集計済"
             },
             {
               "raceId": "R02",
@@ -1310,7 +1310,7 @@
               "condition": "新馬戦です！①か②を馬ごとに選択してください！",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース3 / 新馬戦です！①か②を馬ごとに選択してください！",
-              "status": "募集中"
+              "status": "回答集計済"
             },
             {
               "raceId": "R03",
@@ -1322,7 +1322,7 @@
               "condition": "Discordにて出走か回避かのフォームを送り、それに応じて運営が入力するので、参加者の方は登録しないで大丈夫です！",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース4 / Discordにて出走か回避かのフォームを送り、それに応じて運営が入力するので、参加者の方は登録しないで大丈夫です！",
-              "status": "募集中"
+              "status": "回答集計済"
             }
           ]
         }
