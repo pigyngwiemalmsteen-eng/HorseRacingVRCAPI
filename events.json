@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-02T15:44:42.362Z",
-  "generatedAtLabel": "2026/09/03 00:44",
+  "generatedAt": "2026-09-02T21:44:41.880Z",
+  "generatedAtLabel": "2026/09/03 06:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -55,7 +55,7 @@
               "jockeyName": "なぎっちゅ。",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -136,7 +136,7 @@
               "ownerName": "雨乃ユウ",
               "jockeyName": "雨乃ユウ",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -189,7 +189,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 6,
@@ -261,7 +261,7 @@
               "ownerName": "toburuku",
               "jockeyName": "toburuku",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -274,7 +274,7 @@
               "jockeyName": "砂海ハトリ",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -319,7 +319,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -368,7 +368,7 @@
               "jockeyName": "神威ルカ",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -381,7 +381,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -447,7 +447,7 @@
               "ownerName": "雨乃ユウ",
               "jockeyName": "雨乃ユウ",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -458,7 +458,15 @@
               "horseName": "Neargo†",
               "ownerName": "Sirius․S",
               "jockeyName": "Sirius․S",
-              "previousRuns": [],
+              "previousRuns": [
+                {
+                  "eventId": "20260902",
+                  "raceId": "R01-A",
+                  "raceName": "記号なし馬限定戦 A組",
+                  "grade": "OP",
+                  "finishPosition": 5
+                }
+              ],
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
@@ -473,7 +481,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -578,7 +586,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 1
             },
             {
@@ -613,7 +621,7 @@
               "ownerName": "小雨xiaoyu",
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -682,6 +690,18 @@
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000389",
+              "horseName": "ディープサンクタケ",
+              "ownerName": "結月アオバ",
+              "jockeyName": "結月アオバ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
             }
           ]
         }
