@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-02T03:44:41.365Z",
-  "generatedAtLabel": "2026/09/02 12:44",
+  "generatedAt": "2026-09-02T10:44:41.841Z",
+  "generatedAtLabel": "2026/09/02 19:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1203,7 +1203,7 @@
           "timeLabel": "22:45 - 23:59",
           "location": "VRChat",
           "description": "",
-          "status": "募集中",
+          "status": "回答集計済",
           "officialManaged": true,
           "races": [
             {
@@ -1216,7 +1216,7 @@
               "condition": "記号なしの馬限定戦です！",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース2 / 記号なしの馬限定戦です！",
-              "status": "募集中"
+              "status": "回答集計済"
             },
             {
               "raceId": "R02",
@@ -1228,7 +1228,7 @@
               "condition": "漢字馬含むどの馬に乗ってもいいレースです！",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース4 / 漢字馬含むどの馬に乗ってもいいレースです！",
-              "status": "募集中"
+              "status": "回答集計済"
             }
           ]
         }
