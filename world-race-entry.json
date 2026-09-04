@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T13:40:16.348Z",
-  "generatedAtLabel": "2026/09/02 22:40",
+  "generatedAt": "2026-09-04T12:40:16.601Z",
+  "generatedAtLabel": "2026/09/04 21:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -79,6 +79,7 @@
     "ぴとふーい29",
     "ふゆうぶったい",
     "まっつん_",
+    "みしえる",
     "メデタイラー",
     "モーリス",
     "雨乃ユウ",
