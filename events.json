@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-04T17:44:44.461Z",
-  "generatedAtLabel": "2026/09/05 02:44",
+  "generatedAt": "2026-09-04T19:44:41.101Z",
+  "generatedAtLabel": "2026/09/05 04:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1291,7 +1291,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "新馬戦①",
+              "raceName": "㋛新馬戦①",
               "grade": "新馬",
               "track": "平場芝",
               "course": "コース1",
@@ -1303,7 +1303,7 @@
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "新馬戦②",
+              "raceName": "㋛新馬戦②",
               "grade": "新馬",
               "track": "平場芝",
               "course": "コース3",
