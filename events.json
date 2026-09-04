@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-03T15:44:41.050Z",
-  "generatedAtLabel": "2026/09/04 00:44",
+  "generatedAt": "2026-09-04T15:44:42.382Z",
+  "generatedAtLabel": "2026/09/05 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1952,8 +1952,8 @@
       "dateLabel": "9月4日（金）",
       "dayNumber": "4",
       "weekday": "金",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
         {
@@ -1975,7 +1975,7 @@
       "dateLabel": "9月5日（土）",
       "dayNumber": "5",
       "weekday": "土",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 22:30 【仮想中央競馬会】シーズンレース開始！",
       "events": [
