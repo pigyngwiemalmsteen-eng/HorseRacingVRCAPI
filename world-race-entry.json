@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T21:17:03.090Z",
-  "generatedAtLabel": "2026/09/05 06:17",
+  "generatedAt": "2026-09-05T16:13:09.851Z",
+  "generatedAtLabel": "2026/09/06 01:13",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -103,5 +103,50 @@
     "明智ナオユキ",
     "风须sayuri"
   ],
-  "races": []
+  "races": [
+    {
+      "eventId": "20260909",
+      "eventName": "9月9日シーズンレース未勝利戦",
+      "eventDate": "2026-09-09",
+      "eventDateLabel": "2026/09/09 22:00",
+      "deadline": "2026-09-06T21:00:00.000Z",
+      "deadlineLabel": "2026/09/07 06:00",
+      "raceId": "R01",
+      "raceNo": 1,
+      "raceNoLabel": "1R",
+      "raceName": "㋛未勝利戦①",
+      "grade": "未勝利",
+      "trackType": "平場芝",
+      "course": "コース2",
+      "entryCondition": "未勝利戦です！騎手が別なら同じレースに出せます！",
+      "maxEntries": 16,
+      "racehorseOnly": true,
+      "racehorseEventId": "60001",
+      "firstPrize": 400,
+      "firstPrizeLabel": "400万uma円",
+      "applicationType": "normalSet"
+    },
+    {
+      "eventId": "20260909",
+      "eventName": "9月9日シーズンレース未勝利戦",
+      "eventDate": "2026-09-09",
+      "eventDateLabel": "2026/09/09 22:00",
+      "deadline": "2026-09-06T21:00:00.000Z",
+      "deadlineLabel": "2026/09/07 06:00",
+      "raceId": "R02",
+      "raceNo": 2,
+      "raceNoLabel": "2R",
+      "raceName": "㋛未勝利戦②",
+      "grade": "未勝利",
+      "trackType": "平場芝",
+      "course": "コース1",
+      "entryCondition": "未勝利戦です！騎手が別なら同じレースに出せます！",
+      "maxEntries": 16,
+      "racehorseOnly": true,
+      "racehorseEventId": "60001",
+      "firstPrize": 400,
+      "firstPrizeLabel": "400万uma円",
+      "applicationType": "normalSet"
+    }
+  ]
 }
