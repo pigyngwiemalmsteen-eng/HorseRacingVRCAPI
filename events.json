@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-04T21:16:56.450Z",
-  "generatedAtLabel": "2026/09/05 06:16",
+  "generatedAt": "2026-09-05T15:44:41.514Z",
+  "generatedAtLabel": "2026/09/06 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -20,7 +20,7 @@
           "raceNumber": 1,
           "raceNo": "1R",
           "raceName": "㋛新馬戦① A組",
-          "grade": "新馬",
+          "grade": "未勝利",
           "track": "平場芝",
           "course": "コース1",
           "condition": "",
@@ -70,7 +70,7 @@
               "ownerName": "小雨xiaoyu",
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -120,7 +120,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -131,7 +131,7 @@
               "jockeyName": "YuyaKuga",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -166,7 +166,7 @@
           "raceNumber": 1,
           "raceNo": "1R",
           "raceName": "㋛新馬戦① B組",
-          "grade": "新馬",
+          "grade": "未勝利",
           "track": "平場芝",
           "course": "コース1",
           "condition": "",
@@ -182,7 +182,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 1,
@@ -252,7 +252,7 @@
               "ownerName": "Annulaire",
               "jockeyName": "Annulaire",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -277,7 +277,7 @@
               "jockeyName": "toburuku",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -300,7 +300,7 @@
           "raceNumber": 2,
           "raceNo": "2R",
           "raceName": "㋛新馬戦② A組",
-          "grade": "新馬",
+          "grade": "未勝利",
           "track": "平場芝",
           "course": "コース3",
           "condition": "",
@@ -328,7 +328,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -386,7 +386,7 @@
               "ownerName": "雨乃ユウ",
               "jockeyName": "雨乃ユウ",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -435,7 +435,7 @@
               "jockeyName": "RenNeko12",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             }
           ]
@@ -446,7 +446,7 @@
           "raceNumber": 2,
           "raceNo": "2R",
           "raceName": "㋛新馬戦② B組",
-          "grade": "新馬",
+          "grade": "未勝利",
           "track": "平場芝",
           "course": "コース3",
           "condition": "",
@@ -462,7 +462,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 1,
@@ -496,7 +496,7 @@
               "ownerName": "SHINSHI0080",
               "jockeyName": "SHINSHI0080",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -569,7 +569,7 @@
               "jockeyName": "YuyaKuga",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             }
           ]
@@ -2298,8 +2298,8 @@
       "dateLabel": "9月5日（土）",
       "dayNumber": "5",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:30 【仮想中央競馬会】シーズンレース開始！",
       "events": [
         {
@@ -2316,7 +2316,7 @@
               "raceId": "R01",
               "raceNo": "1R",
               "raceName": "㋛新馬戦①",
-              "grade": "新馬",
+              "grade": "未勝利",
               "track": "平場芝",
               "course": "コース1",
               "condition": "新馬戦です！①か②を馬ごとに選択してください！",
@@ -2328,7 +2328,7 @@
               "raceId": "R02",
               "raceNo": "2R",
               "raceName": "㋛新馬戦②",
-              "grade": "新馬",
+              "grade": "未勝利",
               "track": "平場芝",
               "course": "コース3",
               "condition": "新馬戦です！①か②を馬ごとに選択してください！",
@@ -2358,7 +2358,7 @@
       "dateLabel": "9月6日（日）",
       "dayNumber": "6",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
@@ -2405,7 +2405,7 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "22:00 - 23:00 定期交流会 ほか1件",
       "events": [
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
@@ -2417,6 +2417,30 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260909",
+          "title": "9月9日シーズンレース未勝利戦",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "㋛未勝利戦①",
+              "grade": "未勝利",
+              "track": "平場芝",
+              "course": "コース2",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース2",
+              "status": ""
+            }
+          ]
         }
       ]
     },
