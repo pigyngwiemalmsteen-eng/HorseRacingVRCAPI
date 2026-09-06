@@ -1,12 +1,778 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-06T15:44:41.156Z",
-  "generatedAtLabel": "2026/09/07 00:44",
+  "generatedAt": "2026-09-06T21:11:58.193Z",
+  "generatedAtLabel": "2026/09/07 06:11",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
   "defaultRaceCardEventIndex": 0,
-  "raceCards": [],
+  "raceCards": [
+    {
+      "eventId": "20260909",
+      "eventName": "9月9日シーズンレース未勝利戦",
+      "eventDate": "2026-09-09",
+      "eventDateLabel": "2026.09.09 水",
+      "startTime": "22:00",
+      "races": [
+        {
+          "eventId": "20260909",
+          "raceId": "R01-A",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "㋛未勝利戦① A組",
+          "grade": "未勝利",
+          "track": "平場芝",
+          "course": "コース2",
+          "condition": "",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000261",
+              "horseName": "ブレントヒンズ【号】",
+              "ownerName": "えーすけ。A_S_K",
+              "jockeyName": "えーすけ。A_S_K",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-B",
+                  "raceName": "㋛新馬戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 10
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000341",
+              "horseName": "ヤシキカリオストロΣ【号】",
+              "ownerName": "RenNeko12",
+              "jockeyName": "RenNeko12",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-B",
+                  "raceName": "㋛新馬戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000404",
+              "horseName": "ルチカベルセリア【号】",
+              "ownerName": "YuyaKuga",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-B",
+                  "raceName": "㋛新馬戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000332",
+              "horseName": "フジフローΨ【号】",
+              "ownerName": "Nagare -ながれ-",
+              "jockeyName": "ねみぃさん",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-B",
+                  "raceName": "㋛新馬戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 8
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000428",
+              "horseName": "マゼファランクスΨ【号】",
+              "ownerName": "mazetarou",
+              "jockeyName": "mazetarou",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000355",
+              "horseName": "UrbanSkySea¶【号】",
+              "ownerName": "Annulaire",
+              "jockeyName": "Annulaire",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-B",
+                  "raceName": "㋛新馬戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000366",
+              "horseName": "EternalTrio♪【号】",
+              "ownerName": "MEA.YZKR(メア）",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 10
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000411",
+              "horseName": "コスノヴァリス★★【号】",
+              "ownerName": "こっすー",
+              "jockeyName": "こっすー",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000417",
+              "horseName": "アグニサハラ§【号】",
+              "ownerName": "Sigure_Mia",
+              "jockeyName": "Sigure_Mia",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 9
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20260909",
+          "raceId": "R01-B",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "㋛未勝利戦① B組",
+          "grade": "未勝利",
+          "track": "平場芝",
+          "course": "コース2",
+          "condition": "",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000432",
+              "horseName": "ルナエスペランサ【号】",
+              "ownerName": "RuM-らむ-",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000415",
+              "horseName": "LunaAdagio♪【号】",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 11
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000408",
+              "horseName": "ムーンロイスΨ【号】",
+              "ownerName": "桜月ミヅキ",
+              "jockeyName": "Nele-san",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 10
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000407",
+              "horseName": "ピザゲート【号】",
+              "ownerName": "なぎっちゅ。",
+              "jockeyName": "なぎっちゅ。",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000358",
+              "horseName": "ツキノパルプンテ★★★★【号】",
+              "ownerName": "結月アオバ",
+              "jockeyName": "結月アオバ",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000414",
+              "horseName": "レーゲンパラノイア§【号】",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-B",
+                  "raceName": "㋛新馬戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000422",
+              "horseName": "スターライトホープ【号】",
+              "ownerName": "siyuu007",
+              "jockeyName": "siyuu007",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000409",
+              "horseName": "オイシイマンゴー¶【号】",
+              "ownerName": "toburuku",
+              "jockeyName": "toburuku",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-B",
+                  "raceName": "㋛新馬戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000435",
+              "horseName": "LunaFontaine★★★★【号】",
+              "ownerName": "さば煮05",
+              "jockeyName": "さば煮05",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-B",
+                  "raceName": "㋛新馬戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 10
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20260909",
+          "raceId": "R02-A",
+          "raceNumber": 2,
+          "raceNo": "2R",
+          "raceName": "㋛未勝利戦② A組",
+          "grade": "未勝利",
+          "track": "平場芝",
+          "course": "コース1",
+          "condition": "",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000308",
+              "horseName": "ムーンナイトメア§【号】",
+              "ownerName": "桜月ミヅキ",
+              "jockeyName": "桜月ミヅキ",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000368",
+              "horseName": "ルナステラーΣ【号】",
+              "ownerName": "RenNeko12",
+              "jockeyName": "RenNeko12",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000383",
+              "horseName": "アグニアルマ【号】",
+              "ownerName": "Sigure_Mia",
+              "jockeyName": "Sigure_Mia",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-B",
+                  "raceName": "㋛新馬戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 8
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000372",
+              "horseName": "スパークルサーガ★★★【号】",
+              "ownerName": "Nele-san",
+              "jockeyName": "Nele-san",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000434",
+              "horseName": "ナノガ【号】",
+              "ownerName": "なぎっちゅ。",
+              "jockeyName": "なぎっちゅ。",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-B",
+                  "raceName": "㋛新馬戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000359",
+              "horseName": "オーブケイゾクΨ【号】",
+              "ownerName": "kingnaka2357",
+              "jockeyName": "kingnaka2357",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-B",
+                  "raceName": "㋛新馬戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000431",
+              "horseName": "DuoRequiem♪【号】",
+              "ownerName": "RuM-らむ-",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000367",
+              "horseName": "VocaliseDuo♪【号】",
+              "ownerName": "MEA.YZKR(メア）",
+              "jockeyName": "MEA.YZKR(メア）",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000420",
+              "horseName": "レイシルキャットΨ【号】",
+              "ownerName": "ぎんねこ851",
+              "jockeyName": "ぎんねこ851",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 8
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000419",
+              "horseName": "シルシノキャット★★★【号】",
+              "ownerName": "ぎんねこ851",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20260909",
+          "raceId": "R02-B",
+          "raceNumber": 2,
+          "raceNo": "2R",
+          "raceName": "㋛未勝利戦② B組",
+          "grade": "未勝利",
+          "track": "平場芝",
+          "course": "コース1",
+          "condition": "",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000191",
+              "horseName": "ゴーイントゥシー【号】",
+              "ownerName": "さば煮05",
+              "jockeyName": "さば煮05",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000433",
+              "horseName": "ChildhoodsEnd【号】",
+              "ownerName": "yakisushi0619",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 11
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000413",
+              "horseName": "ナスカモネギ♪【号】",
+              "ownerName": "小雨xiaoyu",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000416",
+              "horseName": "ルナアーモンド★【号】",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 9
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000403",
+              "horseName": "ルチカシンフォニア【号】",
+              "ownerName": "YuyaKuga",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000260",
+              "horseName": "BloodAndThunder★★【号】",
+              "ownerName": "えーすけ。A_S_K",
+              "jockeyName": "えーすけ。A_S_K",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000410",
+              "horseName": "マンゴーナウ【号】",
+              "ownerName": "toburuku",
+              "jockeyName": "toburuku",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-B",
+                  "raceName": "㋛新馬戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000427",
+              "horseName": "マゼゲート【号】",
+              "ownerName": "mazetarou",
+              "jockeyName": "mazetarou",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-B",
+                  "raceName": "㋛新馬戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 9
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000333",
+              "horseName": "フローウォッチャー【号】",
+              "ownerName": "Nagare -ながれ-",
+              "jockeyName": "siyuu007",
+              "previousRuns": [
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 8
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -1096,7 +1862,7 @@
           "timeLabel": "22:00 - 23:00",
           "location": "VRChat",
           "description": "",
-          "status": "募集中",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -1109,7 +1875,7 @@
               "condition": "未勝利戦です！騎手が別なら同じレースに出せます！",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース2 / 未勝利戦です！騎手が別なら同じレースに出せます！",
-              "status": "募集中"
+              "status": "公開済"
             },
             {
               "raceId": "R02",
@@ -1121,7 +1887,7 @@
               "condition": "未勝利戦です！騎手が別なら同じレースに出せます！",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース1 / 未勝利戦です！騎手が別なら同じレースに出せます！",
-              "status": "募集中"
+              "status": "公開済"
             }
           ]
         },
