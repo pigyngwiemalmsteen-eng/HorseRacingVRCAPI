@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-07T04:44:40.939Z",
-  "generatedAtLabel": "2026/09/07 13:44",
+  "generatedAt": "2026-09-07T10:22:02.923Z",
+  "generatedAtLabel": "2026/09/07 19:22",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1958,16 +1958,16 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 22:30 9月12日シーズンレース未勝利戦",
+      "eventSummary": "21:30 - 22:00 【仮想中央競馬会】9月12日シーズンレース未勝利戦 ほか1件",
       "events": [
         {
-          "calendarEventId": "",
+          "calendarEventId": "jlbqvqphq9evvojjqh34o1kokg@google.com",
           "eventId": "20260912_1",
-          "title": "9月12日シーズンレース未勝利戦",
-          "timeLabel": "21:30 - 22:30",
-          "location": "",
+          "title": "【仮想中央競馬会】9月12日シーズンレース未勝利戦",
+          "timeLabel": "21:30 - 22:00",
+          "location": "VRChat",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1980,7 +1980,43 @@
               "condition": "未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース4 / 未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！",
-              "status": ""
+              "status": "募集中"
+            }
+          ]
+        },
+        {
+          "calendarEventId": "kr55kj61ptb71f0hu7bomlepdo@google.com",
+          "eventId": "20260912",
+          "title": "【仮想中央競馬会】9月12日シーズンレースG2 OP",
+          "timeLabel": "22:00 - 22:45",
+          "location": "VRChat",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+              "grade": "OP",
+              "track": "平場芝",
+              "course": "コース2",
+              "condition": "OP戦です！賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
+              "firstPrize": 1000,
+              "displayCondition": "平場芝 / コース2 / OP戦です！賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
+              "status": "募集中"
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "㋛G2 長月賞",
+              "grade": "G2",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "G2です！賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
+              "firstPrize": 5000,
+              "displayCondition": "平場芝 / コース1 / G2です！賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
+              "status": "募集中"
             }
           ]
         }
