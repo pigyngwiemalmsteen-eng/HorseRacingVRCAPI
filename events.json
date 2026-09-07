@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-07T02:44:44.895Z",
-  "generatedAtLabel": "2026/09/07 11:44",
+  "generatedAt": "2026-09-07T04:44:40.939Z",
+  "generatedAtLabel": "2026/09/07 13:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1958,18 +1958,31 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 22:30 9月12日シーズンレースG2長月賞",
+      "eventSummary": "21:30 - 22:30 9月12日シーズンレース未勝利戦",
       "events": [
         {
           "calendarEventId": "",
-          "eventId": "20260912",
-          "title": "9月12日シーズンレースG2長月賞",
+          "eventId": "20260912_1",
+          "title": "9月12日シーズンレース未勝利戦",
           "timeLabel": "21:30 - 22:30",
           "location": "",
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "㋛未勝利戦",
+              "grade": "未勝利",
+              "track": "平場芝",
+              "course": "コース4",
+              "condition": "未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！",
+              "firstPrize": 400,
+              "displayCondition": "平場芝 / コース4 / 未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！",
+              "status": ""
+            }
+          ]
         }
       ]
     },
