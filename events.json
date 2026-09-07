@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-06T21:11:58.193Z",
-  "generatedAtLabel": "2026/09/07 06:11",
+  "generatedAt": "2026-09-07T02:44:44.895Z",
+  "generatedAtLabel": "2026/09/07 11:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1958,13 +1958,13 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "00:00 - 00:00 9月12日シーズンレースG2長月賞",
+      "eventSummary": "21:30 - 22:30 9月12日シーズンレースG2長月賞",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20260912",
           "title": "9月12日シーズンレースG2長月賞",
-          "timeLabel": "00:00 - 00:00",
+          "timeLabel": "21:30 - 22:30",
           "location": "",
           "description": "",
           "status": "",
