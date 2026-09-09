@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-08T15:44:43.896Z",
-  "generatedAtLabel": "2026/09/09 00:44",
+  "generatedAt": "2026-09-09T05:41:59.440Z",
+  "generatedAtLabel": "2026/09/09 14:41",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -9,7 +9,7 @@
   "raceCards": [
     {
       "eventId": "20260909",
-      "eventName": "9月9日シーズンレース未勝利戦",
+      "eventName": "9月9日シーズンレース未勝利戦前半",
       "eventDate": "2026-09-09",
       "eventDateLabel": "2026.09.09 水",
       "startTime": "22:00",
@@ -1958,7 +1958,7 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 22:00 【仮想中央競馬会】9月12日シーズンレース未勝利戦 ほか1件",
+      "eventSummary": "21:30 - 22:00 【仮想中央競馬会】9月12日シーズンレース未勝利戦 ほか2件",
       "events": [
         {
           "calendarEventId": "jlbqvqphq9evvojjqh34o1kokg@google.com",
@@ -1973,7 +1973,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "㋛未勝利戦",
+              "raceName": "㋛未勝利戦前半",
               "grade": "未勝利",
               "track": "平場芝",
               "course": "コース4",
@@ -2016,6 +2016,30 @@
               "condition": "G2です！定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
               "firstPrize": 5000,
               "displayCondition": "平場芝 / コース1 / G2です！定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
+              "status": "募集中"
+            }
+          ]
+        },
+        {
+          "calendarEventId": "rd3aarp4ass097gmlp2q62tgjo@google.com",
+          "eventId": "20260912_2",
+          "title": "9月12日シーズンレース未勝利戦後半",
+          "timeLabel": "22:45 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "㋛未勝利戦後半",
+              "grade": "未勝利",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！予定では22:45スタートです！",
+              "firstPrize": 400,
+              "displayCondition": "平場芝 / コース1 / 未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！予定では22:45スタートです！",
               "status": "募集中"
             }
           ]
