@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-09T05:41:59.440Z",
-  "generatedAtLabel": "2026/09/09 14:41",
+  "generatedAt": "2026-09-09T14:44:41.987Z",
+  "generatedAtLabel": "2026/09/09 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -142,7 +142,7 @@
                   "finishPosition": 3
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             },
@@ -175,7 +175,7 @@
               "jockeyName": "こっすー",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -196,7 +196,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             }
           ]
         },
@@ -290,7 +290,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 3,
@@ -329,7 +329,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -368,7 +368,7 @@
                   "finishPosition": 6
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
