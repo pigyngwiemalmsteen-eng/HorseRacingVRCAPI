@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-09T14:44:41.987Z",
-  "generatedAtLabel": "2026/09/09 23:44",
+  "generatedAt": "2026-09-09T15:44:41.291Z",
+  "generatedAtLabel": "2026/09/10 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -444,7 +444,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -495,7 +495,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -514,7 +514,7 @@
                   "finishPosition": 5
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -652,7 +652,7 @@
                   "finishPosition": 6
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -745,7 +745,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -766,7 +766,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             }
           ]
         }
@@ -1851,8 +1851,8 @@
       "dateLabel": "9月9日（水）",
       "dayNumber": "9",
       "weekday": "水",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "22:00 - 23:00 【仮想中央競馬会】9月9日シーズンレース未勝利戦 ほか1件",
       "events": [
         {
@@ -1910,7 +1910,7 @@
       "dateLabel": "9月10日（木）",
       "dayNumber": "10",
       "weekday": "木",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 22:00 第三回みみのこダービー",
       "events": [
