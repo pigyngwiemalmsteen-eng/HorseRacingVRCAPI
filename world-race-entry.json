@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T05:40:15.694Z",
-  "generatedAtLabel": "2026/09/09 14:40",
+  "generatedAt": "2026-09-09T15:40:16.572Z",
+  "generatedAtLabel": "2026/09/10 00:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -150,7 +150,7 @@
     },
     {
       "eventId": "20260912_1",
-      "eventName": "9月12日シーズンレース未勝利戦",
+      "eventName": "9月12日シーズンレース未勝利戦前半",
       "eventDate": "2026-09-12",
       "eventDateLabel": "2026/09/12 21:30",
       "deadline": "2026-09-11T21:00:00.000Z",
