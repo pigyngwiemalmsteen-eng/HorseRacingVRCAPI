@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-09T15:44:41.291Z",
-  "generatedAtLabel": "2026/09/10 00:44",
+  "generatedAt": "2026-09-10T15:44:48.625Z",
+  "generatedAtLabel": "2026/09/11 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1910,8 +1910,8 @@
       "dateLabel": "9月10日（木）",
       "dayNumber": "10",
       "weekday": "木",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 第三回みみのこダービー",
       "events": [
         {
@@ -1933,7 +1933,7 @@
       "dateLabel": "9月11日（金）",
       "dayNumber": "11",
       "weekday": "金",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
