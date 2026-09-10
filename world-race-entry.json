@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T16:40:24.429Z",
-  "generatedAtLabel": "2026/09/10 01:40",
+  "generatedAt": "2026-09-10T15:40:20.883Z",
+  "generatedAtLabel": "2026/09/11 00:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -119,7 +119,7 @@
       "trackType": "平場芝",
       "course": "コース2",
       "entryCondition": "OP戦です！別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-      "maxEntries": 14,
+      "maxEntries": 12,
       "racehorseOnly": true,
       "racehorseEventId": "60001",
       "firstPrize": 1000,
