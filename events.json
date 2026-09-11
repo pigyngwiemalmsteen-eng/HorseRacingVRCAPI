@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-11T07:11:57.460Z",
-  "generatedAtLabel": "2026/09/11 16:11",
+  "generatedAt": "2026-09-11T15:44:41.146Z",
+  "generatedAtLabel": "2026/09/12 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2643,8 +2643,8 @@
       "dateLabel": "9月11日（金）",
       "dayNumber": "11",
       "weekday": "金",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
         {
@@ -2666,7 +2666,7 @@
       "dateLabel": "9月12日（土）",
       "dayNumber": "12",
       "weekday": "土",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:30 - 22:00 【仮想中央競馬会】9月12日シーズンレース未勝利戦 ほか2件",
       "events": [
