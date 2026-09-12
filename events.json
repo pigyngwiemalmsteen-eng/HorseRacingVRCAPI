@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-12T14:44:45.878Z",
-  "generatedAtLabel": "2026/09/12 23:44",
+  "generatedAt": "2026-09-12T15:44:43.836Z",
+  "generatedAtLabel": "2026/09/13 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 1,
+  "defaultRaceCardEventIndex": 3,
   "raceCards": [
     {
       "eventId": "20260909",
@@ -123,7 +123,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -176,7 +176,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -368,7 +368,7 @@
                   "finishPosition": 6
                 }
               ],
-              "firstCount": 1,
+              "firstCount": 2,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -613,7 +613,7 @@
               "jockeyName": "さば煮05",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -744,7 +744,7 @@
                   "finishPosition": 9
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -808,7 +808,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -829,7 +829,7 @@
               ],
               "firstCount": 1,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -854,7 +854,7 @@
                   "finishPosition": 9
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -1213,7 +1213,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 3,
@@ -1346,7 +1346,7 @@
                   "finishPosition": 6
                 }
               ],
-              "firstCount": 1,
+              "firstCount": 2,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -1394,7 +1394,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1840,7 +1840,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -1866,7 +1866,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1916,7 +1916,7 @@
               "ownerName": "a01_alpha",
               "jockeyName": "a01_alpha",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -3135,8 +3135,8 @@
       "dateLabel": "9月12日（土）",
       "dayNumber": "12",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:00 【仮想中央競馬会】9月12日シーズンレース未勝利戦 ほか2件",
       "events": [
         {
@@ -3231,7 +3231,7 @@
       "dateLabel": "9月13日（日）",
       "dayNumber": "13",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
