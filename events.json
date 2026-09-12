@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-11T21:16:57.360Z",
-  "generatedAtLabel": "2026/09/12 06:16",
+  "generatedAt": "2026-09-12T06:44:42.975Z",
+  "generatedAtLabel": "2026/09/12 15:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1114,7 +1114,7 @@
               "horseId": "H000406",
               "horseName": "レプティリアン【号】",
               "ownerName": "SHINSHI0080",
-              "jockeyName": "SHINSHI0080",
+              "jockeyName": "mazetarou",
               "previousRuns": [
                 {
                   "eventId": "20260905",
@@ -3146,7 +3146,7 @@
           "timeLabel": "21:30 - 22:00",
           "location": "VRChat",
           "description": "",
-          "status": "公開済",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -3159,7 +3159,7 @@
               "condition": "未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース4 / 未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！",
-              "status": "公開済"
+              "status": "出走表作成済"
             }
           ]
         },
@@ -3170,7 +3170,7 @@
           "timeLabel": "22:00 - 22:45",
           "location": "VRChat",
           "description": "",
-          "status": "公開済",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -3183,7 +3183,7 @@
               "condition": "OP戦です！別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
               "firstPrize": 1000,
               "displayCondition": "平場芝 / コース2 / OP戦です！別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "公開済"
+              "status": "出走表作成済"
             },
             {
               "raceId": "R02",
@@ -3195,7 +3195,7 @@
               "condition": "G2です！定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
               "firstPrize": 5000,
               "displayCondition": "平場芝 / コース1 / G2です！定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "公開済"
+              "status": "出走表作成済"
             }
           ]
         },
