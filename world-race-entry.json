@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T21:17:05.754Z",
-  "generatedAtLabel": "2026/09/12 06:17",
+  "generatedAt": "2026-09-12T20:40:16.974Z",
+  "generatedAtLabel": "2026/09/13 05:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -161,7 +161,7 @@
       "raceName": "㋛未勝利戦②",
       "grade": "未勝利",
       "trackType": "坂芝",
-      "course": "コース4",
+      "course": "コース3",
       "entryCondition": "未勝利戦です！騎手が別なら同じレースに出せます！",
       "maxEntries": 18,
       "racehorseOnly": true,
