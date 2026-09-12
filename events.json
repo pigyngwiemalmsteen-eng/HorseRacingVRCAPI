@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-12T15:44:43.836Z",
-  "generatedAtLabel": "2026/09/13 00:44",
+  "generatedAt": "2026-09-12T19:44:40.559Z",
+  "generatedAtLabel": "2026/09/13 04:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -3278,7 +3278,7 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月16日シーズンレース未勝利戦 ほか3件",
+      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月16日シーズンレース未勝利戦 ほか4件",
       "events": [
         {
           "calendarEventId": "4p9gg5hrqfb25ogrks0u7uoks4@google.com",
@@ -3374,6 +3374,30 @@
               "status": "募集中"
             }
           ]
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260916_3",
+          "title": "9月16日シーズンレース新馬戦",
+          "timeLabel": "23:00 - 23:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "㋛OP戦",
+              "grade": "OP",
+              "track": "坂芝",
+              "course": "コース4",
+              "condition": "予定時刻 22:05。OP戦です！別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
+              "firstPrize": 0,
+              "displayCondition": "坂芝 / コース4 / 予定時刻 22:05。OP戦です！別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
+              "status": ""
+            }
+          ]
         }
       ]
     },
@@ -3419,8 +3443,20 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "22:00 - 23:00 9月19日シーズンレースG2 OP",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20260919",
+          "title": "9月19日シーズンレースG2 OP",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-09-20",
