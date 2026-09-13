@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T12:40:16.682Z",
-  "generatedAtLabel": "2026/09/13 21:40",
+  "generatedAt": "2026-09-13T21:12:23.836Z",
+  "generatedAtLabel": "2026/09/14 06:12",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -105,28 +105,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20260916",
-      "eventName": "9月16日シーズンレースOP",
-      "eventDate": "2026-09-16",
-      "eventDateLabel": "2026/09/16 22:30",
-      "deadline": "2026-09-13T21:00:00.000Z",
-      "deadlineLabel": "2026/09/14 06:00",
-      "raceId": "R01",
-      "raceNo": 1,
-      "raceNoLabel": "1R",
-      "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
-      "grade": "OP",
-      "trackType": "坂芝",
-      "course": "コース1",
-      "entryCondition": "OP戦です！別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-      "maxEntries": 14,
-      "racehorseOnly": true,
-      "racehorseEventId": "60001",
-      "firstPrize": 1000,
-      "firstPrizeLabel": "1000万uma円",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20260916_1",
       "eventName": "9月16日シーズンレース未勝利戦",
