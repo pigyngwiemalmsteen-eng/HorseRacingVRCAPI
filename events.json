@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-13T05:44:41.051Z",
-  "generatedAtLabel": "2026/09/13 14:44",
+  "generatedAt": "2026-09-13T15:44:43.196Z",
+  "generatedAtLabel": "2026/09/14 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -10,252 +10,6 @@
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
-    {
-      "dateKey": "2026-08-10",
-      "displayDate": "2026.08.10",
-      "dateLabel": "8月10日（月）",
-      "dayNumber": "10",
-      "weekday": "月",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-08-11",
-      "displayDate": "2026.08.11",
-      "dateLabel": "8月11日（火）",
-      "dayNumber": "11",
-      "weekday": "火",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "22:00 - 22:15 第一回レーティングバトル13R",
-      "events": [
-        {
-          "calendarEventId": "",
-          "eventId": "20260811",
-          "title": "第一回レーティングバトル13R",
-          "timeLabel": "22:00 - 22:15",
-          "location": "",
-          "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "枠順決定済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "第一回レーティングバトル13R",
-              "grade": "OP",
-              "track": "ダート",
-              "course": "コース2",
-              "condition": "なし",
-              "firstPrize": 0,
-              "displayCondition": "ダート / コース2 / なし",
-              "status": "枠順決定済"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-08-12",
-      "displayDate": "2026.08.12",
-      "dateLabel": "8月12日（水）",
-      "dayNumber": "12",
-      "weekday": "水",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "22:00 - 23:00 定期交流会 ほか1件",
-      "events": [
-        {
-          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
-          "eventId": "",
-          "title": "定期交流会",
-          "timeLabel": "22:00 - 23:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        },
-        {
-          "calendarEventId": "",
-          "eventId": "20260812",
-          "title": "0812定期交流会バッジレース",
-          "timeLabel": "23:00 - 23:15",
-          "location": "",
-          "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "出走表作成済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "0812定期交流会バッジレース",
-              "grade": "OP",
-              "track": "坂芝",
-              "course": "コース1",
-              "condition": "①騎手10勝以上 +2㎏　30勝以上 +5㎏",
-              "firstPrize": 0,
-              "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +2㎏　30勝以上 +5㎏",
-              "status": "出走表作成済"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-08-13",
-      "displayDate": "2026.08.13",
-      "dateLabel": "8月13日（木）",
-      "dayNumber": "13",
-      "weekday": "木",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-08-14",
-      "displayDate": "2026.08.14",
-      "dateLabel": "8月14日（金）",
-      "dayNumber": "14",
-      "weekday": "金",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-08-15",
-      "displayDate": "2026.08.15",
-      "dateLabel": "8月15日（土）",
-      "dayNumber": "15",
-      "weekday": "土",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 【仮想中央競馬会】8月 真夏のジャンボリー大波開催！ ほか1件",
-      "events": [
-        {
-          "calendarEventId": "mmf5barug6sf4dcvmnvv7kr7sg@google.com",
-          "eventId": "20260815",
-          "title": "【仮想中央競馬会】8月 真夏のジャンボリー大波開催！",
-          "timeLabel": "21:00 - 22:00",
-          "location": "VRChat",
-          "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "真夏のジャンボリー第1 レース",
-              "grade": "OP",
-              "track": "坂芝",
-              "course": "コース3",
-              "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "firstPrize": 0,
-              "displayCondition": "坂芝 / コース3 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "公開済"
-            },
-            {
-              "raceId": "R02",
-              "raceNo": "2R",
-              "raceName": "第1回！一番の汗っかきは誰だ選手権！",
-              "grade": "OP",
-              "track": "坂芝",
-              "course": "コース2",
-              "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "firstPrize": 0,
-              "displayCondition": "坂芝 / コース2 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "公開済"
-            },
-            {
-              "raceId": "R03",
-              "raceNo": "3R",
-              "raceName": "スイレン記念",
-              "grade": "GⅢ",
-              "track": "坂芝",
-              "course": "コース1",
-              "condition": "①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "firstPrize": 0,
-              "displayCondition": "坂芝 / コース1 / ①騎手10勝以上 +1㎏　30勝以上 +3㎏　②馬記号付き +2㎏",
-              "status": "公開済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "",
-          "eventId": "20260815_1",
-          "title": "第一回レーティングバトル14R",
-          "timeLabel": "22:00 - 22:15",
-          "location": "",
-          "description": "参加登録は公式Webの募集レースページからご確認ください",
-          "status": "枠順決定済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "第一回レーティングバトル14R",
-              "grade": "OP",
-              "track": "平場芝",
-              "course": "コース4",
-              "condition": "なし",
-              "firstPrize": 0,
-              "displayCondition": "平場芝 / コース4 / なし",
-              "status": "枠順決定済"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-08-16",
-      "displayDate": "2026.08.16",
-      "dateLabel": "8月16日（日）",
-      "dayNumber": "16",
-      "weekday": "日",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 【みみのこダービー外伝】 ほか1件",
-      "events": [
-        {
-          "calendarEventId": "5jq2fsaj37ektj3m8ph5piseuc@google.com",
-          "eventId": "",
-          "title": "【みみのこダービー外伝】",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "3レース勝ち抜け戦です。\n 各レースの１位にみみのこをプレゼントします。\n企画by 懐かしのアンタレス",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        },
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
     {
       "dateKey": "2026-08-17",
       "displayDate": "2026.08.17",
@@ -1286,8 +1040,8 @@
       "dateLabel": "9月13日（日）",
       "dayNumber": "13",
       "weekday": "日",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
         {
@@ -1309,7 +1063,7 @@
       "dateLabel": "9月14日（月）",
       "dayNumber": "14",
       "weekday": "月",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
@@ -2269,6 +2023,119 @@
       "displayDate": "2026.11.01",
       "dateLabel": "11月1日（日）",
       "dayNumber": "1",
+      "weekday": "日",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-11-02",
+      "displayDate": "2026.11.02",
+      "dateLabel": "11月2日（月）",
+      "dayNumber": "2",
+      "weekday": "月",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-11-03",
+      "displayDate": "2026.11.03",
+      "dateLabel": "11月3日（火）",
+      "dayNumber": "3",
+      "weekday": "火",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-11-04",
+      "displayDate": "2026.11.04",
+      "dateLabel": "11月4日（水）",
+      "dayNumber": "4",
+      "weekday": "水",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-11-05",
+      "displayDate": "2026.11.05",
+      "dateLabel": "11月5日（木）",
+      "dayNumber": "5",
+      "weekday": "木",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-11-06",
+      "displayDate": "2026.11.06",
+      "dateLabel": "11月6日（金）",
+      "dayNumber": "6",
+      "weekday": "金",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-11-07",
+      "displayDate": "2026.11.07",
+      "dateLabel": "11月7日（土）",
+      "dayNumber": "7",
+      "weekday": "土",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-11-08",
+      "displayDate": "2026.11.08",
+      "dateLabel": "11月8日（日）",
+      "dayNumber": "8",
       "weekday": "日",
       "isToday": false,
       "isPast": false,
