@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T05:27:55.719Z",
-  "generatedAtLabel": "2026/09/13 14:27",
+  "generatedAt": "2026-09-13T05:40:16.670Z",
+  "generatedAtLabel": "2026/09/13 14:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -190,6 +190,28 @@
       "racehorseEventId": "",
       "firstPrize": 0,
       "firstPrizeLabel": "",
+      "applicationType": "normalSet"
+    },
+    {
+      "eventId": "20260916_3",
+      "eventName": "9月16日シーズンレース新馬戦",
+      "eventDate": "2026-09-16",
+      "eventDateLabel": "2026/09/16 23:00",
+      "deadline": "2026-09-15T21:00:00.000Z",
+      "deadlineLabel": "2026/09/16 06:00",
+      "raceId": "R01",
+      "raceNo": 1,
+      "raceNoLabel": "1R",
+      "raceName": "㋛新馬戦",
+      "grade": "新馬",
+      "trackType": "坂芝",
+      "course": "コース1",
+      "entryCondition": "予定時刻 23:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
+      "maxEntries": 18,
+      "racehorseOnly": true,
+      "racehorseEventId": "60001",
+      "firstPrize": 400,
+      "firstPrizeLabel": "400万uma円",
       "applicationType": "normalSet"
     },
     {
