@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-13T05:26:58.950Z",
-  "generatedAtLabel": "2026/09/13 14:26",
+  "generatedAt": "2026-09-13T05:44:41.051Z",
+  "generatedAtLabel": "2026/09/13 14:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1333,32 +1333,8 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 【仮想中央競馬会】9月16日シーズンレース新馬戦 ほか4件",
+      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月16日シーズンレース未勝利戦 ほか4件",
       "events": [
-        {
-          "calendarEventId": "vmmolevgdsf49aptloikpfhevc@google.com",
-          "eventId": "20260916_3",
-          "title": "【仮想中央競馬会】9月16日シーズンレース新馬戦",
-          "timeLabel": "21:00 - 22:00",
-          "location": "VRChat",
-          "description": "",
-          "status": "出走表作成済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "㋛新馬戦",
-              "grade": "新馬",
-              "track": "坂芝",
-              "course": "コース1",
-              "condition": "予定時刻 21:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
-              "firstPrize": 400,
-              "displayCondition": "坂芝 / コース1 / 予定時刻 21:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
-              "status": "出走表作成済"
-            }
-          ]
-        },
         {
           "calendarEventId": "4p9gg5hrqfb25ogrks0u7uoks4@google.com",
           "eventId": "20260916_1",
@@ -1450,6 +1426,30 @@
               "condition": "こちらはシーズンレースではありません！騙馬以外何を使ってもOK！",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース1 / こちらはシーズンレースではありません！騙馬以外何を使ってもOK！",
+              "status": "募集中"
+            }
+          ]
+        },
+        {
+          "calendarEventId": "vmmolevgdsf49aptloikpfhevc@google.com",
+          "eventId": "20260916_3",
+          "title": "【仮想中央競馬会】9月16日シーズンレース新馬戦",
+          "timeLabel": "23:00 - 23:30",
+          "location": "VRChat",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "㋛新馬戦",
+              "grade": "新馬",
+              "track": "坂芝",
+              "course": "コース1",
+              "condition": "予定時刻 23:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
+              "firstPrize": 400,
+              "displayCondition": "坂芝 / コース1 / 予定時刻 23:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
               "status": "募集中"
             }
           ]
