@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-14T21:17:05.761Z",
-  "generatedAtLabel": "2026/09/15 06:17",
+  "generatedAt": "2026-09-15T07:40:52.131Z",
+  "generatedAtLabel": "2026/09/15 16:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -533,35 +533,13 @@
             {
               "frameNumber": 2,
               "horseNumber": 3,
-              "horseId": "H000410",
-              "horseName": "マンゴーナウ【号】",
+              "horseId": "H000449",
+              "horseName": "シュタルクΣ【号】",
               "ownerName": "toburuku",
               "jockeyName": "toburuku",
-              "previousRuns": [
-                {
-                  "eventId": "20260912",
-                  "raceId": "R01",
-                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
-                  "grade": "OP",
-                  "finishPosition": 11
-                },
-                {
-                  "eventId": "20260909",
-                  "raceId": "R02-B",
-                  "raceName": "㋛未勝利戦② B組",
-                  "grade": "未勝利",
-                  "finishPosition": 6
-                },
-                {
-                  "eventId": "20260905",
-                  "raceId": "R01-B",
-                  "raceName": "㋛新馬戦① B組",
-                  "grade": "未勝利",
-                  "finishPosition": 2
-                }
-              ],
+              "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 0,
               "thirdCount": 0
             },
             {
@@ -2201,7 +2179,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "VRChat",
           "description": "",
-          "status": "公開済",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -2214,7 +2192,7 @@
               "condition": "未勝利戦です！騎手が別なら同じレースに出せます！",
               "firstPrize": 400,
               "displayCondition": "坂芝 / コース3 / 未勝利戦です！騎手が別なら同じレースに出せます！",
-              "status": "公開済"
+              "status": "出走表作成済"
             },
             {
               "raceId": "R02",
@@ -2226,7 +2204,7 @@
               "condition": "未勝利戦です！騎手が別なら同じレースに出せます！",
               "firstPrize": 400,
               "displayCondition": "坂芝 / コース3 / 未勝利戦です！騎手が別なら同じレースに出せます！",
-              "status": "公開済"
+              "status": "出走表作成済"
             }
           ]
         },
