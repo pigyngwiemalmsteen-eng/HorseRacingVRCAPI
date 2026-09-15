@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-15T07:40:52.131Z",
-  "generatedAtLabel": "2026/09/15 16:40",
+  "generatedAt": "2026-09-15T15:44:41.039Z",
+  "generatedAtLabel": "2026/09/16 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2157,8 +2157,8 @@
       "dateLabel": "9月15日（火）",
       "dayNumber": "15",
       "weekday": "火",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "予定なし",
       "events": []
     },
@@ -2168,7 +2168,7 @@
       "dateLabel": "9月16日（水）",
       "dayNumber": "16",
       "weekday": "水",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月16日シーズンレース未勝利戦 ほか4件",
       "events": [
