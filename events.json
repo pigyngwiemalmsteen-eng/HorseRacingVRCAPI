@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-15T15:44:41.039Z",
-  "generatedAtLabel": "2026/09/16 00:44",
+  "generatedAt": "2026-09-15T21:12:02.376Z",
+  "generatedAtLabel": "2026/09/16 06:12",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1084,6 +1084,197 @@
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "20260916_3",
+      "eventName": "9月16日シーズンレース新馬戦",
+      "eventDate": "2026-09-16",
+      "eventDateLabel": "2026.09.16 水",
+      "startTime": "23:00",
+      "races": [
+        {
+          "eventId": "20260916_3",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "㋛新馬戦",
+          "grade": "新馬",
+          "track": "坂芝",
+          "course": "コース1",
+          "condition": "予定時刻 23:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
+          "firstPrize": 400,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000456",
+              "horseName": "Aufheben【号】",
+              "ownerName": "なぎっちゅ。",
+              "jockeyName": "なぎっちゅ。",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000467",
+              "horseName": "ヤオビクニ【号】",
+              "ownerName": "さば煮05",
+              "jockeyName": "さば煮05",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000447",
+              "horseName": "イッパツフンキ§【号】",
+              "ownerName": "kingnaka2357",
+              "jockeyName": "kingnaka2357",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000446",
+              "horseName": "カナコイン§【号】",
+              "ownerName": "東雲れいあ",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000457",
+              "horseName": "オーラムエデン【号】",
+              "ownerName": "Haru_0110",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000464",
+              "horseName": "レーゲンラビーΣ【号】",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000454",
+              "horseName": "フニャオスイダイγ【号】",
+              "ownerName": "ふゆうぶったい",
+              "jockeyName": "ふゆうぶったい",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000463",
+              "horseName": "アグニハラペコ★★【号】",
+              "ownerName": "Sigure_Mia",
+              "jockeyName": "Sigure_Mia",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000461",
+              "horseName": "フローペトルーシカ★★★【号】",
+              "ownerName": "Nagare -ながれ-",
+              "jockeyName": "siyuu007",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000465",
+              "horseName": "StraightPowerγ【号】",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "SHINSHI0080",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 11,
+              "horseId": "H000458",
+              "horseName": "セイヤノマツリζ【号】",
+              "ownerName": "きなこっこ祭",
+              "jockeyName": "きなこっこ祭",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 12,
+              "horseId": "H000448",
+              "horseName": "ナガタイチバンボシΣ【号】",
+              "ownerName": "永田祐志",
+              "jockeyName": "永田祐志",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 13,
+              "horseId": "H000462",
+              "horseName": "LunaShadowγ【号】",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 14,
+              "horseId": "H000469",
+              "horseName": "GlanFictionΨ【号】",
+              "ownerName": "RuM-らむ-",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
             }
           ]
         }
@@ -2274,7 +2465,7 @@
           "timeLabel": "23:00 - 23:30",
           "location": "VRChat",
           "description": "",
-          "status": "募集中",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -2287,7 +2478,7 @@
               "condition": "予定時刻 23:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
               "firstPrize": 400,
               "displayCondition": "坂芝 / コース1 / 予定時刻 23:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
-              "status": "募集中"
+              "status": "公開済"
             }
           ]
         }
