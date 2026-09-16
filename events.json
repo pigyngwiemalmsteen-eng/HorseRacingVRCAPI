@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-16T16:21:57.975Z",
-  "generatedAtLabel": "2026/09/17 01:21",
+  "generatedAt": "2026-09-16T16:31:59.665Z",
+  "generatedAtLabel": "2026/09/17 01:31",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1393,27 +1393,16 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会 ほか2件",
+      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月23日シーズンレース未勝利戦 ほか2件",
       "events": [
         {
-          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
-          "eventId": "",
-          "title": "定期交流会",
-          "timeLabel": "22:00 - 23:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        },
-        {
-          "calendarEventId": "",
+          "calendarEventId": "7rduco05kcvo6h4lrefitapaf4@google.com",
           "eventId": "20260923_1",
-          "title": "9月23日シーズンレース未勝利戦",
+          "title": "【仮想中央競馬会】9月23日シーズンレース未勝利戦",
           "timeLabel": "22:00 - 22:30",
-          "location": "",
+          "location": "VRChat",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1426,7 +1415,7 @@
               "condition": "予定時刻 21:00。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
               "firstPrize": 400,
               "displayCondition": "坂芝 / コース2 / 予定時刻 21:00。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
-              "status": ""
+              "status": "募集中"
             },
             {
               "raceId": "R02",
@@ -1438,9 +1427,20 @@
               "condition": "予定時刻 21:15。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
               "firstPrize": 400,
               "displayCondition": "坂芝 / コース2 / 予定時刻 21:15。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
-              "status": ""
+              "status": "募集中"
             }
           ]
+        },
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
         },
         {
           "calendarEventId": "dma24cvkfnp1ahh43d0qqopqso@google.com",
