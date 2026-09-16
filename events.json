@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-16T13:41:57.159Z",
-  "generatedAtLabel": "2026/09/16 22:41",
+  "generatedAt": "2026-09-16T15:44:42.648Z",
+  "generatedAtLabel": "2026/09/17 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 0,
+  "defaultRaceCardEventIndex": 3,
   "raceCards": [
     {
       "eventId": "20260916",
@@ -314,7 +314,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 1
             },
             {
@@ -383,7 +383,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 1
+              "thirdCount": 2
             },
             {
               "frameNumber": 7,
@@ -415,7 +415,7 @@
                   "finishPosition": 4
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -586,7 +586,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 3,
@@ -696,7 +696,7 @@
               "ownerName": "こっすー",
               "jockeyName": "こっすー",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -777,7 +777,7 @@
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             }
           ]
@@ -995,7 +995,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -1020,7 +1020,7 @@
                   "finishPosition": 5
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -1082,7 +1082,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 1
             }
           ]
@@ -1160,7 +1160,7 @@
               "ownerName": "小雨xiaoyu",
               "jockeyName": "ふゆうぶったい",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -1205,7 +1205,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -1230,7 +1230,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -1345,7 +1345,7 @@
               "horseId": "H000454",
               "horseName": "フニャオスイダイγ【号】",
               "ownerName": "ふゆうぶったい",
-              "jockeyName": "ふゆうぶったい",
+              "jockeyName": "こっすー",
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
@@ -2518,8 +2518,8 @@
       "dateLabel": "9月16日（水）",
       "dayNumber": "16",
       "weekday": "水",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月16日シーズンレース未勝利戦 ほか4件",
       "events": [
         {
@@ -2649,7 +2649,7 @@
       "dateLabel": "9月17日（木）",
       "dayNumber": "17",
       "weekday": "木",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
