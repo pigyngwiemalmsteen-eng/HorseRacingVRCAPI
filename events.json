@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-16T16:31:59.665Z",
-  "generatedAtLabel": "2026/09/17 01:31",
+  "generatedAt": "2026-09-16T18:44:45.391Z",
+  "generatedAtLabel": "2026/09/17 03:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1198,7 +1198,7 @@
               "raceId": "R01",
               "raceNo": "1R",
               "raceName": "㋛新馬戦",
-              "grade": "新馬",
+              "grade": "未勝利",
               "track": "坂芝",
               "course": "コース1",
               "condition": "予定時刻 23:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
