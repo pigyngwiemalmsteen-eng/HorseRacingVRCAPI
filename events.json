@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-15T21:12:02.376Z",
-  "generatedAtLabel": "2026/09/16 06:12",
+  "generatedAt": "2026-09-16T13:41:57.159Z",
+  "generatedAtLabel": "2026/09/16 22:41",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1084,6 +1084,165 @@
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "20260916_2",
+      "eventName": "9月16日公式レース",
+      "eventDate": "2026-09-16",
+      "eventDateLabel": "2026.09.16 水",
+      "startTime": "22:45",
+      "races": [
+        {
+          "eventId": "20260916_2",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "9月16日公式レース 全記号馬解禁戦",
+          "grade": "OP",
+          "track": "坂芝",
+          "course": "コース1",
+          "condition": "こちらはシーズンレースではありません！騙馬以外何を使ってもOK！",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000472",
+              "horseName": "ナスルクスγ",
+              "ownerName": "小雨xiaoyu",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000460",
+              "horseName": "ルナパルフェ豊",
+              "ownerName": "神威ルカ",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000390",
+              "horseName": "ネミィマックイーンΣ",
+              "ownerName": "ねみぃさん",
+              "jockeyName": "ねみぃさん",
+              "previousRuns": [
+                {
+                  "eventId": "20260902",
+                  "raceId": "R02-A",
+                  "raceName": "特殊馬全解禁レース A組",
+                  "grade": "OP",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000451",
+              "horseName": "ナスエクリプスγ",
+              "ownerName": "小雨xiaoyu",
+              "jockeyName": "ふゆうぶったい",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000471",
+              "horseName": "ナスライズγ",
+              "ownerName": "小雨xiaoyu",
+              "jockeyName": "なぎっちゅ。",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000445",
+              "horseName": "マーメイドフィッツ努",
+              "ownerName": "さば煮05",
+              "jockeyName": "さば煮05",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000381",
+              "horseName": "ルナブレイク怪",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [
+                {
+                  "eventId": "20260902",
+                  "raceId": "R02-A",
+                  "raceName": "特殊馬全解禁レース A組",
+                  "grade": "OP",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000468",
+              "horseName": "スパークルミミミミΩ†",
+              "ownerName": "Nele-san",
+              "jockeyName": "Nele-san",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000444",
+              "horseName": "HighSpeedSkγ",
+              "ownerName": "Annulaire",
+              "jockeyName": "Annulaire",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000474",
+              "horseName": "bloodγ",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "SHINSHI0080",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
             }
           ]
         }
@@ -2441,7 +2600,7 @@
           "timeLabel": "22:45 - 23:30",
           "location": "",
           "description": "",
-          "status": "募集中",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -2454,7 +2613,7 @@
               "condition": "こちらはシーズンレースではありません！騙馬以外何を使ってもOK！",
               "firstPrize": 0,
               "displayCondition": "坂芝 / コース1 / こちらはシーズンレースではありません！騙馬以外何を使ってもOK！",
-              "status": "募集中"
+              "status": "公開済"
             }
           ]
         },
