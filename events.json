@@ -1,12 +1,1004 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-17T15:44:40.929Z",
-  "generatedAtLabel": "2026/09/18 00:44",
+  "generatedAt": "2026-09-17T21:16:57.284Z",
+  "generatedAtLabel": "2026/09/18 06:16",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
   "defaultRaceCardEventIndex": 0,
-  "raceCards": [],
+  "raceCards": [
+    {
+      "eventId": "20260919",
+      "eventName": "9月19日シーズンレースG2 OP",
+      "eventDate": "2026-09-19",
+      "eventDateLabel": "2026.09.19 土",
+      "startTime": "22:00",
+      "races": [
+        {
+          "eventId": "20260919",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "㋛OP戦 紅葉特別",
+          "grade": "OP",
+          "track": "坂芝",
+          "course": "コース4",
+          "condition": "予定時刻 22:05。最大出走頭数14頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
+          "firstPrize": 1000,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000470",
+              "horseName": "HighSpeedSkγ【号】",
+              "ownerName": "Annulaire",
+              "jockeyName": "Annulaire",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000449",
+              "horseName": "シュタルクΣ【号】",
+              "ownerName": "toburuku",
+              "jockeyName": "toburuku",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦①",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000333",
+              "horseName": "フローウォッチャー【号】",
+              "ownerName": "Nagare -ながれ-",
+              "jockeyName": "Nagare -ながれ-",
+              "previousRuns": [
+                {
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 12
+                },
+                {
+                  "eventId": "20260912_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦前半",
+                  "grade": "未勝利",
+                  "finishPosition": 10
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-B",
+                  "raceName": "㋛未勝利戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000446",
+              "horseName": "カナコイン§【号】",
+              "ownerName": "東雲れいあ",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_3",
+                  "raceId": "R01",
+                  "raceName": "㋛新馬戦",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000462",
+              "horseName": "LunaShadowγ【号】",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_3",
+                  "raceId": "R01",
+                  "raceName": "㋛新馬戦",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000401",
+              "horseName": "ナスタイドΨ【号】",
+              "ownerName": "小雨xiaoyu",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [
+                {
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 5
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R01",
+                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+                  "grade": "OP",
+                  "finishPosition": 3
+                },
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 1
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000383",
+              "horseName": "アグニアルマ【号】",
+              "ownerName": "Sigure_Mia",
+              "jockeyName": "Sigure_Mia",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦①",
+                  "grade": "未勝利",
+                  "finishPosition": 7
+                },
+                {
+                  "eventId": "20260912_2",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦後半",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-A",
+                  "raceName": "㋛未勝利戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 9
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000406",
+              "horseName": "レプティリアン【号】",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "SHINSHI0080",
+              "previousRuns": [
+                {
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 6
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R02",
+                  "raceName": "㋛G2 長月賞",
+                  "grade": "G2",
+                  "finishPosition": 14
+                },
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-B",
+                  "raceName": "㋛新馬戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 1
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000432",
+              "horseName": "ルナエスペランサ【号】",
+              "ownerName": "RuM-らむ-",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [
+                {
+                  "eventId": "20260912",
+                  "raceId": "R02",
+                  "raceName": "㋛G2 長月賞",
+                  "grade": "G2",
+                  "finishPosition": 7
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R01-B",
+                  "raceName": "㋛未勝利戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                },
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-A",
+                  "raceName": "㋛新馬戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000434",
+              "horseName": "ナノガ【号】",
+              "ownerName": "なぎっちゅ。",
+              "jockeyName": "なぎっちゅ。",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦①",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R02",
+                  "raceName": "㋛G2 長月賞",
+                  "grade": "G2",
+                  "finishPosition": 10
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-A",
+                  "raceName": "㋛未勝利戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 1
+            }
+          ]
+        },
+        {
+          "eventId": "20260919",
+          "raceId": "R02",
+          "raceNumber": 2,
+          "raceNo": "2R",
+          "raceName": "㋛OP戦 白露ステークス",
+          "grade": "OP",
+          "track": "坂芝",
+          "course": "コース1",
+          "condition": "予定時刻 22:25。最大出走頭数14頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
+          "firstPrize": 1000,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000416",
+              "horseName": "ルナアーモンド★【号】",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                },
+                {
+                  "eventId": "20260912_2",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦後半",
+                  "grade": "未勝利",
+                  "finishPosition": 7
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-B",
+                  "raceName": "㋛未勝利戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000417",
+              "horseName": "アグニサハラ§【号】",
+              "ownerName": "Sigure_Mia",
+              "jockeyName": "Sigure_Mia",
+              "previousRuns": [
+                {
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 3
+                },
+                {
+                  "eventId": "20260912_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦前半",
+                  "grade": "未勝利",
+                  "finishPosition": 2
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R01-A",
+                  "raceName": "㋛未勝利戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 2
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000410",
+              "horseName": "マンゴーナウ【号】",
+              "ownerName": "toburuku",
+              "jockeyName": "toburuku",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 8
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R01",
+                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+                  "grade": "OP",
+                  "finishPosition": 11
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-B",
+                  "raceName": "㋛未勝利戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000413",
+              "horseName": "ナスカモネギ♪【号】",
+              "ownerName": "小雨xiaoyu",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [
+                {
+                  "eventId": "20260912",
+                  "raceId": "R02",
+                  "raceName": "㋛G2 長月賞",
+                  "grade": "G2",
+                  "finishPosition": 4
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-B",
+                  "raceName": "㋛未勝利戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-A",
+                  "raceName": "㋛新馬戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000464",
+              "horseName": "レーゲンラビーΣ【号】",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_3",
+                  "raceId": "R01",
+                  "raceName": "㋛新馬戦",
+                  "grade": "未勝利",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000421",
+              "horseName": "マイジャグラーβ【号】",
+              "ownerName": "東雲れいあ",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [
+                {
+                  "eventId": "20260912_2",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦後半",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                },
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-B",
+                  "raceName": "㋛新馬戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000450",
+              "horseName": "コスノテイオーΣ【号】",
+              "ownerName": "こっすー",
+              "jockeyName": "こっすー",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦①",
+                  "grade": "未勝利",
+                  "finishPosition": 1
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000407",
+              "horseName": "ピザゲート【号】",
+              "ownerName": "なぎっちゅ。",
+              "jockeyName": "なぎっちゅ。",
+              "previousRuns": [
+                {
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 2
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R01",
+                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+                  "grade": "OP",
+                  "finishPosition": 9
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R01-B",
+                  "raceName": "㋛未勝利戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000435",
+              "horseName": "LunaFontaine★★★★【号】",
+              "ownerName": "さば煮05",
+              "jockeyName": "さば煮05",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                },
+                {
+                  "eventId": "20260912_2",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦後半",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R01-B",
+                  "raceName": "㋛未勝利戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 9
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000431",
+              "horseName": "DuoRequiem♪【号】",
+              "ownerName": "RuM-らむ-",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 7
+                },
+                {
+                  "eventId": "20260912_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦前半",
+                  "grade": "未勝利",
+                  "finishPosition": 9
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-A",
+                  "raceName": "㋛未勝利戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 7
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20260919",
+          "raceId": "R03",
+          "raceNumber": 3,
+          "raceNo": "3R",
+          "raceName": "㋛G2 オータムステークス",
+          "grade": "G2",
+          "track": "坂芝",
+          "course": "コース2",
+          "condition": "予定時刻 22:45。最大出走頭数16頭。定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
+          "firstPrize": 5000,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000456",
+              "horseName": "Aufheben【号】",
+              "ownerName": "なぎっちゅ。",
+              "jockeyName": "なぎっちゅ。",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_3",
+                  "raceId": "R01",
+                  "raceName": "㋛新馬戦",
+                  "grade": "未勝利",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000356",
+              "horseName": "スパークルバニー★★★【号】",
+              "ownerName": "Annulaire",
+              "jockeyName": "Annulaire",
+              "previousRuns": [
+                {
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 4
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R01",
+                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+                  "grade": "OP",
+                  "finishPosition": 4
+                },
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-B",
+                  "raceName": "㋛新馬戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 1
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000453",
+              "horseName": "ナスエクリプスγ【号】",
+              "ownerName": "小雨xiaoyu",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦①",
+                  "grade": "未勝利",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000408",
+              "horseName": "ムーンロイスΨ【号】",
+              "ownerName": "桜月ミヅキ",
+              "jockeyName": "Haru_0110",
+              "previousRuns": [
+                {
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 7
+                },
+                {
+                  "eventId": "20260912_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦前半",
+                  "grade": "未勝利",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R01-B",
+                  "raceName": "㋛未勝利戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000340",
+              "horseName": "HorlickSky¶【号】",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "SHINSHI0080",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260912_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦前半",
+                  "grade": "未勝利",
+                  "finishPosition": 8
+                },
+                {
+                  "eventId": "20260905",
+                  "raceId": "R01-B",
+                  "raceName": "㋛新馬戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000415",
+              "horseName": "LunaAdagio♪【号】",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [
+                {
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 9
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R01",
+                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+                  "grade": "OP",
+                  "finishPosition": 8
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R01-B",
+                  "raceName": "㋛未勝利戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000419",
+              "horseName": "シルシノキャット★★★【号】",
+              "ownerName": "ぎんねこ851",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R01",
+                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+                  "grade": "OP",
+                  "finishPosition": 6
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-A",
+                  "raceName": "㋛未勝利戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000463",
+              "horseName": "アグニハラペコ★★【号】",
+              "ownerName": "Sigure_Mia",
+              "jockeyName": "Sigure_Mia",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_3",
+                  "raceId": "R01",
+                  "raceName": "㋛新馬戦",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000414",
+              "horseName": "レーゲンパラノイア§【号】",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [
+                {
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R01",
+                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+                  "grade": "OP",
+                  "finishPosition": 12
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R01-B",
+                  "raceName": "㋛未勝利戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000411",
+              "horseName": "コスノヴァリス★★【号】",
+              "ownerName": "こっすー",
+              "jockeyName": "こっすー",
+              "previousRuns": [
+                {
+                  "eventId": "20260912",
+                  "raceId": "R02",
+                  "raceName": "㋛G2 長月賞",
+                  "grade": "G2",
+                  "finishPosition": 3
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R01-A",
+                  "raceName": "㋛未勝利戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 2
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 11,
+              "horseId": "H000409",
+              "horseName": "オイシイマンゴー¶【号】",
+              "ownerName": "toburuku",
+              "jockeyName": "toburuku",
+              "previousRuns": [
+                {
+                  "eventId": "20260912",
+                  "raceId": "R02",
+                  "raceName": "㋛G2 長月賞",
+                  "grade": "G2",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R01-B",
+                  "raceName": "㋛未勝利戦① B組",
+                  "grade": "未勝利",
+                  "finishPosition": 1
+                },
+                {
+                  "eventId": "20260905",
+                  "raceId": "R02-B",
+                  "raceName": "㋛新馬戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 2,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 12,
+              "horseId": "H000191",
+              "horseName": "ゴーイントゥシー【号】",
+              "ownerName": "さば煮05",
+              "jockeyName": "さば煮05",
+              "previousRuns": [
+                {
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 11
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R01",
+                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+                  "grade": "OP",
+                  "finishPosition": 2
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-B",
+                  "raceName": "㋛未勝利戦② B組",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -1297,7 +2289,7 @@
           "timeLabel": "22:00 - 23:00",
           "location": "VRChat",
           "description": "",
-          "status": "募集中",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -1310,7 +2302,7 @@
               "condition": "予定時刻 22:05。最大出走頭数14頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
               "firstPrize": 1000,
               "displayCondition": "坂芝 / コース4 / 予定時刻 22:05。最大出走頭数14頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "募集中"
+              "status": "公開済"
             },
             {
               "raceId": "R02",
@@ -1322,7 +2314,7 @@
               "condition": "予定時刻 22:25。最大出走頭数14頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
               "firstPrize": 1000,
               "displayCondition": "坂芝 / コース1 / 予定時刻 22:25。最大出走頭数14頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "募集中"
+              "status": "公開済"
             },
             {
               "raceId": "R03",
@@ -1334,7 +2326,7 @@
               "condition": "予定時刻 22:45。最大出走頭数16頭。定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
               "firstPrize": 5000,
               "displayCondition": "坂芝 / コース2 / 予定時刻 22:45。最大出走頭数16頭。定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "募集中"
+              "status": "公開済"
             }
           ]
         }
