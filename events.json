@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-19T14:44:40.713Z",
-  "generatedAtLabel": "2026/09/19 23:44",
+  "generatedAt": "2026-09-19T15:44:40.660Z",
+  "generatedAtLabel": "2026/09/20 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 0,
+  "defaultRaceCardEventIndex": 1,
   "raceCards": [
     {
       "eventId": "20260919",
@@ -1047,7 +1047,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -1148,7 +1148,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 1
             },
             {
@@ -1208,7 +1208,7 @@
                   "finishPosition": 2
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 1
             },
@@ -1330,7 +1330,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -1349,7 +1349,7 @@
                   "finishPosition": 5
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -1378,7 +1378,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -2768,8 +2768,8 @@
       "dateLabel": "9月19日（土）",
       "dayNumber": "19",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 【仮想中央競馬会】9月19日シーズンレース未勝利戦 ほか1件",
       "events": [
         {
@@ -2864,7 +2864,7 @@
       "dateLabel": "9月20日（日）",
       "dayNumber": "20",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
