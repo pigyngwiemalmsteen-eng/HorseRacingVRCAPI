@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-19T15:44:40.660Z",
-  "generatedAtLabel": "2026/09/20 00:44",
+  "generatedAt": "2026-09-19T20:44:57.087Z",
+  "generatedAtLabel": "2026/09/20 05:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -3052,8 +3052,20 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "22:40 - 23:00 9月26日シーズンレースG1冠月賞",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20260926",
+          "title": "9月26日シーズンレースG1冠月賞",
+          "timeLabel": "22:40 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-09-27",
