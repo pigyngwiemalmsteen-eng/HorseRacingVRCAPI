@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-18T21:16:59.740Z",
-  "generatedAtLabel": "2026/09/19 06:16",
+  "generatedAt": "2026-09-19T14:44:40.713Z",
+  "generatedAtLabel": "2026/09/19 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -34,7 +34,7 @@
               "ownerName": "Annulaire",
               "jockeyName": "Annulaire",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -109,7 +109,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -300,7 +300,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 1
+              "thirdCount": 2
             }
           ]
         },
@@ -416,7 +416,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -516,7 +516,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -549,7 +549,7 @@
                   "finishPosition": 3
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 1
             },
@@ -652,7 +652,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -705,7 +705,7 @@
                   "finishPosition": 2
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -924,7 +924,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 1
+              "thirdCount": 2
             },
             {
               "frameNumber": 6,
