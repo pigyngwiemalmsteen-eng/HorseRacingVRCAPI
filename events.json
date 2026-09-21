@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-21T15:44:41.465Z",
-  "generatedAtLabel": "2026/09/22 00:44",
+  "generatedAt": "2026-09-21T21:11:57.656Z",
+  "generatedAtLabel": "2026/09/22 06:11",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1204,6 +1204,340 @@
           ]
         }
       ]
+    },
+    {
+      "eventId": "20260923_1",
+      "eventName": "9月23日シーズンレース未勝利戦",
+      "eventDate": "2026-09-23",
+      "eventDateLabel": "2026.09.23 水",
+      "startTime": "22:00",
+      "races": [
+        {
+          "eventId": "20260923_1",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "㋛未勝利戦①",
+          "grade": "未勝利",
+          "track": "坂芝",
+          "course": "コース2",
+          "condition": "予定時刻 21:00。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
+          "firstPrize": 400,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000435",
+              "horseName": "LunaFontaine★★★★【号】",
+              "ownerName": "さば煮05",
+              "jockeyName": "さば煮05",
+              "previousRuns": [
+                {
+                  "eventId": "20260919",
+                  "raceId": "R02",
+                  "raceName": "㋛OP戦 白露ステークス",
+                  "grade": "OP",
+                  "finishPosition": 10
+                },
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                },
+                {
+                  "eventId": "20260912_2",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦後半",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 2,
+              "horseId": "H000469",
+              "horseName": "GlanFictionΨ【号】",
+              "ownerName": "RuM-らむ-",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [
+                {
+                  "eventId": "20260919_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                },
+                {
+                  "eventId": "20260916_3",
+                  "raceId": "R01",
+                  "raceName": "㋛新馬戦",
+                  "grade": "未勝利",
+                  "finishPosition": 11
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 3,
+              "horseId": "H000420",
+              "horseName": "レイシルキャットΨ【号】",
+              "ownerName": "ぎんねこ851",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦①",
+                  "grade": "未勝利",
+                  "finishPosition": 8
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R02",
+                  "raceName": "㋛G2 長月賞",
+                  "grade": "G2",
+                  "finishPosition": 13
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-A",
+                  "raceName": "㋛未勝利戦② A組",
+                  "grade": "未勝利",
+                  "finishPosition": 10
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 4,
+              "horseId": "H000332",
+              "horseName": "フジフローΨ【号】",
+              "ownerName": "Nagare -ながれ-",
+              "jockeyName": "ねみぃさん",
+              "previousRuns": [
+                {
+                  "eventId": "20260919_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦①",
+                  "grade": "未勝利",
+                  "finishPosition": 6
+                },
+                {
+                  "eventId": "20260912_2",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦後半",
+                  "grade": "未勝利",
+                  "finishPosition": 8
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R01-A",
+                  "raceName": "㋛未勝利戦① A組",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 5,
+              "horseId": "H000466",
+              "horseName": "ムーンノワダスクγ【号】",
+              "ownerName": "桜月ミヅキ",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [
+                {
+                  "eventId": "20260919_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦①",
+                  "grade": "未勝利",
+                  "finishPosition": 9
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20260923_1",
+          "raceId": "R02",
+          "raceNumber": 2,
+          "raceNo": "2R",
+          "raceName": "㋛未勝利戦②",
+          "grade": "未勝利",
+          "track": "坂芝",
+          "course": "コース2",
+          "condition": "予定時刻 21:15。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
+          "firstPrize": 400,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000467",
+              "horseName": "ヤオビクニ【号】",
+              "ownerName": "さば煮05",
+              "jockeyName": "さば煮05",
+              "previousRuns": [
+                {
+                  "eventId": "20260919_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦①",
+                  "grade": "未勝利",
+                  "finishPosition": 4
+                },
+                {
+                  "eventId": "20260916_3",
+                  "raceId": "R01",
+                  "raceName": "㋛新馬戦",
+                  "grade": "未勝利",
+                  "finishPosition": 10
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 2,
+              "horseId": "H000419",
+              "horseName": "シルシノキャット★★★【号】",
+              "ownerName": "ぎんねこ851",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [
+                {
+                  "eventId": "20260919",
+                  "raceId": "R03",
+                  "raceName": "㋛G2 オータムステークス",
+                  "grade": "G2",
+                  "finishPosition": 10
+                },
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                },
+                {
+                  "eventId": "20260912",
+                  "raceId": "R01",
+                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+                  "grade": "OP",
+                  "finishPosition": 6
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 3,
+              "horseId": "H000331",
+              "horseName": "スチームライナー【号】",
+              "ownerName": "カイ＿声帯損傷中",
+              "jockeyName": "カイ＿声帯損傷中",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 10
+                },
+                {
+                  "eventId": "20260912_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦前半",
+                  "grade": "未勝利",
+                  "finishPosition": 12
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 4,
+              "horseId": "H000452",
+              "horseName": "コスノジェネシス★★★【号】",
+              "ownerName": "こっすー",
+              "jockeyName": "こっすー",
+              "previousRuns": [
+                {
+                  "eventId": "20260919_1",
+                  "raceId": "R01",
+                  "raceName": "㋛未勝利戦①",
+                  "grade": "未勝利",
+                  "finishPosition": 3
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 5,
+              "horseId": "H000447",
+              "horseName": "イッパツフンキ§【号】",
+              "ownerName": "kingnaka2357",
+              "jockeyName": "kingnaka2357",
+              "previousRuns": [
+                {
+                  "eventId": "20260916_3",
+                  "raceId": "R01",
+                  "raceName": "㋛新馬戦",
+                  "grade": "未勝利",
+                  "finishPosition": 9
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 6,
+              "horseId": "H000478",
+              "horseName": "ムーンアビスη【号】",
+              "ownerName": "桜月ミヅキ",
+              "jockeyName": "桜月ミヅキ",
+              "previousRuns": [
+                {
+                  "eventId": "20260919_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        }
+      ]
     }
   ],
   "defaultStartIndex": 28,
@@ -2366,7 +2700,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "VRChat",
           "description": "",
-          "status": "募集中",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -2379,7 +2713,7 @@
               "condition": "予定時刻 21:00。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
               "firstPrize": 400,
               "displayCondition": "坂芝 / コース2 / 予定時刻 21:00。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
-              "status": "募集中"
+              "status": "公開済"
             },
             {
               "raceId": "R02",
@@ -2391,7 +2725,7 @@
               "condition": "予定時刻 21:15。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
               "firstPrize": 400,
               "displayCondition": "坂芝 / コース2 / 予定時刻 21:15。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
-              "status": "募集中"
+              "status": "公開済"
             }
           ]
         },
