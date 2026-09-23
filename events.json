@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-23T11:44:42.254Z",
-  "generatedAtLabel": "2026/09/23 20:44",
+  "generatedAt": "2026-09-23T15:44:46.322Z",
+  "generatedAtLabel": "2026/09/24 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 0,
+  "defaultRaceCardEventIndex": 1,
   "raceCards": [
     {
       "eventId": "20260923",
@@ -152,7 +152,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 1
             },
             {
@@ -205,7 +205,7 @@
                   "finishPosition": 1
                 }
               ],
-              "firstCount": 2,
+              "firstCount": 3,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -329,7 +329,7 @@
               ],
               "firstCount": 1,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 6,
@@ -470,7 +470,7 @@
                   "finishPosition": 3
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             },
@@ -798,7 +798,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 6,
@@ -858,7 +858,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             }
           ]
@@ -934,7 +934,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -967,7 +967,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1095,7 +1095,7 @@
                   "finishPosition": 2
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -1255,7 +1255,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1317,7 +1317,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -1369,7 +1369,7 @@
                   "finishPosition": 9
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             }
@@ -1445,7 +1445,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1491,7 +1491,7 @@
                   "finishPosition": 3
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             },
@@ -1533,7 +1533,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             }
           ]
         }
@@ -2689,8 +2689,8 @@
       "dateLabel": "9月23日（水）",
       "dayNumber": "23",
       "weekday": "水",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月23日シーズンレース未勝利戦 ほか2件",
       "events": [
         {
@@ -2796,7 +2796,7 @@
       "dateLabel": "9月24日（木）",
       "dayNumber": "24",
       "weekday": "木",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
