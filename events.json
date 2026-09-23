@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-22T15:44:46.068Z",
-  "generatedAtLabel": "2026/09/23 00:44",
+  "generatedAt": "2026-09-23T09:44:41.119Z",
+  "generatedAtLabel": "2026/09/23 18:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2691,7 +2691,7 @@
       "weekday": "水",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月23日シーズンレース未勝利戦 ほか2件",
+      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月23日シーズンレース未勝利戦 ほか3件",
       "events": [
         {
           "calendarEventId": "7rduco05kcvo6h4lrefitapaf4@google.com",
@@ -2738,6 +2738,17 @@
           "description": "",
           "status": "",
           "officialManaged": false,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20260923_2",
+          "title": "9月23日公式レース 記号なし馬限定戦",
+          "timeLabel": "22:00 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
           "races": []
         },
         {
