@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T21:12:15.073Z",
-  "generatedAtLabel": "2026/09/22 06:12",
+  "generatedAt": "2026-09-24T21:12:26.083Z",
+  "generatedAtLabel": "2026/09/25 06:12",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -105,28 +105,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20260926",
-      "eventName": "9月26日シーズンレースG1冠月賞",
-      "eventDate": "2026-09-26",
-      "eventDateLabel": "2026/09/26 22:40",
-      "deadline": "2026-09-24T21:00:00.000Z",
-      "deadlineLabel": "2026/09/25 06:00",
-      "raceId": "R01",
-      "raceNo": 1,
-      "raceNoLabel": "1R",
-      "raceName": "㋛G1 冠月賞",
-      "grade": "G1",
-      "trackType": "坂芝",
-      "course": "コース1",
-      "entryCondition": "予定時刻 22:40。最大出走頭数18頭。定量戦：斤量+2kg。優先出走権のある馬は出走できます！（優先出走権はG2三着以内、OP(L)で選ばれた着順の馬)賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日のG2 OPに出走登録することが出来ます！",
-      "maxEntries": 18,
-      "racehorseOnly": true,
-      "racehorseEventId": "60001",
-      "firstPrize": 20000,
-      "firstPrizeLabel": "20000万uma円",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20260926_1",
       "eventName": "9月26日シーズンレースG2 OP",
