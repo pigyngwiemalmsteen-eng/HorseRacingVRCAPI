@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-25T15:44:41.470Z",
-  "generatedAtLabel": "2026/09/26 00:44",
+  "generatedAt": "2026-09-25T20:44:40.764Z",
+  "generatedAtLabel": "2026/09/26 05:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -3446,19 +3446,8 @@
       "weekday": "土",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "21:00 - 21:30 9月26日シーズンレース未勝利戦 ほか2件",
+      "eventSummary": "21:30 - 22:40 【仮想中央競馬会】9月26日シーズンレースG2 OP ほか1件",
       "events": [
-        {
-          "calendarEventId": "",
-          "eventId": "20260926_2",
-          "title": "9月26日シーズンレース未勝利戦",
-          "timeLabel": "21:00 - 21:30",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": true,
-          "races": []
-        },
         {
           "calendarEventId": "nre4tn2dasprsvvupb2h7b8uro@google.com",
           "eventId": "20260926_1",
