@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-25T13:44:42.983Z",
-  "generatedAtLabel": "2026/09/25 22:44",
+  "generatedAt": "2026-09-25T15:44:41.470Z",
+  "generatedAtLabel": "2026/09/26 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -3421,8 +3421,8 @@
       "dateLabel": "9月25日（金）",
       "dayNumber": "25",
       "weekday": "金",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
         {
@@ -3444,7 +3444,7 @@
       "dateLabel": "9月26日（土）",
       "dayNumber": "26",
       "weekday": "土",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:00 - 21:30 9月26日シーズンレース未勝利戦 ほか2件",
       "events": [
