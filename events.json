@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-24T21:11:58.835Z",
-  "generatedAtLabel": "2026/09/25 06:11",
+  "generatedAt": "2026-09-25T10:44:41.473Z",
+  "generatedAtLabel": "2026/09/25 19:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1955,28 +1955,35 @@
             {
               "frameNumber": 7,
               "horseNumber": 13,
-              "horseId": "H000456",
-              "horseName": "Aufheben【号】",
-              "ownerName": "なぎっちゅ。",
-              "jockeyName": "なぎっちゅ。",
+              "horseId": "H000359",
+              "horseName": "オーブケイゾクΨ【号】",
+              "ownerName": "kingnaka2357",
+              "jockeyName": "kingnaka2357",
               "previousRuns": [
                 {
-                  "eventId": "20260919",
-                  "raceId": "R03",
-                  "raceName": "㋛G2 オータムステークス",
-                  "grade": "G2",
-                  "finishPosition": 2
+                  "eventId": "20260916",
+                  "raceId": "R01",
+                  "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
+                  "grade": "OP",
+                  "finishPosition": 8
                 },
                 {
-                  "eventId": "20260916_3",
+                  "eventId": "20260912",
                   "raceId": "R01",
-                  "raceName": "㋛新馬戦",
+                  "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
+                  "grade": "OP",
+                  "finishPosition": 5
+                },
+                {
+                  "eventId": "20260909",
+                  "raceId": "R02-A",
+                  "raceName": "㋛未勝利戦② A組",
                   "grade": "未勝利",
-                  "finishPosition": 2
+                  "finishPosition": 1
                 }
               ],
-              "firstCount": 0,
-              "secondCount": 2,
+              "firstCount": 1,
+              "secondCount": 0,
               "thirdCount": 0
             },
             {
@@ -3507,7 +3514,7 @@
           "timeLabel": "22:40 - 23:00",
           "location": "VRChat",
           "description": "",
-          "status": "公開済",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -3520,7 +3527,7 @@
               "condition": "予定時刻 22:40。最大出走頭数18頭。定量戦：斤量+2kg。優先出走権のある馬は出走できます！（優先出走権はG2三着以内、OP(L)で選ばれた着順の馬)賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日のG2 OPに出走登録することが出来ます！",
               "firstPrize": 20000,
               "displayCondition": "坂芝 / コース1 / 予定時刻 22:40。最大出走頭数18頭。定量戦：斤量+2kg。優先出走権のある馬は出走できます！（優先出走権はG2三着以内、OP(L)で選ばれた着順の馬)賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日のG2 OPに出走登録することが出来ます！",
-              "status": "公開済"
+              "status": "出走表作成済"
             }
           ]
         }
