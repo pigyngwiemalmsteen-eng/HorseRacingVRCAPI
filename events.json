@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-25T10:44:41.473Z",
-  "generatedAtLabel": "2026/09/25 19:44",
+  "generatedAt": "2026-09-25T13:44:42.983Z",
+  "generatedAtLabel": "2026/09/25 22:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -3466,7 +3466,7 @@
           "timeLabel": "21:30 - 22:40",
           "location": "VRChat",
           "description": "",
-          "status": "募集中",
+          "status": "回答集計済",
           "officialManaged": true,
           "races": [
             {
@@ -3479,7 +3479,7 @@
               "condition": "予定時刻 22:20。最大出走頭数18頭。定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！",
               "firstPrize": 5000,
               "displayCondition": "坂芝 / コース1 / 予定時刻 22:20。最大出走頭数18頭。定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！",
-              "status": "募集中"
+              "status": "回答集計済"
             },
             {
               "raceId": "R02",
@@ -3491,7 +3491,7 @@
               "condition": "予定時刻 22:00。最大出走頭数18頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録出来ます！",
               "firstPrize": 1000,
               "displayCondition": "坂芝 / コース1 / 予定時刻 22:00。最大出走頭数18頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録出来ます！",
-              "status": "募集中"
+              "status": "回答集計済"
             },
             {
               "raceId": "R03",
@@ -3503,7 +3503,7 @@
               "condition": "予定時刻 21:40。最大出走頭数18頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録出来ます！",
               "firstPrize": 1000,
               "displayCondition": "坂芝 / コース1 / 予定時刻 21:40。最大出走頭数18頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録出来ます！",
-              "status": "募集中"
+              "status": "回答集計済"
             }
           ]
         },
