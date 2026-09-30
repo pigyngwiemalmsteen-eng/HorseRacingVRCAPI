@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-30T13:44:50.392Z",
-  "generatedAtLabel": "2026/09/30 22:44",
+  "generatedAt": "2026-09-30T14:44:42.585Z",
+  "generatedAtLabel": "2026/09/30 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -70,7 +70,7 @@
               "ownerName": "Nele-san",
               "jockeyName": "Nele-san",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -129,7 +129,7 @@
               "ownerName": "小雨xiaoyu",
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -143,7 +143,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -229,7 +229,7 @@
               "jockeyName": "なぎっちゅ。",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -325,7 +325,7 @@
               "jockeyName": "なぎっちゅ。",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -371,7 +371,15 @@
               "horseName": "ハヤノアスパラ",
               "ownerName": "うにまるi",
               "jockeyName": "うにまるi",
-              "previousRuns": [],
+              "previousRuns": [
+                {
+                  "eventId": "20260930",
+                  "raceId": "R01",
+                  "raceName": "特殊馬全解禁レース 芝",
+                  "grade": "OP",
+                  "finishPosition": 7
+                }
+              ],
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
@@ -398,7 +406,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 6,
@@ -407,8 +415,16 @@
               "horseName": "ウエサマλ",
               "ownerName": "Nele-san",
               "jockeyName": "Nele-san",
-              "previousRuns": [],
-              "firstCount": 0,
+              "previousRuns": [
+                {
+                  "eventId": "20260930",
+                  "raceId": "R01",
+                  "raceName": "特殊馬全解禁レース 芝",
+                  "grade": "OP",
+                  "finishPosition": 5
+                }
+              ],
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -445,6 +461,13 @@
               "jockeyName": "くぁたん",
               "previousRuns": [
                 {
+                  "eventId": "20260930",
+                  "raceId": "R01",
+                  "raceName": "特殊馬全解禁レース 芝",
+                  "grade": "OP",
+                  "finishPosition": 14
+                },
+                {
                   "eventId": "20260902",
                   "raceId": "R02-A",
                   "raceName": "特殊馬全解禁レース A組",
@@ -463,7 +486,15 @@
               "horseName": "レーゲンダークネス暴",
               "ownerName": "雨乃ユウ",
               "jockeyName": "雨乃ユウ",
-              "previousRuns": [],
+              "previousRuns": [
+                {
+                  "eventId": "20260930",
+                  "raceId": "R01",
+                  "raceName": "特殊馬全解禁レース 芝",
+                  "grade": "OP",
+                  "finishPosition": 11
+                }
+              ],
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
