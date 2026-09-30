@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-30T14:44:42.585Z",
-  "generatedAtLabel": "2026/09/30 23:44",
+  "generatedAt": "2026-09-30T15:44:41.601Z",
+  "generatedAtLabel": "2026/10/01 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1555,8 +1555,8 @@
       "dateLabel": "9月30日（水）",
       "dayNumber": "30",
       "weekday": "水",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月30日公式レース開催！ ほか1件",
       "events": [
         {
@@ -1614,7 +1614,7 @@
       "dateLabel": "10月1日（木）",
       "dayNumber": "1",
       "weekday": "木",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
