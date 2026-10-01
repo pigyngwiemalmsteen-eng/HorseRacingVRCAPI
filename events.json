@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-09-30T15:44:41.601Z",
-  "generatedAtLabel": "2026/10/01 00:44",
+  "generatedAt": "2026-10-01T01:11:57.918Z",
+  "generatedAtLabel": "2026/10/01 10:11",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -690,20 +690,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-09-07",
@@ -936,20 +924,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-09-14",
@@ -1242,20 +1218,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-09-21",
@@ -1512,20 +1476,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-09-28",
@@ -1661,20 +1613,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-10-05",
@@ -1774,20 +1714,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-10-12",
@@ -1887,20 +1815,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-10-19",
@@ -2000,20 +1916,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-10-26",
@@ -2113,20 +2017,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-11-02",
@@ -2226,20 +2118,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-11-09",
@@ -2339,20 +2219,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     },
     {
       "dateKey": "2026-11-16",
@@ -2452,20 +2320,8 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "45s460bvkhk5vlnsa3dd0pia4g@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
+      "eventSummary": "予定なし",
+      "events": []
     }
   ]
 }
