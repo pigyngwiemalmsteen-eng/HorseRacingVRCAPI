@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-01T15:44:42.960Z",
-  "generatedAtLabel": "2026/10/02 00:44",
+  "generatedAt": "2026-10-02T08:44:41.083Z",
+  "generatedAtLabel": "2026/10/02 17:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -87,7 +87,8 @@
                   "raceId": "R02-A",
                   "raceName": "特殊馬全解禁レース A組",
                   "grade": "OP",
-                  "finishPosition": 9
+                  "finishPosition": 9,
+                  "last3F": ""
                 }
               ],
               "firstCount": 0,
@@ -107,14 +108,16 @@
                   "raceId": "R01",
                   "raceName": "9月16日公式レース 全記号馬解禁戦",
                   "grade": "OP",
-                  "finishPosition": 2
+                  "finishPosition": 2,
+                  "last3F": ""
                 },
                 {
                   "eventId": "20260902",
                   "raceId": "R02-A",
                   "raceName": "特殊馬全解禁レース A組",
                   "grade": "OP",
-                  "finishPosition": 2
+                  "finishPosition": 2,
+                  "last3F": ""
                 }
               ],
               "firstCount": 0,
@@ -170,14 +173,16 @@
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル12R",
                   "grade": "OP",
-                  "finishPosition": 11
+                  "finishPosition": 11,
+                  "last3F": ""
                 },
                 {
                   "eventId": "20260805_1",
                   "raceId": "R01",
                   "raceName": "第一回レーティングバトル11R",
                   "grade": "OP",
-                  "finishPosition": 13
+                  "finishPosition": 13,
+                  "last3F": ""
                 }
               ],
               "firstCount": 0,
@@ -245,21 +250,24 @@
                   "raceId": "R03",
                   "raceName": "レーティングバトルありがとうステークス",
                   "grade": "G2",
-                  "finishPosition": 1
+                  "finishPosition": 1,
+                  "last3F": ""
                 },
                 {
                   "eventId": "20260829",
                   "raceId": "R03",
                   "raceName": "G1 ASK記念",
                   "grade": "G1",
-                  "finishPosition": 10
+                  "finishPosition": 10,
+                  "last3F": ""
                 },
                 {
                   "eventId": "20260829_1",
                   "raceId": "R02",
                   "raceName": "無条件ASK記念アフターレース",
                   "grade": "OP",
-                  "finishPosition": 1
+                  "finishPosition": 1,
+                  "last3F": ""
                 }
               ],
               "firstCount": 2,
@@ -377,7 +385,8 @@
                   "raceId": "R01",
                   "raceName": "特殊馬全解禁レース 芝",
                   "grade": "OP",
-                  "finishPosition": 7
+                  "finishPosition": 7,
+                  "last3F": ""
                 }
               ],
               "firstCount": 0,
@@ -421,7 +430,8 @@
                   "raceId": "R01",
                   "raceName": "特殊馬全解禁レース 芝",
                   "grade": "OP",
-                  "finishPosition": 5
+                  "finishPosition": 5,
+                  "last3F": ""
                 }
               ],
               "firstCount": 1,
@@ -465,14 +475,16 @@
                   "raceId": "R01",
                   "raceName": "特殊馬全解禁レース 芝",
                   "grade": "OP",
-                  "finishPosition": 14
+                  "finishPosition": 14,
+                  "last3F": ""
                 },
                 {
                   "eventId": "20260902",
                   "raceId": "R02-A",
                   "raceName": "特殊馬全解禁レース A組",
                   "grade": "OP",
-                  "finishPosition": 9
+                  "finishPosition": 9,
+                  "last3F": ""
                 }
               ],
               "firstCount": 0,
@@ -492,7 +504,8 @@
                   "raceId": "R01",
                   "raceName": "特殊馬全解禁レース 芝",
                   "grade": "OP",
-                  "finishPosition": 11
+                  "finishPosition": 11,
+                  "last3F": ""
                 }
               ],
               "firstCount": 0,
@@ -1579,8 +1592,32 @@
       "weekday": "金",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "eventSummary": "19:00 - 20:00 10月02日 公式レース開催 ほか1件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261002",
+          "title": "10月02日 公式レース開催",
+          "timeLabel": "19:00 - 20:00",
+          "location": "",
+          "description": "",
+          "status": "公開済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "10月02日 公式レース 第1R",
+              "grade": "OP",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "ダート / コース1",
+              "status": "公開済"
+            }
+          ]
+        },
         {
           "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
           "eventId": "",
