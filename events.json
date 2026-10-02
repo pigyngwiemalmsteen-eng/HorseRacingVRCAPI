@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-02T09:44:41.545Z",
-  "generatedAtLabel": "2026/10/02 18:44",
+  "generatedAt": "2026-10-02T10:07:58.260Z",
+  "generatedAtLabel": "2026/10/02 19:07",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -78,6 +78,14 @@
               "ownerName": "えーすけ。A_S_K",
               "jockeyName": "えーすけ。A_S_K",
               "previousRuns": [
+                {
+                  "eventId": "20261002",
+                  "raceId": "R01",
+                  "raceName": "10月02日 公式レース 第1R",
+                  "grade": "OP",
+                  "finishPosition": 1,
+                  "last3F": "33秒40"
+                },
                 {
                   "eventId": "20260820",
                   "raceId": "R01",
