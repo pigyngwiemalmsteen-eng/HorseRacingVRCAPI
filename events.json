@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-02T09:30:57.034Z",
-  "generatedAtLabel": "2026/10/02 18:30",
+  "generatedAt": "2026-10-02T09:44:41.545Z",
+  "generatedAtLabel": "2026/10/02 18:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -12,7 +12,7 @@
       "eventName": "10月02日 公式レース開催",
       "eventDate": "2026-10-02",
       "eventDateLabel": "2026.10.02 金",
-      "startTime": "19:00",
+      "startTime": "18:00",
       "races": [
         {
           "eventId": "20261002",
@@ -1171,13 +1171,13 @@
       "weekday": "金",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "19:00 - 20:00 10月02日 公式レース開催 ほか2件",
+      "eventSummary": "18:00 - 18:30 10月02日 公式レース開催 ほか2件",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20261002",
           "title": "10月02日 公式レース開催",
-          "timeLabel": "19:00 - 20:00",
+          "timeLabel": "18:00 - 18:30",
           "location": "",
           "description": "",
           "status": "公開済",
