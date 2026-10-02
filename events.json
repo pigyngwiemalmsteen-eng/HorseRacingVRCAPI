@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-02T09:21:57.999Z",
-  "generatedAtLabel": "2026/10/02 18:21",
+  "generatedAt": "2026-10-02T09:30:57.034Z",
+  "generatedAtLabel": "2026/10/02 18:30",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -16,6 +16,50 @@
       "races": [
         {
           "eventId": "20261002",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "10月02日 公式レース 第1R",
+          "grade": "OP",
+          "track": "ダート",
+          "course": "コース1",
+          "condition": "",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000111",
+              "horseName": "アークティカ",
+              "ownerName": "えーすけ。A_S_K",
+              "jockeyName": "えーすけ。A_S_K",
+              "previousRuns": [
+                {
+                  "eventId": "20260820",
+                  "raceId": "R01",
+                  "raceName": "08月20日 公式レース 第1R",
+                  "grade": "OP",
+                  "finishPosition": 1,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 2,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "eventId": "20261002_1",
+      "eventName": "10月02日 公式レース開催",
+      "eventDate": "2026-10-02",
+      "eventDateLabel": "2026.10.02 金",
+      "startTime": "19:00",
+      "races": [
+        {
+          "eventId": "20261002_1",
           "raceId": "R01",
           "raceNumber": 1,
           "raceNo": "1R",
@@ -1160,7 +1204,7 @@
           "timeLabel": "19:00 - 20:00",
           "location": "",
           "description": "",
-          "status": "回答集計済",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -1173,7 +1217,7 @@
               "condition": "",
               "firstPrize": 0,
               "displayCondition": "ダート / コース1",
-              "status": "回答集計済"
+              "status": "公開済"
             }
           ]
         },
