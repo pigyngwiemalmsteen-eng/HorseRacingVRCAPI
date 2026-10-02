@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-02T10:07:58.260Z",
-  "generatedAtLabel": "2026/10/02 19:07",
+  "generatedAt": "2026-10-02T10:44:42.445Z",
+  "generatedAtLabel": "2026/10/02 19:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -43,7 +43,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 2,
+              "firstCount": 3,
               "secondCount": 0,
               "thirdCount": 0
             }
@@ -95,7 +95,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 2,
+              "firstCount": 3,
               "secondCount": 0,
               "thirdCount": 0
             }
