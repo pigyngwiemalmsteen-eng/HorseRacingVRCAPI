@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-02T08:51:30.447Z",
-  "generatedAtLabel": "2026/10/02 17:51",
+  "generatedAt": "2026-10-02T09:21:57.999Z",
+  "generatedAtLabel": "2026/10/02 18:21",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -43,7 +43,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 1,
+              "firstCount": 2,
               "secondCount": 0,
               "thirdCount": 0
             }
@@ -1127,7 +1127,7 @@
       "weekday": "金",
       "isToday": true,
       "isPast": false,
-      "eventSummary": "19:00 - 20:00 10月02日 公式レース開催 ほか1件",
+      "eventSummary": "19:00 - 20:00 10月02日 公式レース開催 ほか2件",
       "events": [
         {
           "calendarEventId": "",
@@ -1150,6 +1150,30 @@
               "firstPrize": 0,
               "displayCondition": "ダート / コース1",
               "status": "公開済"
+            }
+          ]
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261002_1",
+          "title": "10月02日 公式レース開催",
+          "timeLabel": "19:00 - 20:00",
+          "location": "",
+          "description": "",
+          "status": "回答集計済",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "10月02日 公式レース 第1R",
+              "grade": "OP",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "ダート / コース1",
+              "status": "回答集計済"
             }
           ]
         },
