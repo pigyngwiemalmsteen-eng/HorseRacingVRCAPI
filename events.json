@@ -1,109 +1,12 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-06T15:44:53.542Z",
-  "generatedAtLabel": "2026/10/07 00:44",
+  "generatedAt": "2026-10-06T22:32:00.610Z",
+  "generatedAtLabel": "2026/10/07 07:32",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 1,
-  "raceCards": [
-    {
-      "eventId": "20261002",
-      "eventName": "10月02日 公式レース開催",
-      "eventDate": "2026-10-02",
-      "eventDateLabel": "2026.10.02 金",
-      "startTime": "18:00",
-      "races": [
-        {
-          "eventId": "20261002",
-          "raceId": "R01",
-          "raceNumber": 1,
-          "raceNo": "1R",
-          "raceName": "10月02日 公式レース 第1R",
-          "grade": "OP",
-          "track": "ダート",
-          "course": "コース1",
-          "condition": "",
-          "firstPrize": 0,
-          "entries": [
-            {
-              "frameNumber": 1,
-              "horseNumber": 1,
-              "horseId": "H000111",
-              "horseName": "アークティカ",
-              "ownerName": "えーすけ。A_S_K",
-              "jockeyName": "えーすけ。A_S_K",
-              "previousRuns": [
-                {
-                  "eventId": "20260820",
-                  "raceId": "R01",
-                  "raceName": "08月20日 公式レース 第1R",
-                  "grade": "OP",
-                  "finishPosition": 1,
-                  "last3F": ""
-                }
-              ],
-              "firstCount": 3,
-              "secondCount": 0,
-              "thirdCount": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "eventId": "20261002_1",
-      "eventName": "10月02日 公式レース開催",
-      "eventDate": "2026-10-02",
-      "eventDateLabel": "2026.10.02 金",
-      "startTime": "19:00",
-      "races": [
-        {
-          "eventId": "20261002_1",
-          "raceId": "R01",
-          "raceNumber": 1,
-          "raceNo": "1R",
-          "raceName": "10月02日 公式レース 第1R",
-          "grade": "OP",
-          "track": "ダート",
-          "course": "コース1",
-          "condition": "",
-          "firstPrize": 0,
-          "entries": [
-            {
-              "frameNumber": 1,
-              "horseNumber": 1,
-              "horseId": "H000111",
-              "horseName": "アークティカ",
-              "ownerName": "えーすけ。A_S_K",
-              "jockeyName": "えーすけ。A_S_K",
-              "previousRuns": [
-                {
-                  "eventId": "20261002",
-                  "raceId": "R01",
-                  "raceName": "10月02日 公式レース 第1R",
-                  "grade": "OP",
-                  "finishPosition": 1,
-                  "last3F": "33秒40"
-                },
-                {
-                  "eventId": "20260820",
-                  "raceId": "R01",
-                  "raceName": "08月20日 公式レース 第1R",
-                  "grade": "OP",
-                  "finishPosition": 1,
-                  "last3F": ""
-                }
-              ],
-              "firstCount": 3,
-              "secondCount": 0,
-              "thirdCount": 0
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "defaultRaceCardEventIndex": 0,
+  "raceCards": [],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -1165,8 +1068,45 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:30 【仮想中央競馬会】10月10日馬主騎手マッチングデー",
+      "events": [
+        {
+          "calendarEventId": "fiorqhut313tjaks3nl5b13gr4@google.com",
+          "eventId": "20261010",
+          "title": "【仮想中央競馬会】10月10日馬主騎手マッチングデー",
+          "timeLabel": "21:30 - 22:30",
+          "location": "VRChat",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "馬主騎手マッチングレース(馬主バッジ所持数5枚以下限定戦）",
+              "grade": "OP",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "予定時刻21:30。馬条件：記号なし(生産記号なし） 馬主条件：総獲得バッジ数5枚以下騎手条件：なし馬主毎の出走可能頭数：4強制本格化ON",
+              "firstPrize": 0,
+              "displayCondition": "ダート / コース1 / 予定時刻21:30。馬条件：記号なし(生産記号なし） 馬主条件：総獲得バッジ数5枚以下騎手条件：なし馬主毎の出走可能頭数：4強制本格化ON",
+              "status": "募集中"
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "馬主騎手マッチングレース(馬主条件なし)",
+              "grade": "G3",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "予定時刻22:00。馬条件：記号なし(生産記号なし） 馬主条件：なし騎手条件：なし馬主毎の出走可能頭数：2強制本格化OFFUI_OFF",
+              "firstPrize": 0,
+              "displayCondition": "ダート / コース1 / 予定時刻22:00。馬条件：記号なし(生産記号なし） 馬主条件：なし騎手条件：なし馬主毎の出走可能頭数：2強制本格化OFFUI_OFF",
+              "status": "募集中"
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-10-11",
