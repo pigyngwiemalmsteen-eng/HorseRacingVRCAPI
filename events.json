@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-09T02:44:41.399Z",
-  "generatedAtLabel": "2026/10/09 11:44",
+  "generatedAt": "2026-10-09T05:44:41.347Z",
+  "generatedAtLabel": "2026/10/09 14:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -114,7 +114,7 @@
               "frameNumber": 8,
               "horseNumber": 8,
               "horseId": "H000522",
-              "horseName": "ポシビりタ",
+              "horseName": "ポシピリタ",
               "ownerName": "inブリ",
               "jockeyName": "桜月ミヅキ",
               "previousRuns": [],
