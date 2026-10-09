@@ -1,12 +1,266 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-08T15:44:40.720Z",
-  "generatedAtLabel": "2026/10/09 00:44",
+  "generatedAt": "2026-10-09T02:44:41.399Z",
+  "generatedAtLabel": "2026/10/09 11:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
   "defaultRaceCardEventIndex": 0,
-  "raceCards": [],
+  "raceCards": [
+    {
+      "eventId": "20261010",
+      "eventName": "10月10日馬主騎手マッチングデー",
+      "eventDate": "2026-10-10",
+      "eventDateLabel": "2026.10.10 土",
+      "startTime": "21:30",
+      "races": [
+        {
+          "eventId": "20261010",
+          "raceId": "R01",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "馬主騎手マッチングレース(馬主バッジ所持数5枚以下限定戦）",
+          "grade": "OP",
+          "track": "ダート",
+          "course": "コース1",
+          "condition": "予定時刻21:30。馬条件：記号なし(生産記号なし） 馬主条件：総獲得バッジ数5枚以下騎手条件：なし馬主毎の出走可能頭数：4強制本格化ON",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000503",
+              "horseName": "シマッタツヤ",
+              "ownerName": "kyonnsii",
+              "jockeyName": "RenNeko12",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 2,
+              "horseId": "H000510",
+              "horseName": "チノクロー",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 3,
+              "horseId": "H000506",
+              "horseName": "テスラ",
+              "ownerName": "はっさくゼリー",
+              "jockeyName": "Sigure_Mia",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 4,
+              "horseId": "H000511",
+              "horseName": "ホワイトアーク",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "Nele-san",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 5,
+              "horseId": "H000512",
+              "horseName": "チノファング",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 6,
+              "horseId": "H000521",
+              "horseName": "プロフ",
+              "ownerName": "inブリ",
+              "jockeyName": "はっさくゼリー",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 7,
+              "horseId": "H000502",
+              "horseName": "ハイハイパワー",
+              "ownerName": "kyonnsii",
+              "jockeyName": "SHINSHI0080",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 8,
+              "horseNumber": 8,
+              "horseId": "H000522",
+              "horseName": "ポシビりタ",
+              "ownerName": "inブリ",
+              "jockeyName": "桜月ミヅキ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20261010",
+          "raceId": "R02",
+          "raceNumber": 2,
+          "raceNo": "2R",
+          "raceName": "馬主騎手マッチングレース(馬主条件なし)",
+          "grade": "G3",
+          "track": "ダート",
+          "course": "コース1",
+          "condition": "予定時刻22:00。馬条件：記号なし(生産記号なし） 馬主条件：なし騎手条件：なし馬主毎の出走可能頭数：2強制本格化OFFUI_OFF",
+          "firstPrize": 0,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000524",
+              "horseName": "ゼロヨン",
+              "ownerName": "inブリ",
+              "jockeyName": "Sigure_Mia",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000509",
+              "horseName": "フローデイジー",
+              "ownerName": "Nagare -ながれ-",
+              "jockeyName": "Nele-san",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000506",
+              "horseName": "テスラ",
+              "ownerName": "はっさくゼリー",
+              "jockeyName": "inブリ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000513",
+              "horseName": "スプリンタトレェノ",
+              "ownerName": "kyonnsii",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000515",
+              "horseName": "レーゲンハリケーン",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000517",
+              "horseName": "ルナステイン",
+              "ownerName": "神威ルカ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000518",
+              "horseName": "ヤシキブレイザード",
+              "ownerName": "RenNeko12",
+              "jockeyName": "SHINSHI0080",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000507",
+              "horseName": "ルチカスパーク",
+              "ownerName": "YuyaKuga",
+              "jockeyName": "はっさくゼリー",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000519",
+              "horseName": "wecars",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "YuyaKuga",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000504",
+              "horseName": "マクラレーン",
+              "ownerName": "kyonnsii",
+              "jockeyName": "桜月ミヅキ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -1077,7 +1331,7 @@
           "timeLabel": "21:30 - 22:30",
           "location": "VRChat",
           "description": "",
-          "status": "回答集計済",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -1090,7 +1344,7 @@
               "condition": "予定時刻21:30。馬条件：記号なし(生産記号なし） 馬主条件：総獲得バッジ数5枚以下騎手条件：なし馬主毎の出走可能頭数：4強制本格化ON",
               "firstPrize": 0,
               "displayCondition": "ダート / コース1 / 予定時刻21:30。馬条件：記号なし(生産記号なし） 馬主条件：総獲得バッジ数5枚以下騎手条件：なし馬主毎の出走可能頭数：4強制本格化ON",
-              "status": "回答集計済"
+              "status": "公開済"
             },
             {
               "raceId": "R02",
@@ -1102,7 +1356,7 @@
               "condition": "予定時刻22:00。馬条件：記号なし(生産記号なし） 馬主条件：なし騎手条件：なし馬主毎の出走可能頭数：2強制本格化OFFUI_OFF",
               "firstPrize": 0,
               "displayCondition": "ダート / コース1 / 予定時刻22:00。馬条件：記号なし(生産記号なし） 馬主条件：なし騎手条件：なし馬主毎の出走可能頭数：2強制本格化OFFUI_OFF",
-              "status": "回答集計済"
+              "status": "公開済"
             }
           ]
         }
