@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-09T15:44:44.048Z",
-  "generatedAtLabel": "2026/10/10 00:44",
+  "generatedAt": "2026-10-10T14:44:41.338Z",
+  "generatedAtLabel": "2026/10/10 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -48,7 +48,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 3,
@@ -71,7 +71,7 @@
               "jockeyName": "Nele-san",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -82,7 +82,7 @@
               "ownerName": "SHINSHI0080",
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -145,7 +145,7 @@
               "jockeyName": "Sigure_Mia",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -156,7 +156,7 @@
               "ownerName": "Nagare -ながれ-",
               "jockeyName": "Nele-san",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -167,7 +167,16 @@
               "horseName": "テスラ",
               "ownerName": "はっさくゼリー",
               "jockeyName": "inブリ",
-              "previousRuns": [],
+              "previousRuns": [
+                {
+                  "eventId": "20261010",
+                  "raceId": "R01",
+                  "raceName": "馬主騎手マッチングレース(馬主バッジ所持数5枚以下限定戦）",
+                  "grade": "OP",
+                  "finishPosition": 5,
+                  "last3F": ""
+                }
+              ],
               "firstCount": 0,
               "secondCount": 0,
               "thirdCount": 0
@@ -242,7 +251,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
