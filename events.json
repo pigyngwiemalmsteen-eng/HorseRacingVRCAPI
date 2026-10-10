@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-10T14:44:41.338Z",
-  "generatedAtLabel": "2026/10/10 23:44",
+  "generatedAt": "2026-10-10T15:44:56.898Z",
+  "generatedAtLabel": "2026/10/11 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1329,8 +1329,8 @@
       "dateLabel": "10月10日（土）",
       "dayNumber": "10",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:30 【仮想中央競馬会】10月10日馬主騎手マッチングデー",
       "events": [
         {
@@ -1377,7 +1377,7 @@
       "dateLabel": "10月11日（日）",
       "dayNumber": "11",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
