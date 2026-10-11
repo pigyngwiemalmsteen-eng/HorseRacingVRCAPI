@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-10T15:44:56.898Z",
-  "generatedAtLabel": "2026/10/11 00:44",
+  "generatedAt": "2026-10-11T15:44:41.103Z",
+  "generatedAtLabel": "2026/10/12 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -273,240 +273,6 @@
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
-    {
-      "dateKey": "2026-09-07",
-      "displayDate": "2026.09.07",
-      "dateLabel": "9月7日（月）",
-      "dayNumber": "7",
-      "weekday": "月",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-09-08",
-      "displayDate": "2026.09.08",
-      "dateLabel": "9月8日（火）",
-      "dayNumber": "8",
-      "weekday": "火",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-09-09",
-      "displayDate": "2026.09.09",
-      "dateLabel": "9月9日（水）",
-      "dayNumber": "9",
-      "weekday": "水",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "22:00 - 23:00 【仮想中央競馬会】9月9日シーズンレース未勝利戦 ほか1件",
-      "events": [
-        {
-          "calendarEventId": "7eqpshjmpm3s20hapjjumndja4@google.com",
-          "eventId": "20260909",
-          "title": "【仮想中央競馬会】9月9日シーズンレース未勝利戦",
-          "timeLabel": "22:00 - 23:00",
-          "location": "VRChat",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "㋛未勝利戦①",
-              "grade": "未勝利",
-              "track": "平場芝",
-              "course": "コース2",
-              "condition": "未勝利戦です！騎手が別なら同じレースに出せます！",
-              "firstPrize": 400,
-              "displayCondition": "平場芝 / コース2 / 未勝利戦です！騎手が別なら同じレースに出せます！",
-              "status": "公開済"
-            },
-            {
-              "raceId": "R02",
-              "raceNo": "2R",
-              "raceName": "㋛未勝利戦②",
-              "grade": "未勝利",
-              "track": "平場芝",
-              "course": "コース1",
-              "condition": "未勝利戦です！騎手が別なら同じレースに出せます！",
-              "firstPrize": 400,
-              "displayCondition": "平場芝 / コース1 / 未勝利戦です！騎手が別なら同じレースに出せます！",
-              "status": "公開済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
-          "eventId": "",
-          "title": "定期交流会",
-          "timeLabel": "22:00 - 23:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-09-10",
-      "displayDate": "2026.09.10",
-      "dateLabel": "9月10日（木）",
-      "dayNumber": "10",
-      "weekday": "木",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 第三回みみのこダービー",
-      "events": [
-        {
-          "calendarEventId": "3jh0t3l7jsa3paq1ai9munp3d8@google.com",
-          "eventId": "",
-          "title": "第三回みみのこダービー",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "みみのこ達のダービー企画！\n１万馬で世代の頂点をめざせ！！\n企画 懐かしのアンタレス",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-09-11",
-      "displayDate": "2026.09.11",
-      "dateLabel": "9月11日（金）",
-      "dayNumber": "11",
-      "weekday": "金",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-09-12",
-      "displayDate": "2026.09.12",
-      "dateLabel": "9月12日（土）",
-      "dayNumber": "12",
-      "weekday": "土",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:30 - 22:00 【仮想中央競馬会】9月12日シーズンレース未勝利戦 ほか2件",
-      "events": [
-        {
-          "calendarEventId": "jlbqvqphq9evvojjqh34o1kokg@google.com",
-          "eventId": "20260912_1",
-          "title": "【仮想中央競馬会】9月12日シーズンレース未勝利戦",
-          "timeLabel": "21:30 - 22:00",
-          "location": "VRChat",
-          "description": "",
-          "status": "出走表作成済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "㋛未勝利戦前半",
-              "grade": "未勝利",
-              "track": "平場芝",
-              "course": "コース4",
-              "condition": "未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！",
-              "firstPrize": 400,
-              "displayCondition": "平場芝 / コース4 / 未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！",
-              "status": "出走表作成済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "kr55kj61ptb71f0hu7bomlepdo@google.com",
-          "eventId": "20260912",
-          "title": "【仮想中央競馬会】9月12日シーズンレースG2 OP",
-          "timeLabel": "22:00 - 22:45",
-          "location": "VRChat",
-          "description": "",
-          "status": "出走表作成済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "㋛OP 神椿フェス2026お疲れさまでした記念",
-              "grade": "OP",
-              "track": "平場芝",
-              "course": "コース2",
-              "condition": "OP戦です！別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "firstPrize": 1000,
-              "displayCondition": "平場芝 / コース2 / OP戦です！別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "出走表作成済"
-            },
-            {
-              "raceId": "R02",
-              "raceNo": "2R",
-              "raceName": "㋛G2 長月賞",
-              "grade": "G2",
-              "track": "平場芝",
-              "course": "コース1",
-              "condition": "G2です！定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "firstPrize": 5000,
-              "displayCondition": "平場芝 / コース1 / G2です！定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "出走表作成済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "rd3aarp4ass097gmlp2q62tgjo@google.com",
-          "eventId": "20260912_2",
-          "title": "9月12日シーズンレース未勝利戦後半",
-          "timeLabel": "22:45 - 23:00",
-          "location": "",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "㋛未勝利戦後半",
-              "grade": "未勝利",
-              "track": "平場芝",
-              "course": "コース1",
-              "condition": "未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！予定では22:45スタートです！",
-              "firstPrize": 400,
-              "displayCondition": "平場芝 / コース1 / 未勝利戦です！OPやG2に出れなかった馬が滑り込みで参加するかもしれません！予定では22:45スタートです！",
-              "status": "公開済"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-09-13",
-      "displayDate": "2026.09.13",
-      "dateLabel": "9月13日（日）",
-      "dayNumber": "13",
-      "weekday": "日",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
     {
       "dateKey": "2026-09-14",
       "displayDate": "2026.09.14",
@@ -1377,8 +1143,8 @@
       "dateLabel": "10月11日（日）",
       "dayNumber": "11",
       "weekday": "日",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "予定なし",
       "events": []
     },
@@ -1388,7 +1154,7 @@
       "dateLabel": "10月12日（月）",
       "dayNumber": "12",
       "weekday": "月",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
@@ -2083,6 +1849,107 @@
       "displayDate": "2026.11.29",
       "dateLabel": "11月29日（日）",
       "dayNumber": "29",
+      "weekday": "日",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-11-30",
+      "displayDate": "2026.11.30",
+      "dateLabel": "11月30日（月）",
+      "dayNumber": "30",
+      "weekday": "月",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-01",
+      "displayDate": "2026.12.01",
+      "dateLabel": "12月1日（火）",
+      "dayNumber": "1",
+      "weekday": "火",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-02",
+      "displayDate": "2026.12.02",
+      "dateLabel": "12月2日（水）",
+      "dayNumber": "2",
+      "weekday": "水",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-12-03",
+      "displayDate": "2026.12.03",
+      "dateLabel": "12月3日（木）",
+      "dayNumber": "3",
+      "weekday": "木",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-04",
+      "displayDate": "2026.12.04",
+      "dateLabel": "12月4日（金）",
+      "dayNumber": "4",
+      "weekday": "金",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-12-05",
+      "displayDate": "2026.12.05",
+      "dateLabel": "12月5日（土）",
+      "dayNumber": "5",
+      "weekday": "土",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-06",
+      "displayDate": "2026.12.06",
+      "dateLabel": "12月6日（日）",
+      "dayNumber": "6",
       "weekday": "日",
       "isToday": false,
       "isPast": false,
