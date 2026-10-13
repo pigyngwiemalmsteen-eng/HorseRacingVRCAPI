@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-13T22:46:56.953Z",
-  "generatedAtLabel": "2026/10/14 07:46",
+  "generatedAt": "2026-10-13T23:44:41.530Z",
+  "generatedAtLabel": "2026/10/14 08:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1109,9 +1109,9 @@
               "grade": "未勝利",
               "track": "平場芝",
               "course": "コース1",
-              "condition": "予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
-              "firstPrize": 0,
-              "displayCondition": "平場芝 / コース1 / 予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "condition": "予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。獲得賞金一着400万。",
+              "firstPrize": 400,
+              "displayCondition": "平場芝 / コース1 / 予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。獲得賞金一着400万。",
               "status": ""
             },
             {
@@ -1121,9 +1121,9 @@
               "grade": "未勝利",
               "track": "平場芝",
               "course": "コース2",
-              "condition": "予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。獲得賞金一着440万。",
-              "firstPrize": 0,
-              "displayCondition": "平場芝 / コース2 / 予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。獲得賞金一着440万。",
+              "condition": "予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。獲得賞金一着400万。",
+              "firstPrize": 400,
+              "displayCondition": "平場芝 / コース2 / 予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。獲得賞金一着400万。",
               "status": ""
             }
           ]
@@ -1183,8 +1183,31 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:00 10月24日〇未勝利戦 ダート ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261024_1",
+          "title": "10月24日〇未勝利戦 ダート",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261024",
+          "title": "10月24日〇OP戦 ダート",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-10-25",
@@ -1194,8 +1217,31 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:00 10月25日〇未勝利戦 芝 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261025_1",
+          "title": "10月25日〇未勝利戦 芝",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261025",
+          "title": "10月25日〇OP戦 芝",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-10-26",
