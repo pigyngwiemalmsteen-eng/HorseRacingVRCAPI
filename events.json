@@ -1,275 +1,12 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-13T15:44:41.820Z",
-  "generatedAtLabel": "2026/10/14 00:44",
+  "generatedAt": "2026-10-13T22:44:41.209Z",
+  "generatedAtLabel": "2026/10/14 07:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
   "defaultRaceCardEventIndex": 0,
-  "raceCards": [
-    {
-      "eventId": "20261010",
-      "eventName": "10月10日馬主騎手マッチングデー",
-      "eventDate": "2026-10-10",
-      "eventDateLabel": "2026.10.10 土",
-      "startTime": "21:30",
-      "races": [
-        {
-          "eventId": "20261010",
-          "raceId": "R01",
-          "raceNumber": 1,
-          "raceNo": "1R",
-          "raceName": "馬主騎手マッチングレース(馬主バッジ所持数5枚以下限定戦）",
-          "grade": "OP",
-          "track": "ダート",
-          "course": "コース1",
-          "condition": "予定時刻21:30。馬条件：記号なし(生産記号なし） 馬主条件：総獲得バッジ数5枚以下騎手条件：なし馬主毎の出走可能頭数：4強制本格化ON",
-          "firstPrize": 0,
-          "entries": [
-            {
-              "frameNumber": 1,
-              "horseNumber": 1,
-              "horseId": "H000503",
-              "horseName": "シマッタツヤ",
-              "ownerName": "kyonnsii",
-              "jockeyName": "RenNeko12",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 2,
-              "horseNumber": 2,
-              "horseId": "H000510",
-              "horseName": "チノクロー",
-              "ownerName": "SHINSHI0080",
-              "jockeyName": "神威ルカ",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 1
-            },
-            {
-              "frameNumber": 3,
-              "horseNumber": 3,
-              "horseId": "H000506",
-              "horseName": "テスラ",
-              "ownerName": "はっさくゼリー",
-              "jockeyName": "Sigure_Mia",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 4,
-              "horseNumber": 4,
-              "horseId": "H000511",
-              "horseName": "ホワイトアーク",
-              "ownerName": "SHINSHI0080",
-              "jockeyName": "Nele-san",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 1,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 5,
-              "horseNumber": 5,
-              "horseId": "H000512",
-              "horseName": "チノファング",
-              "ownerName": "SHINSHI0080",
-              "jockeyName": "小雨xiaoyu",
-              "previousRuns": [],
-              "firstCount": 1,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 6,
-              "horseNumber": 6,
-              "horseId": "H000521",
-              "horseName": "プロフ",
-              "ownerName": "inブリ",
-              "jockeyName": "はっさくゼリー",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 7,
-              "horseNumber": 7,
-              "horseId": "H000502",
-              "horseName": "ハイハイパワー",
-              "ownerName": "kyonnsii",
-              "jockeyName": "SHINSHI0080",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 8,
-              "horseNumber": 8,
-              "horseId": "H000522",
-              "horseName": "ポシピリタ",
-              "ownerName": "inブリ",
-              "jockeyName": "桜月ミヅキ",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            }
-          ]
-        },
-        {
-          "eventId": "20261010",
-          "raceId": "R02",
-          "raceNumber": 2,
-          "raceNo": "2R",
-          "raceName": "馬主騎手マッチングレース(馬主条件なし)",
-          "grade": "G3",
-          "track": "ダート",
-          "course": "コース1",
-          "condition": "予定時刻22:00。馬条件：記号なし(生産記号なし） 馬主条件：なし騎手条件：なし馬主毎の出走可能頭数：2強制本格化OFFUI_OFF",
-          "firstPrize": 0,
-          "entries": [
-            {
-              "frameNumber": 1,
-              "horseNumber": 1,
-              "horseId": "H000524",
-              "horseName": "ゼロヨン",
-              "ownerName": "inブリ",
-              "jockeyName": "Sigure_Mia",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 1,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 1,
-              "horseNumber": 2,
-              "horseId": "H000509",
-              "horseName": "フローデイジー",
-              "ownerName": "Nagare -ながれ-",
-              "jockeyName": "Nele-san",
-              "previousRuns": [],
-              "firstCount": 1,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 2,
-              "horseNumber": 3,
-              "horseId": "H000506",
-              "horseName": "テスラ",
-              "ownerName": "はっさくゼリー",
-              "jockeyName": "inブリ",
-              "previousRuns": [
-                {
-                  "eventId": "20261010",
-                  "raceId": "R01",
-                  "raceName": "馬主騎手マッチングレース(馬主バッジ所持数5枚以下限定戦）",
-                  "grade": "OP",
-                  "finishPosition": 5,
-                  "last3F": ""
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 2,
-              "horseNumber": 4,
-              "horseId": "H000513",
-              "horseName": "スプリンタトレェノ",
-              "ownerName": "kyonnsii",
-              "jockeyName": "神威ルカ",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 3,
-              "horseNumber": 5,
-              "horseId": "H000515",
-              "horseName": "レーゲンハリケーン",
-              "ownerName": "雨乃ユウ",
-              "jockeyName": "小雨xiaoyu",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 3,
-              "horseNumber": 6,
-              "horseId": "H000517",
-              "horseName": "ルナステイン",
-              "ownerName": "神威ルカ",
-              "jockeyName": "雨乃ユウ",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 4,
-              "horseNumber": 7,
-              "horseId": "H000518",
-              "horseName": "ヤシキブレイザード",
-              "ownerName": "RenNeko12",
-              "jockeyName": "SHINSHI0080",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 4,
-              "horseNumber": 8,
-              "horseId": "H000507",
-              "horseName": "ルチカスパーク",
-              "ownerName": "YuyaKuga",
-              "jockeyName": "はっさくゼリー",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 5,
-              "horseNumber": 9,
-              "horseId": "H000519",
-              "horseName": "wecars",
-              "ownerName": "SHINSHI0080",
-              "jockeyName": "YuyaKuga",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 1
-            },
-            {
-              "frameNumber": 5,
-              "horseNumber": 10,
-              "horseId": "H000504",
-              "horseName": "マクラレーン",
-              "ownerName": "kyonnsii",
-              "jockeyName": "桜月ミヅキ",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "raceCards": [],
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
@@ -1235,8 +972,45 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:30 10月17日〇新馬戦 芝",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261017",
+          "title": "10月17日〇新馬戦 芝",
+          "timeLabel": "21:30 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇メイクデビュー とりのす2400",
+              "grade": "新馬",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "firstPrize": 440,
+              "displayCondition": "平場芝 / コース1 / 予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "status": "募集中"
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "〇メイクデビュー とりのす2000",
+              "grade": "新馬",
+              "track": "平場芝",
+              "course": "コース2",
+              "condition": "予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "firstPrize": 440,
+              "displayCondition": "平場芝 / コース2 / 予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "status": "募集中"
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-10-18",
@@ -1246,8 +1020,45 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:30 10月18日〇新馬戦 ダート",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261018",
+          "title": "10月18日〇新馬戦 ダート",
+          "timeLabel": "21:30 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "募集中",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇メイクデビュー ケンターキー2000",
+              "grade": "新馬",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "予定時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "firstPrize": 440,
+              "displayCondition": "ダート / コース1 / 予定時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "status": "募集中"
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "〇メイクデビュー ケンターキー1600",
+              "grade": "新馬",
+              "track": "ダート",
+              "course": "コース2",
+              "condition": "予定時刻22:00。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "firstPrize": 440,
+              "displayCondition": "ダート / コース2 / 予定時刻22:00。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "status": "募集中"
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-10-19",
@@ -1279,8 +1090,44 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "21:30 - 22:30 10月21日〇未勝利戦 芝 ほか1件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261021",
+          "title": "10月21日〇未勝利戦 芝",
+          "timeLabel": "21:30 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇未勝利戦 とりのす競馬場2400",
+              "grade": "未勝利",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース1 / 予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "status": ""
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "〇未勝利戦 とりのす競馬場2000",
+              "grade": "未勝利",
+              "track": "平場芝",
+              "course": "コース2",
+              "condition": "予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "firstPrize": 0,
+              "displayCondition": "平場芝 / コース2 / 予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "status": ""
+            }
+          ]
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
