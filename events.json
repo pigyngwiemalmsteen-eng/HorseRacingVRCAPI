@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-14T01:44:41.959Z",
-  "generatedAtLabel": "2026/10/14 10:44",
+  "generatedAt": "2026-10-14T02:44:41.165Z",
+  "generatedAtLabel": "2026/10/14 11:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1099,32 +1099,32 @@
           "timeLabel": "21:30 - 22:30",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇未勝利戦 とりのす競馬場1600",
+              "raceName": "〇未勝利戦(別定A) とりのす1600",
               "grade": "未勝利",
               "track": "平場芝",
               "course": "コース4",
               "condition": "予定開始時刻21:30。最大出走頭数12頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース4 / 予定開始時刻21:30。最大出走頭数12頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": ""
+              "status": "募集中"
             },
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "〇未勝利戦 とりのす競馬場2400",
+              "raceName": "〇未勝利戦(別定A) とりのす2400",
               "grade": "未勝利",
               "track": "平場芝",
               "course": "コース1",
               "condition": "予定開始時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース1 / 予定開始時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": ""
+              "status": "募集中"
             }
           ]
         },
@@ -1192,20 +1192,20 @@
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇未勝利戦 ケンターキー2000",
+              "raceName": "〇未勝利戦(別定A) ケンターキー2000",
               "grade": "未勝利",
               "track": "ダート",
               "course": "コース1",
               "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
               "displayCondition": "ダート / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": ""
+              "status": "募集中"
             }
           ]
         },
@@ -1216,7 +1216,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1226,10 +1226,10 @@
               "grade": "OP(別定A)",
               "track": "ダート",
               "course": "コース1",
-              "condition": "予定開始時刻22:10。最大出走頭数18頭。分割なし。馬条件：なし。一着獲得賞金800万。",
+              "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。抽選に外れた場合同日の未勝利戦へ登録できます。馬条件：なし。一着獲得賞金800万。",
               "firstPrize": 800,
-              "displayCondition": "ダート / コース1 / 予定開始時刻22:10。最大出走頭数18頭。分割なし。馬条件：なし。一着獲得賞金800万。",
-              "status": ""
+              "displayCondition": "ダート / コース1 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。抽選に外れた場合同日の未勝利戦へ登録できます。馬条件：なし。一着獲得賞金800万。",
+              "status": "募集中"
             }
           ]
         }
@@ -1252,20 +1252,20 @@
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇未勝利戦 とりのす2200",
+              "raceName": "〇未勝利戦(別定A) とりのす2200",
               "grade": "未勝利",
               "track": "平場芝",
               "course": "コース3",
               "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース3 / 予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": ""
+              "status": "募集中"
             }
           ]
         },
@@ -1276,7 +1276,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1286,10 +1286,10 @@
               "grade": "OP(別定A)",
               "track": "平場芝",
               "course": "コース3",
-              "condition": "予定開始時刻22:10。最大出走頭数16頭。分割なし。馬条件：なし。一着獲得賞金800万。",
+              "condition": "予定開始時刻22:10。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
               "firstPrize": 800,
-              "displayCondition": "平場芝 / コース3 / 予定開始時刻22:10。最大出走頭数16頭。分割なし。馬条件：なし。一着獲得賞金800万。",
-              "status": ""
+              "displayCondition": "平場芝 / コース3 / 予定開始時刻22:10。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
+              "status": "募集中"
             }
           ]
         }
@@ -1334,20 +1334,20 @@
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇未勝利戦 ケンターキー1600",
-              "grade": "",
-              "track": "",
-              "course": "",
-              "condition": "",
-              "firstPrize": 0,
-              "displayCondition": "",
-              "status": ""
+              "raceName": "〇未勝利戦(別定A) ケンターキー1600",
+              "grade": "未勝利",
+              "track": "ダート",
+              "course": "コース2",
+              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "firstPrize": 400,
+              "displayCondition": "ダート / コース2 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "status": "募集中"
             }
           ]
         },
@@ -1369,20 +1369,20 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
               "raceId": "R01",
               "raceNo": "1R",
               "raceName": "〇OP戦(別定A) ケンターキー1600",
-              "grade": "",
-              "track": "",
-              "course": "",
-              "condition": "",
-              "firstPrize": 0,
-              "displayCondition": "",
-              "status": ""
+              "grade": "OP(別定A)",
+              "track": "ダート",
+              "course": "コース2",
+              "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
+              "firstPrize": 800,
+              "displayCondition": "ダート / コース2 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
+              "status": "募集中"
             }
           ]
         }
@@ -1441,7 +1441,20 @@
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇未勝利戦(別定A) とりのす2400",
+              "grade": "未勝利",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "firstPrize": 400,
+              "displayCondition": "平場芝 / コース1 / 予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "status": ""
+            }
+          ]
         },
         {
           "calendarEventId": "",
@@ -1450,9 +1463,22 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇G3戦(別定B) とりのす2400",
+              "grade": "G3(別定B)",
+              "track": "平場芝",
+              "course": "コース1",
+              "condition": "予定開始時刻22:10。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
+              "firstPrize": 2400,
+              "displayCondition": "平場芝 / コース1 / 予定開始時刻22:10。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
+              "status": "募集中"
+            }
+          ]
         }
       ]
     },
@@ -1464,8 +1490,57 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:00 11月1日〇未勝利戦 ケンターキー競馬場 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261101_1",
+          "title": "11月1日〇未勝利戦 ケンターキー競馬場",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇未勝利戦(別定A) ケンターキー2000",
+              "grade": "未勝利",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "firstPrize": 400,
+              "displayCondition": "ダート / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "status": ""
+            }
+          ]
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261101",
+          "title": "11月1日〇G3戦 ケンターキー競馬場",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇G3戦(別定B) ケンターキー2000",
+              "grade": "G3(別定B)",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
+              "firstPrize": 2400,
+              "displayCondition": "ダート / コース1 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
+              "status": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-11-02",
@@ -1868,8 +1943,33 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "22:00 - 22:30 11月29日〇G1戦 ケンターキー競馬場",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261129",
+          "title": "11月29日〇G1戦 ケンターキー競馬場",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇G1戦(定量) ケンターキー2000",
+              "grade": "G1",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金20000万。",
+              "firstPrize": 20000,
+              "displayCondition": "ダート / コース1 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金20000万。",
+              "status": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-11-30",
