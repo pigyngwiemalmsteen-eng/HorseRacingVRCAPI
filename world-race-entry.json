@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T03:08:18.463Z",
-  "generatedAtLabel": "2026/10/14 12:08",
+  "generatedAt": "2026-10-14T08:40:18.272Z",
+  "generatedAtLabel": "2026/10/14 17:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -38,6 +38,7 @@
     "noiru boa",
     "PASTAKU（ぱすたく）",
     "PASTAKU(ぱすたく)",
+    "Pizaneko11",
     "ranonpop",
     "Re izu（レイズ）",
     "RenNeko12",
