@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-14T02:44:41.165Z",
-  "generatedAtLabel": "2026/10/14 11:44",
+  "generatedAt": "2026-10-14T03:06:57.896Z",
+  "generatedAtLabel": "2026/10/14 12:06",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1439,7 +1439,7 @@
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1452,7 +1452,7 @@
               "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース1 / 予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": ""
+              "status": "募集中"
             }
           ]
         },
@@ -1499,7 +1499,7 @@
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1512,7 +1512,7 @@
               "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
               "displayCondition": "ダート / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": ""
+              "status": "募集中"
             }
           ]
         },
@@ -1523,7 +1523,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1536,7 +1536,7 @@
               "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
               "firstPrize": 2400,
               "displayCondition": "ダート / コース1 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
-              "status": ""
+              "status": "募集中"
             }
           ]
         }
@@ -1952,7 +1952,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -1965,7 +1965,7 @@
               "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金20000万。",
               "firstPrize": 20000,
               "displayCondition": "ダート / コース1 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金20000万。",
-              "status": ""
+              "status": "募集中"
             }
           ]
         }
