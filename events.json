@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-14T00:44:41.262Z",
-  "generatedAtLabel": "2026/10/14 09:44",
+  "generatedAt": "2026-10-14T01:44:41.959Z",
+  "generatedAtLabel": "2026/10/14 10:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -972,12 +972,12 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 22:30 10月17日〇新馬戦 芝",
+      "eventSummary": "21:30 - 22:30 10月17日〇新馬戦 とりのす競馬場",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20261017",
-          "title": "10月17日〇新馬戦 芝",
+          "title": "10月17日〇新馬戦 とりのす競馬場",
           "timeLabel": "21:30 - 22:30",
           "location": "",
           "description": "",
@@ -991,9 +991,9 @@
               "grade": "新馬",
               "track": "平場芝",
               "course": "コース1",
-              "condition": "予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
               "firstPrize": 440,
-              "displayCondition": "平場芝 / コース1 / 予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "displayCondition": "平場芝 / コース1 / 予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
               "status": "募集中"
             },
             {
@@ -1003,9 +1003,9 @@
               "grade": "新馬",
               "track": "平場芝",
               "course": "コース2",
-              "condition": "予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "condition": "予定開始時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
               "firstPrize": 440,
-              "displayCondition": "平場芝 / コース2 / 予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "displayCondition": "平場芝 / コース2 / 予定開始時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
               "status": "募集中"
             }
           ]
@@ -1020,12 +1020,12 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 22:30 10月18日〇新馬戦 ダート",
+      "eventSummary": "21:30 - 22:30 10月18日〇新馬戦 ケンターキー競馬場",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20261018",
-          "title": "10月18日〇新馬戦 ダート",
+          "title": "10月18日〇新馬戦 ケンターキー競馬場",
           "timeLabel": "21:30 - 22:30",
           "location": "",
           "description": "",
@@ -1039,9 +1039,9 @@
               "grade": "新馬",
               "track": "ダート",
               "course": "コース1",
-              "condition": "予定時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
               "firstPrize": 440,
-              "displayCondition": "ダート / コース1 / 予定時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "displayCondition": "ダート / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
               "status": "募集中"
             },
             {
@@ -1051,9 +1051,9 @@
               "grade": "新馬",
               "track": "ダート",
               "course": "コース2",
-              "condition": "予定時刻22:00。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "condition": "予定開始時刻22:00。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
               "firstPrize": 440,
-              "displayCondition": "ダート / コース2 / 予定時刻22:00。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。獲得賞金一着440万。",
+              "displayCondition": "ダート / コース2 / 予定開始時刻22:00。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
               "status": "募集中"
             }
           ]
@@ -1090,12 +1090,12 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 22:30 10月21日〇未勝利戦 芝 ほか1件",
+      "eventSummary": "21:30 - 22:30 10月21日〇未勝利戦 とりのす競馬場 ほか1件",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20261021",
-          "title": "10月21日〇未勝利戦 芝",
+          "title": "10月21日〇未勝利戦 とりのす競馬場",
           "timeLabel": "21:30 - 22:30",
           "location": "",
           "description": "",
@@ -1105,25 +1105,25 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇未勝利戦 とりのす競馬場2400",
+              "raceName": "〇未勝利戦 とりのす競馬場1600",
               "grade": "未勝利",
               "track": "平場芝",
-              "course": "コース1",
-              "condition": "予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。獲得賞金一着400万。",
+              "course": "コース4",
+              "condition": "予定開始時刻21:30。最大出走頭数12頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
-              "displayCondition": "平場芝 / コース1 / 予定時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。獲得賞金一着400万。",
+              "displayCondition": "平場芝 / コース4 / 予定開始時刻21:30。最大出走頭数12頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "status": ""
             },
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "〇未勝利戦 とりのす競馬場2000",
+              "raceName": "〇未勝利戦 とりのす競馬場2400",
               "grade": "未勝利",
               "track": "平場芝",
-              "course": "コース2",
-              "condition": "予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。獲得賞金一着400万。",
+              "course": "コース1",
+              "condition": "予定開始時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
-              "displayCondition": "平場芝 / コース2 / 予定時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。獲得賞金一着400万。",
+              "displayCondition": "平場芝 / コース1 / 予定開始時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "status": ""
             }
           ]
@@ -1183,29 +1183,55 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 22:00 10月24日〇未勝利戦 ダート ほか1件",
+      "eventSummary": "21:30 - 22:00 10月24日〇未勝利戦 ケンターキー競馬場 ほか1件",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20261024_1",
-          "title": "10月24日〇未勝利戦 ダート",
+          "title": "10月24日〇未勝利戦 ケンターキー競馬場",
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇未勝利戦 ケンターキー2000",
+              "grade": "未勝利",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "firstPrize": 400,
+              "displayCondition": "ダート / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "status": ""
+            }
+          ]
         },
         {
           "calendarEventId": "",
           "eventId": "20261024",
-          "title": "10月24日〇OP戦 ダート",
+          "title": "10月24日〇OP戦 ケンターキー競馬場",
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇OP戦(別定A) ケンターキー2000",
+              "grade": "OP(別定A)",
+              "track": "ダート",
+              "course": "コース1",
+              "condition": "予定開始時刻22:10。最大出走頭数18頭。分割なし。馬条件：なし。一着獲得賞金800万。",
+              "firstPrize": 800,
+              "displayCondition": "ダート / コース1 / 予定開始時刻22:10。最大出走頭数18頭。分割なし。馬条件：なし。一着獲得賞金800万。",
+              "status": ""
+            }
+          ]
         }
       ]
     },
@@ -1217,29 +1243,55 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 22:00 10月25日〇未勝利戦 芝 ほか1件",
+      "eventSummary": "21:30 - 22:00 10月25日〇未勝利戦 とりのす競馬場 ほか1件",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20261025_1",
-          "title": "10月25日〇未勝利戦 芝",
+          "title": "10月25日〇未勝利戦 とりのす競馬場",
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇未勝利戦 とりのす2200",
+              "grade": "未勝利",
+              "track": "平場芝",
+              "course": "コース3",
+              "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "firstPrize": 400,
+              "displayCondition": "平場芝 / コース3 / 予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "status": ""
+            }
+          ]
         },
         {
           "calendarEventId": "",
           "eventId": "20261025",
-          "title": "10月25日〇OP戦 芝",
+          "title": "10月25日〇OP戦 とりのす競馬場",
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇OP戦(別定A) とりのす2200",
+              "grade": "OP(別定A)",
+              "track": "平場芝",
+              "course": "コース3",
+              "condition": "予定開始時刻22:10。最大出走頭数16頭。分割なし。馬条件：なし。一着獲得賞金800万。",
+              "firstPrize": 800,
+              "displayCondition": "平場芝 / コース3 / 予定開始時刻22:10。最大出走頭数16頭。分割なし。馬条件：なし。一着獲得賞金800万。",
+              "status": ""
+            }
+          ]
         }
       ]
     },
@@ -1273,18 +1325,31 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 22:00 10月28日〇未勝利戦 ダート ほか2件",
+      "eventSummary": "21:30 - 22:00 10月28日〇未勝利戦 ケンターキー競馬場 ほか2件",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20261028_1",
-          "title": "10月28日〇未勝利戦 ダート",
+          "title": "10月28日〇未勝利戦 ケンターキー競馬場",
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇未勝利戦 ケンターキー1600",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            }
+          ]
         },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
@@ -1300,13 +1365,26 @@
         {
           "calendarEventId": "",
           "eventId": "20261028",
-          "title": "10月28日〇OP戦 ダート",
+          "title": "10月28日〇OP戦 ケンターキー競馬場",
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇OP戦(別定A) ケンターキー1600",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            }
+          ]
         }
       ]
     },
@@ -1352,8 +1430,31 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:00 10月31日〇未勝利戦 とりのす競馬場 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261031_1",
+          "title": "10月31日〇未勝利戦 とりのす競馬場",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261031",
+          "title": "10月31日〇G3戦 とりのす競馬場",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-11-01",
