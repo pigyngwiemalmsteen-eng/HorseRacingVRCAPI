@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-13T23:44:41.530Z",
-  "generatedAtLabel": "2026/10/14 08:44",
+  "generatedAt": "2026-10-14T00:44:41.262Z",
+  "generatedAtLabel": "2026/10/14 09:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1273,8 +1273,19 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "21:30 - 22:00 10月28日〇未勝利戦 ダート ほか2件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261028_1",
+          "title": "10月28日〇未勝利戦 ダート",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
@@ -1284,6 +1295,17 @@
           "description": "",
           "status": "",
           "officialManaged": false,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261028",
+          "title": "10月28日〇OP戦 ダート",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
           "races": []
         }
       ]
