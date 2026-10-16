@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T08:40:18.272Z",
-  "generatedAtLabel": "2026/10/14 17:40",
+  "generatedAt": "2026-10-16T13:40:16.373Z",
+  "generatedAtLabel": "2026/10/16 22:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -33,6 +33,7 @@
     "MEA.YZKR(メア）",
     "Nagare -ながれ-",
     "nan なん",
+    "Negishi_Stakes",
     "nekoyume 693e",
     "Nele-san",
     "noiru boa",
