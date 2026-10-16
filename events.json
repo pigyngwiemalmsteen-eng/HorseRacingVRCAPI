@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-15T15:44:43.724Z",
-  "generatedAtLabel": "2026/10/16 00:44",
+  "generatedAt": "2026-10-16T15:44:43.645Z",
+  "generatedAtLabel": "2026/10/17 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -947,8 +947,8 @@
       "dateLabel": "10月16日（金）",
       "dayNumber": "16",
       "weekday": "金",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
         {
@@ -970,7 +970,7 @@
       "dateLabel": "10月17日（土）",
       "dayNumber": "17",
       "weekday": "土",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:30 - 22:30 10月17日〇新馬戦 とりのす競馬場",
       "events": [
