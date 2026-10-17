@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-17T14:44:41.743Z",
-  "generatedAtLabel": "2026/10/17 23:44",
+  "generatedAt": "2026-10-17T15:44:43.669Z",
+  "generatedAtLabel": "2026/10/18 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1333,8 +1333,8 @@
       "dateLabel": "10月17日（土）",
       "dayNumber": "17",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:30 10月17日〇新馬戦 とりのす競馬場",
       "events": [
         {
@@ -1381,7 +1381,7 @@
       "dateLabel": "10月18日（日）",
       "dayNumber": "18",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:30 - 22:30 10月18日〇新馬戦 ケンターキー競馬場",
       "events": [
