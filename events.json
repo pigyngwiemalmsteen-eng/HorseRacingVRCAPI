@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-18T09:44:41.894Z",
-  "generatedAtLabel": "2026/10/18 18:44",
+  "generatedAt": "2026-10-18T10:44:42.797Z",
+  "generatedAtLabel": "2026/10/18 19:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -442,7 +442,7 @@
               "horseId": "H000528",
               "horseName": "スタードラグノフ★★★【号】",
               "ownerName": "siyuu007",
-              "jockeyName": "siyuu007",
+              "jockeyName": "toburuku",
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
@@ -1705,7 +1705,7 @@
           "timeLabel": "21:30 - 22:30",
           "location": "",
           "description": "",
-          "status": "公開済",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -1718,7 +1718,7 @@
               "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
               "firstPrize": 440,
               "displayCondition": "ダート / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
-              "status": "公開済"
+              "status": "出走表作成済"
             },
             {
               "raceId": "R02",
@@ -1730,7 +1730,7 @@
               "condition": "予定開始時刻22:00。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
               "firstPrize": 440,
               "displayCondition": "ダート / コース2 / 予定開始時刻22:00。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
-              "status": "公開済"
+              "status": "出走表作成済"
             }
           ]
         }
