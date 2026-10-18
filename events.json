@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-18T10:44:42.797Z",
-  "generatedAtLabel": "2026/10/18 19:44",
+  "generatedAt": "2026-10-18T13:44:41.456Z",
+  "generatedAtLabel": "2026/10/18 22:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -433,7 +433,7 @@
               "jockeyName": "RenNeko12",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -456,7 +456,7 @@
               "ownerName": "キョンシー",
               "jockeyName": "キョンシー",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -506,7 +506,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 6,
@@ -567,7 +567,7 @@
               "jockeyName": "Sigure_Mia",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -592,7 +592,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 3,
@@ -662,7 +662,7 @@
               "ownerName": "コントキ",
               "jockeyName": "コントキ",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
