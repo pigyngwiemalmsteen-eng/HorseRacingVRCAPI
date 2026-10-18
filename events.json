@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-17T21:11:56.683Z",
-  "generatedAtLabel": "2026/10/18 06:11",
+  "generatedAt": "2026-10-18T09:44:41.894Z",
+  "generatedAtLabel": "2026/10/18 18:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2248,8 +2248,19 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "21:30 - 22:00 11月4日〇未勝利戦トンキョー競馬場 ほか2件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20251104_1",
+          "title": "11月4日〇未勝利戦トンキョー競馬場",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
@@ -2260,6 +2271,30 @@
           "status": "",
           "officialManaged": false,
           "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261104",
+          "title": "11月4日〇OP戦トンキョー競馬場",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇OP戦(別定A)トンキョー2400",
+              "grade": "OP(別定A)",
+              "track": "坂芝",
+              "course": "コース1",
+              "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
+              "firstPrize": 800,
+              "displayCondition": "坂芝 / コース1 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
+              "status": ""
+            }
+          ]
         }
       ]
     },
