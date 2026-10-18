@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-18T13:44:41.456Z",
-  "generatedAtLabel": "2026/10/18 22:44",
+  "generatedAt": "2026-10-18T15:44:40.982Z",
+  "generatedAtLabel": "2026/10/19 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -686,300 +686,6 @@
   "defaultStartIndex": 28,
   "visibleDayCount": 28,
   "days": [
-    {
-      "dateKey": "2026-09-14",
-      "displayDate": "2026.09.14",
-      "dateLabel": "9月14日（月）",
-      "dayNumber": "14",
-      "weekday": "月",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-09-15",
-      "displayDate": "2026.09.15",
-      "dateLabel": "9月15日（火）",
-      "dayNumber": "15",
-      "weekday": "火",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-09-16",
-      "displayDate": "2026.09.16",
-      "dateLabel": "9月16日（水）",
-      "dayNumber": "16",
-      "weekday": "水",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月16日シーズンレース未勝利戦 ほか4件",
-      "events": [
-        {
-          "calendarEventId": "4p9gg5hrqfb25ogrks0u7uoks4@google.com",
-          "eventId": "20260916_1",
-          "title": "【仮想中央競馬会】9月16日シーズンレース未勝利戦",
-          "timeLabel": "22:00 - 22:30",
-          "location": "VRChat",
-          "description": "",
-          "status": "出走表作成済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "㋛未勝利戦①",
-              "grade": "未勝利",
-              "track": "坂芝",
-              "course": "コース3",
-              "condition": "未勝利戦です！騎手が別なら同じレースに出せます！",
-              "firstPrize": 400,
-              "displayCondition": "坂芝 / コース3 / 未勝利戦です！騎手が別なら同じレースに出せます！",
-              "status": "出走表作成済"
-            },
-            {
-              "raceId": "R02",
-              "raceNo": "2R",
-              "raceName": "㋛未勝利戦②",
-              "grade": "未勝利",
-              "track": "坂芝",
-              "course": "コース3",
-              "condition": "未勝利戦です！騎手が別なら同じレースに出せます！",
-              "firstPrize": 400,
-              "displayCondition": "坂芝 / コース3 / 未勝利戦です！騎手が別なら同じレースに出せます！",
-              "status": "出走表作成済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
-          "eventId": "",
-          "title": "定期交流会",
-          "timeLabel": "22:00 - 23:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        },
-        {
-          "calendarEventId": "4qoooibiqbo2dhfqornp2mk3pk@google.com",
-          "eventId": "20260916",
-          "title": "【仮想中央競馬会】9月16日シーズンレースOP",
-          "timeLabel": "22:30 - 23:00",
-          "location": "VRChat",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "㋛OP戦 「NEUROMANCE Ⅳ」開催決定記念",
-              "grade": "OP",
-              "track": "坂芝",
-              "course": "コース1",
-              "condition": "OP戦です！別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "firstPrize": 1000,
-              "displayCondition": "坂芝 / コース1 / OP戦です！別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "公開済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "",
-          "eventId": "20260916_2",
-          "title": "9月16日公式レース",
-          "timeLabel": "22:45 - 23:30",
-          "location": "",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "9月16日公式レース 全記号馬解禁戦",
-              "grade": "OP",
-              "track": "坂芝",
-              "course": "コース1",
-              "condition": "こちらはシーズンレースではありません！騙馬以外何を使ってもOK！",
-              "firstPrize": 0,
-              "displayCondition": "坂芝 / コース1 / こちらはシーズンレースではありません！騙馬以外何を使ってもOK！",
-              "status": "公開済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "vmmolevgdsf49aptloikpfhevc@google.com",
-          "eventId": "20260916_3",
-          "title": "【仮想中央競馬会】9月16日シーズンレース新馬戦",
-          "timeLabel": "23:00 - 23:30",
-          "location": "VRChat",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "㋛新馬戦",
-              "grade": "未勝利",
-              "track": "坂芝",
-              "course": "コース1",
-              "condition": "予定時刻 23:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
-              "firstPrize": 400,
-              "displayCondition": "坂芝 / コース1 / 予定時刻 23:00。最大出走頭数18頭。分割あり。新しく登録した馬や、まだ出走したことのない馬を登録してください！騎手が別なら同じレースに出せます！",
-              "status": "公開済"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-09-17",
-      "displayDate": "2026.09.17",
-      "dateLabel": "9月17日（木）",
-      "dayNumber": "17",
-      "weekday": "木",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-09-18",
-      "displayDate": "2026.09.18",
-      "dateLabel": "9月18日（金）",
-      "dayNumber": "18",
-      "weekday": "金",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-09-19",
-      "displayDate": "2026.09.19",
-      "dateLabel": "9月19日（土）",
-      "dayNumber": "19",
-      "weekday": "土",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 【仮想中央競馬会】9月19日シーズンレース未勝利戦 ほか1件",
-      "events": [
-        {
-          "calendarEventId": "cq6orl8cpqrvqi0l5nnd3upj1o@google.com",
-          "eventId": "20260919_1",
-          "title": "【仮想中央競馬会】9月19日シーズンレース未勝利戦",
-          "timeLabel": "21:00 - 22:00",
-          "location": "VRChat",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "㋛未勝利戦①",
-              "grade": "未勝利",
-              "track": "坂芝",
-              "course": "コース1",
-              "condition": "予定時刻 21:00。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
-              "firstPrize": 400,
-              "displayCondition": "坂芝 / コース1 / 予定時刻 21:00。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
-              "status": "公開済"
-            },
-            {
-              "raceId": "R02",
-              "raceNo": "2R",
-              "raceName": "㋛未勝利戦②",
-              "grade": "未勝利",
-              "track": "坂芝",
-              "course": "コース1",
-              "condition": "予定時刻 21:30。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
-              "firstPrize": 400,
-              "displayCondition": "坂芝 / コース1 / 予定時刻 21:30。最大出走頭数18頭。分割あり。騎手が別なら同じレースに出せます！",
-              "status": "公開済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "nm0oiirk7q2hikeim2chfuenv8@google.com",
-          "eventId": "20260919",
-          "title": "【仮想中央競馬会】9月19日シーズンレースG2 OP",
-          "timeLabel": "22:00 - 23:00",
-          "location": "VRChat",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "㋛OP戦 紅葉特別",
-              "grade": "OP",
-              "track": "坂芝",
-              "course": "コース4",
-              "condition": "予定時刻 22:05。最大出走頭数14頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "firstPrize": 1000,
-              "displayCondition": "坂芝 / コース4 / 予定時刻 22:05。最大出走頭数14頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "公開済"
-            },
-            {
-              "raceId": "R02",
-              "raceNo": "2R",
-              "raceName": "㋛OP戦 白露ステークス",
-              "grade": "OP",
-              "track": "坂芝",
-              "course": "コース1",
-              "condition": "予定時刻 22:25。最大出走頭数14頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "firstPrize": 1000,
-              "displayCondition": "坂芝 / コース1 / 予定時刻 22:25。最大出走頭数14頭。別定戦：賞金400万毎に斤量+1kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "公開済"
-            },
-            {
-              "raceId": "R03",
-              "raceNo": "3R",
-              "raceName": "㋛G2 オータムステークス",
-              "grade": "G2",
-              "track": "坂芝",
-              "course": "コース2",
-              "condition": "予定時刻 22:45。最大出走頭数16頭。定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "firstPrize": 5000,
-              "displayCondition": "坂芝 / コース2 / 予定時刻 22:45。最大出走頭数16頭。定量戦：斤量+2kg。賞金順に出走できます！未勝利馬でも出走登録は出来ます！出られなかった場合、同日の未勝利戦に出走登録することが出来ます！",
-              "status": "公開済"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-09-20",
-      "displayDate": "2026.09.20",
-      "dateLabel": "9月20日（日）",
-      "dayNumber": "20",
-      "weekday": "日",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
     {
       "dateKey": "2026-09-21",
       "displayDate": "2026.09.21",
@@ -1694,8 +1400,8 @@
       "dateLabel": "10月18日（日）",
       "dayNumber": "18",
       "weekday": "日",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:30 10月18日〇新馬戦 ケンターキー競馬場",
       "events": [
         {
@@ -1742,7 +1448,7 @@
       "dateLabel": "10月19日（月）",
       "dayNumber": "19",
       "weekday": "月",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
@@ -2777,6 +2483,107 @@
       "displayDate": "2026.12.06",
       "dateLabel": "12月6日（日）",
       "dayNumber": "6",
+      "weekday": "日",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-07",
+      "displayDate": "2026.12.07",
+      "dateLabel": "12月7日（月）",
+      "dayNumber": "7",
+      "weekday": "月",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-08",
+      "displayDate": "2026.12.08",
+      "dateLabel": "12月8日（火）",
+      "dayNumber": "8",
+      "weekday": "火",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-09",
+      "displayDate": "2026.12.09",
+      "dateLabel": "12月9日（水）",
+      "dayNumber": "9",
+      "weekday": "水",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-12-10",
+      "displayDate": "2026.12.10",
+      "dateLabel": "12月10日（木）",
+      "dayNumber": "10",
+      "weekday": "木",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-11",
+      "displayDate": "2026.12.11",
+      "dateLabel": "12月11日（金）",
+      "dayNumber": "11",
+      "weekday": "金",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-12-12",
+      "displayDate": "2026.12.12",
+      "dateLabel": "12月12日（土）",
+      "dayNumber": "12",
+      "weekday": "土",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-13",
+      "displayDate": "2026.12.13",
+      "dateLabel": "12月13日（日）",
+      "dayNumber": "13",
       "weekday": "日",
       "isToday": false,
       "isPast": false,
