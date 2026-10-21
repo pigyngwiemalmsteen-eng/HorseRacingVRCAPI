@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-21T22:44:54.622Z",
-  "generatedAtLabel": "2026/10/22 07:44",
+  "generatedAt": "2026-10-21T23:44:42.364Z",
+  "generatedAtLabel": "2026/10/22 08:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -444,7 +444,7 @@
               "ownerName": "siyuu007",
               "jockeyName": "toburuku",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -506,7 +506,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 1
+              "thirdCount": 2
             },
             {
               "frameNumber": 6,
@@ -954,7 +954,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 1
+              "thirdCount": 2
             },
             {
               "frameNumber": 5,
@@ -965,7 +965,7 @@
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1006,7 +1006,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             }
@@ -1070,7 +1070,7 @@
                 }
               ],
               "firstCount": 4,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1182,7 +1182,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 2,
               "thirdCount": 0
             },
@@ -1196,7 +1196,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
