@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-21T01:21:57.101Z",
-  "generatedAtLabel": "2026/10/21 10:21",
+  "generatedAt": "2026-10-21T15:44:41.227Z",
+  "generatedAtLabel": "2026/10/22 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2086,8 +2086,8 @@
       "dateLabel": "10月21日（水）",
       "dayNumber": "21",
       "weekday": "水",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:30 10月21日〇未勝利戦 とりのす競馬場 ほか1件",
       "events": [
         {
@@ -2145,7 +2145,7 @@
       "dateLabel": "10月22日（木）",
       "dayNumber": "22",
       "weekday": "木",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
