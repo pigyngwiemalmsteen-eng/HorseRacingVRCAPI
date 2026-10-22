@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-21T23:44:42.364Z",
-  "generatedAtLabel": "2026/10/22 08:44",
+  "generatedAt": "2026-10-22T10:44:40.677Z",
+  "generatedAtLabel": "2026/10/22 19:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2574,14 +2574,27 @@
       "events": [
         {
           "calendarEventId": "",
-          "eventId": "20251104_1",
+          "eventId": "20261104_1",
           "title": "11月4日〇未勝利戦トンキョー競馬場",
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇未勝利戦(別定A)トンキョー2400",
+              "grade": "未勝利",
+              "track": "坂芝",
+              "course": "コース1",
+              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "firstPrize": 400,
+              "displayCondition": "坂芝 / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "status": ""
+            }
+          ]
         },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
@@ -2662,8 +2675,31 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:00 11月7日〇未勝利戦ケンターキー競馬場 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261107_1",
+          "title": "11月7日〇未勝利戦ケンターキー競馬場",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261107",
+          "title": "11月7日〇OP戦ケンターキー競馬場",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-11-08",
@@ -2673,8 +2709,31 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:00 11月8日〇未勝利戦トンキョー競馬場 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261108_1",
+          "title": "11月8日〇未勝利戦トンキョー競馬場",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261108",
+          "title": "11月8日〇G2戦トンキョー競馬場",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-11-09",
