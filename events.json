@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-22T10:44:40.677Z",
-  "generatedAtLabel": "2026/10/22 19:44",
+  "generatedAt": "2026-10-22T11:44:41.207Z",
+  "generatedAtLabel": "2026/10/22 20:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2589,9 +2589,9 @@
               "grade": "未勝利",
               "track": "坂芝",
               "course": "コース1",
-              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
-              "displayCondition": "坂芝 / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+              "displayCondition": "坂芝 / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
               "status": ""
             }
           ]
@@ -2686,7 +2686,20 @@
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇未勝利戦(別定A) ケンターキー1600",
+              "grade": "未勝利",
+              "track": "ダート",
+              "course": "コース2",
+              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
+              "firstPrize": 400,
+              "displayCondition": "ダート / コース2 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
+              "status": ""
+            }
+          ]
         },
         {
           "calendarEventId": "",
@@ -2697,7 +2710,20 @@
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇OP戦(別定A) ケンターキー1600",
+              "grade": "OP(別定A)",
+              "track": "ダート",
+              "course": "コース2",
+              "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
+              "firstPrize": 800,
+              "displayCondition": "ダート / コース2 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
+              "status": ""
+            }
+          ]
         }
       ]
     },
@@ -2720,7 +2746,20 @@
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇未勝利戦(別定A)トンキョー2000",
+              "grade": "未勝利",
+              "track": "坂芝",
+              "course": "コース2",
+              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
+              "firstPrize": 400,
+              "displayCondition": "坂芝 / コース2 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
+              "status": ""
+            }
+          ]
         },
         {
           "calendarEventId": "",
@@ -2731,7 +2770,20 @@
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇G2戦(別定C)トンキョー2000",
+              "grade": "G2(別定C)",
+              "track": "坂芝",
+              "course": "コース2",
+              "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金4400万。",
+              "firstPrize": 4400,
+              "displayCondition": "坂芝 / コース2 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金4400万。",
+              "status": ""
+            }
+          ]
         }
       ]
     },
