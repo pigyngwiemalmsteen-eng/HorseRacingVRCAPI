@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-23T09:21:57.732Z",
-  "generatedAtLabel": "2026/10/23 18:21",
+  "generatedAt": "2026-10-23T15:44:40.633Z",
+  "generatedAtLabel": "2026/10/24 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2395,8 +2395,8 @@
       "dateLabel": "10月23日（金）",
       "dayNumber": "23",
       "weekday": "金",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
         {
@@ -2418,7 +2418,7 @@
       "dateLabel": "10月24日（土）",
       "dayNumber": "24",
       "weekday": "土",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:30 - 22:00 10月24日〇未勝利戦 ケンターキー競馬場 ほか1件",
       "events": [
