@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-22T15:44:40.975Z",
-  "generatedAtLabel": "2026/10/23 00:44",
+  "generatedAt": "2026-10-23T01:44:41.116Z",
+  "generatedAtLabel": "2026/10/23 10:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2220,7 +2220,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇OP戦(別定A) ケンターキー2000",
+              "raceName": "〇霜降ステークス OP戦(別定A) ケンターキー2000",
               "grade": "OP(別定A)",
               "track": "ダート",
               "course": "コース1",
@@ -2280,7 +2280,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇OP戦(別定A) とりのす2200",
+              "raceName": "〇秋も終わりかステークス OP戦(別定A) とりのす2200",
               "grade": "OP(別定A)",
               "track": "平場芝",
               "course": "コース3",
@@ -2373,7 +2373,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇OP戦(別定A) ケンターキー1600",
+              "raceName": "〇冬よこいこいステークス OP戦(別定A) ケンターキー1600",
               "grade": "OP(別定A)",
               "track": "ダート",
               "course": "コース2",
@@ -2467,7 +2467,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇G3戦(別定B) とりのす2400",
+              "raceName": "〇ハロウィーーーンスペシャル G3戦(別定B) とりのす2400",
               "grade": "G3(別定B)",
               "track": "平場芝",
               "course": "コース1",
