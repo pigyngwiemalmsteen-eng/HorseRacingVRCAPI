@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-23T02:26:56.942Z",
-  "generatedAtLabel": "2026/10/23 11:26",
+  "generatedAt": "2026-10-23T04:44:42.528Z",
+  "generatedAtLabel": "2026/10/23 13:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2519,7 +2519,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇秋も終わりかステークス OP戦(別定A) とりのす2200",
+              "raceName": "〇おおかみギミック発売記念 OP戦(別定A) とりのす2200",
               "grade": "OP(別定A)",
               "track": "平場芝",
               "course": "コース3",
@@ -2706,7 +2706,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇ハロウィーーーンスペシャル G3戦(別定B) とりのす2400",
+              "raceName": "〇オータムランタン賞 G3戦(別定B) とりのす2400",
               "grade": "G3(別定B)",
               "track": "平場芝",
               "course": "コース1",
