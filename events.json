@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-23T04:44:42.528Z",
-  "generatedAtLabel": "2026/10/23 13:44",
+  "generatedAt": "2026-10-23T09:21:57.732Z",
+  "generatedAtLabel": "2026/10/23 18:21",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2766,7 +2766,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇G3戦(別定B) ケンターキー2000",
+              "raceName": "〇メメントステークス G3戦(別定B) ケンターキー2000",
               "grade": "G3(別定B)",
               "track": "ダート",
               "course": "コース1",
@@ -2853,20 +2853,20 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇OP戦(別定A)トンキョー2400",
+              "raceName": "〇落葉ステークス OP戦(別定A)トンキョー2400",
               "grade": "OP(別定A)",
               "track": "坂芝",
               "course": "コース1",
               "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
               "firstPrize": 800,
               "displayCondition": "坂芝 / コース1 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
-              "status": ""
+              "status": "募集中"
             }
           ]
         }
@@ -2953,7 +2953,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇OP戦(別定A) ケンターキー1600",
+              "raceName": "〇とりのいち記念 OP戦(別定A) ケンターキー1600",
               "grade": "OP(別定A)",
               "track": "ダート",
               "course": "コース2",
@@ -3013,7 +3013,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇G2戦(別定C)トンキョー2000",
+              "raceName": "〇ダイヤモンドリリーステークス G2戦(別定C)トンキョー2000",
               "grade": "G2(別定C)",
               "track": "坂芝",
               "course": "コース2",
