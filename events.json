@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-24T21:16:56.886Z",
-  "generatedAtLabel": "2026/10/25 06:16",
+  "generatedAt": "2026-10-24T22:44:41.008Z",
+  "generatedAtLabel": "2026/10/25 07:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -165,7 +165,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -185,7 +185,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -196,7 +196,7 @@
               "ownerName": "あかいくん",
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -1015,6 +1015,14 @@
               "jockeyName": "キョンシー",
               "previousRuns": [
                 {
+                  "eventId": "20261024",
+                  "raceId": "R01",
+                  "raceName": "〇霜降ステークス OP戦(別定A) ケンターキー2000",
+                  "grade": "OP(別定A)",
+                  "finishPosition": 3,
+                  "last3F": ""
+                },
+                {
                   "eventId": "20261021",
                   "raceId": "R02",
                   "raceName": "〇未勝利戦(別定A) とりのす2400",
@@ -1033,7 +1041,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
