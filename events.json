@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-24T14:56:58.187Z",
-  "generatedAtLabel": "2026/10/24 23:56",
+  "generatedAt": "2026-10-24T15:44:42.040Z",
+  "generatedAtLabel": "2026/10/25 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 0,
+  "defaultRaceCardEventIndex": 2,
   "raceCards": [
     {
       "eventId": "20261024",
@@ -355,7 +355,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -369,7 +369,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -389,7 +389,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1540,8 +1540,8 @@
       "dateLabel": "10月24日（土）",
       "dayNumber": "24",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:00 10月24日〇未勝利戦 ケンターキー競馬場 ほか1件",
       "events": [
         {
@@ -1600,7 +1600,7 @@
       "dateLabel": "10月25日（日）",
       "dayNumber": "25",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:30 - 22:00 10月25日〇未勝利戦 とりのす競馬場 ほか1件",
       "events": [
