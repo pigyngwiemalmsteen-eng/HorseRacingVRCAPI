@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T03:57:05.022Z",
-  "generatedAtLabel": "2026/10/24 12:57",
+  "generatedAt": "2026-10-24T21:17:05.745Z",
+  "generatedAtLabel": "2026/10/25 06:17",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -114,28 +114,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20261025_1",
-      "eventName": "10月25日〇未勝利戦 とりのす競馬場",
-      "eventDate": "2026-10-25",
-      "eventDateLabel": "2026/10/25 21:30",
-      "deadline": "2026-10-24T21:00:00.000Z",
-      "deadlineLabel": "2026/10/25 06:00",
-      "raceId": "R01",
-      "raceNo": 1,
-      "raceNoLabel": "1R",
-      "raceName": "〇未勝利戦(別定A) とりのす2200",
-      "grade": "未勝利",
-      "trackType": "平場芝",
-      "course": "コース3",
-      "entryCondition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-      "maxEntries": 16,
-      "racehorseOnly": true,
-      "racehorseEventId": "90001",
-      "firstPrize": 400,
-      "firstPrizeLabel": "400万uma円",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20261028",
       "eventName": "10月28日〇OP戦 ケンターキー競馬場",
