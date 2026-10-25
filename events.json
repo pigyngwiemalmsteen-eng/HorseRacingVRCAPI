@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-24T22:44:41.008Z",
-  "generatedAtLabel": "2026/10/25 07:44",
+  "generatedAt": "2026-10-25T08:44:40.750Z",
+  "generatedAtLabel": "2026/10/25 17:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -565,7 +565,7 @@
               "horseId": "H000526",
               "horseName": "インペリアルライン豊【号】",
               "ownerName": "結月アオバ",
-              "jockeyName": "結月アオバ",
+              "jockeyName": "コントキ",
               "previousRuns": [
                 {
                   "eventId": "20261017",
@@ -2048,7 +2048,7 @@
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
-          "status": "公開済",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -2061,7 +2061,7 @@
               "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース3 / 予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": "公開済"
+              "status": "出走表作成済"
             }
           ]
         },
@@ -2072,7 +2072,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "公開済",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -2085,7 +2085,7 @@
               "condition": "予定開始時刻22:10。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
               "firstPrize": 800,
               "displayCondition": "平場芝 / コース3 / 予定開始時刻22:10。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
-              "status": "公開済"
+              "status": "出走表作成済"
             }
           ]
         }
@@ -2170,7 +2170,7 @@
           "races": [
             {
               "raceId": "R01",
-              "raceNo": "1R",
+              "raceNo": "2R",
               "raceName": "〇冬よこいこいステークス OP戦(別定A) ケンターキー1600",
               "grade": "OP(別定A)",
               "track": "ダート",
@@ -2264,7 +2264,7 @@
           "races": [
             {
               "raceId": "R01",
-              "raceNo": "1R",
+              "raceNo": "2R",
               "raceName": "〇オータムランタン賞 G3戦(別定B) とりのす2400",
               "grade": "G3(別定B)",
               "track": "平場芝",
@@ -2324,7 +2324,7 @@
           "races": [
             {
               "raceId": "R01",
-              "raceNo": "1R",
+              "raceNo": "2R",
               "raceName": "〇メメントステークス G3戦(別定B) ケンターキー2000",
               "grade": "G3(別定B)",
               "track": "ダート",
@@ -2417,7 +2417,7 @@
           "races": [
             {
               "raceId": "R01",
-              "raceNo": "1R",
+              "raceNo": "2R",
               "raceName": "〇落葉ステークス OP戦(別定A)トンキョー2400",
               "grade": "OP(別定A)",
               "track": "坂芝",
@@ -2511,7 +2511,7 @@
           "races": [
             {
               "raceId": "R01",
-              "raceNo": "1R",
+              "raceNo": "2R",
               "raceName": "〇とりのいち記念 OP戦(別定A) ケンターキー1600",
               "grade": "OP(別定A)",
               "track": "ダート",
@@ -2571,7 +2571,7 @@
           "races": [
             {
               "raceId": "R01",
-              "raceNo": "1R",
+              "raceNo": "2R",
               "raceName": "〇ダイヤモンドリリーステークス G2戦(別定C)トンキョー2000",
               "grade": "G2(別定C)",
               "track": "坂芝",
@@ -2899,7 +2899,7 @@
           "races": [
             {
               "raceId": "R01",
-              "raceNo": "1R",
+              "raceNo": "2R",
               "raceName": "〇G1戦(定量) ケンターキー2000",
               "grade": "G1",
               "track": "ダート",
