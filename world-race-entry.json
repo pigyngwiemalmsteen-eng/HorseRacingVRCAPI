@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T08:40:15.323Z",
-  "generatedAtLabel": "2026/10/25 17:40",
+  "generatedAt": "2026-10-26T21:40:15.946Z",
+  "generatedAtLabel": "2026/10/27 06:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -114,28 +114,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20261028",
-      "eventName": "10月28日〇OP戦 ケンターキー競馬場",
-      "eventDate": "2026-10-28",
-      "eventDateLabel": "2026/10/28 22:00",
-      "deadline": "2026-10-26T21:00:00.000Z",
-      "deadlineLabel": "2026/10/27 06:00",
-      "raceId": "R01",
-      "raceNo": 2,
-      "raceNoLabel": "2R",
-      "raceName": "〇冬よこいこいステークス OP戦(別定A) ケンターキー1600",
-      "grade": "OP(別定A)",
-      "trackType": "ダート",
-      "course": "コース2",
-      "entryCondition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
-      "maxEntries": 18,
-      "racehorseOnly": true,
-      "racehorseEventId": "90001",
-      "firstPrize": 800,
-      "firstPrizeLabel": "800万uma円",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20261028_1",
       "eventName": "10月28日〇未勝利戦 ケンターキー競馬場",
