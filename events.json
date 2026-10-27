@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-27T00:44:41.026Z",
-  "generatedAtLabel": "2026/10/27 09:44",
+  "generatedAt": "2026-10-27T01:02:37.127Z",
+  "generatedAtLabel": "2026/10/27 10:02",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 3,
+  "defaultRaceCardEventIndex": 4,
   "raceCards": [
     {
       "eventId": "20261024",
@@ -1095,6 +1095,422 @@
           ]
         }
       ]
+    },
+    {
+      "eventId": "20261028",
+      "eventName": "10月28日〇OP戦 ケンターキー競馬場",
+      "eventDate": "2026-10-28",
+      "eventDateLabel": "2026.10.28 水",
+      "startTime": "22:00",
+      "races": [
+        {
+          "eventId": "20261028",
+          "raceId": "R01",
+          "raceNumber": 2,
+          "raceNo": "2R",
+          "raceName": "〇冬よこいこいステークス OP戦(別定A) ケンターキー1600",
+          "grade": "OP(別定A)",
+          "track": "ダート",
+          "course": "コース2",
+          "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
+          "firstPrize": 800,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000594",
+              "horseName": "レイジングロア【号】",
+              "ownerName": "RuM-らむ-",
+              "jockeyName": "RuM-らむ-",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 1,
+              "horseNumber": 2,
+              "horseId": "H000585",
+              "horseName": "ScoopRuler★★★【号】",
+              "ownerName": "なぎっちゅ。",
+              "jockeyName": "なぎっちゅ。",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000575",
+              "horseName": "アグニザッパーλ【号】",
+              "ownerName": "Sigure_Mia",
+              "jockeyName": "Sigure_Mia",
+              "previousRuns": [
+                {
+                  "eventId": "20261024",
+                  "raceId": "R01",
+                  "raceName": "〇霜降ステークス OP戦(別定A) ケンターキー2000",
+                  "grade": "OP(別定A)",
+                  "finishPosition": 9,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261018",
+                  "raceId": "R02",
+                  "raceName": "〇メイクデビュー ケンターキー1600",
+                  "grade": "新馬",
+                  "finishPosition": 2,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000543",
+              "horseName": "カオスノヴァ【号】",
+              "ownerName": "RenNeko12",
+              "jockeyName": "RenNeko12",
+              "previousRuns": [
+                {
+                  "eventId": "20261024_1",
+                  "raceId": "R01",
+                  "raceName": "〇未勝利戦(別定A) ケンターキー2000",
+                  "grade": "未勝利",
+                  "finishPosition": 2,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261017",
+                  "raceId": "R01",
+                  "raceName": "〇メイクデビュー とりのす2400",
+                  "grade": "新馬",
+                  "finishPosition": 4,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000568",
+              "horseName": "ナデナデスリスリβ【号】",
+              "ownerName": "雨乃ユウ",
+              "jockeyName": "雨乃ユウ",
+              "previousRuns": [
+                {
+                  "eventId": "20261025_1",
+                  "raceId": "R01-A",
+                  "raceName": "〇未勝利戦(別定A) とりのす2200 A組",
+                  "grade": "未勝利",
+                  "finishPosition": 2,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261024_1",
+                  "raceId": "R01",
+                  "raceName": "〇未勝利戦(別定A) ケンターキー2000",
+                  "grade": "未勝利",
+                  "finishPosition": 4,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261021",
+                  "raceId": "R02",
+                  "raceName": "〇未勝利戦(別定A) とりのす2400",
+                  "grade": "未勝利",
+                  "finishPosition": 10,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000577",
+              "horseName": "テディーブラウニーλ【号】",
+              "ownerName": "Teddy_Aoumi",
+              "jockeyName": "さば煮",
+              "previousRuns": [
+                {
+                  "eventId": "20261018",
+                  "raceId": "R02",
+                  "raceName": "〇メイクデビュー ケンターキー1600",
+                  "grade": "新馬",
+                  "finishPosition": 6,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000561",
+              "horseName": "ルナルナセブン豊【号】",
+              "ownerName": "神威ルカ",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [
+                {
+                  "eventId": "20261024_1",
+                  "raceId": "R01",
+                  "raceName": "〇未勝利戦(別定A) ケンターキー2000",
+                  "grade": "未勝利",
+                  "finishPosition": 5,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261018",
+                  "raceId": "R02",
+                  "raceName": "〇メイクデビュー ケンターキー1600",
+                  "grade": "新馬",
+                  "finishPosition": 11,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000560",
+              "horseName": "セーヴアヴニールΣ【号】",
+              "ownerName": "Annulaire",
+              "jockeyName": "Annulaire",
+              "previousRuns": [
+                {
+                  "eventId": "20261024",
+                  "raceId": "R01",
+                  "raceName": "〇霜降ステークス OP戦(別定A) ケンターキー2000",
+                  "grade": "OP(別定A)",
+                  "finishPosition": 8,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261021",
+                  "raceId": "R01-B",
+                  "raceName": "〇未勝利戦(別定A) とりのす1600 B組",
+                  "grade": "未勝利",
+                  "finishPosition": 5,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261017",
+                  "raceId": "R02",
+                  "raceName": "〇メイクデビュー とりのす2000",
+                  "grade": "新馬",
+                  "finishPosition": 4,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000573",
+              "horseName": "TheCosmicPuppetsΣ【号】",
+              "ownerName": "yakisushi0619",
+              "jockeyName": "Nele-san",
+              "previousRuns": [
+                {
+                  "eventId": "20261024",
+                  "raceId": "R01",
+                  "raceName": "〇霜降ステークス OP戦(別定A) ケンターキー2000",
+                  "grade": "OP(別定A)",
+                  "finishPosition": 10,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 10,
+              "horseId": "H000613",
+              "horseName": "ハローマンゴーδ【号】",
+              "ownerName": "toburuku",
+              "jockeyName": "toburuku",
+              "previousRuns": [
+                {
+                  "eventId": "20261024_1",
+                  "raceId": "R01",
+                  "raceName": "〇未勝利戦(別定A) ケンターキー2000",
+                  "grade": "未勝利",
+                  "finishPosition": 7,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 11,
+              "horseId": "H000418",
+              "horseName": "カナシール★★★【号】",
+              "ownerName": "東雲れいあ",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [
+                {
+                  "eventId": "20260926_1",
+                  "raceId": "R01",
+                  "raceName": "㋛G2 十六夜賞",
+                  "grade": "G2",
+                  "finishPosition": 12,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20260923",
+                  "raceId": "R02",
+                  "raceName": "㋛OP(L) 仲秋ステークス",
+                  "grade": "OP",
+                  "finishPosition": 3,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20260919_1",
+                  "raceId": "R02",
+                  "raceName": "㋛未勝利戦②",
+                  "grade": "未勝利",
+                  "finishPosition": 7,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 1
+            },
+            {
+              "frameNumber": 6,
+              "horseNumber": 12,
+              "horseId": "H000563",
+              "horseName": "クロスウィザードΣ【号】",
+              "ownerName": "カイ＿声帯損傷中",
+              "jockeyName": "カイ＿声帯損傷中",
+              "previousRuns": [
+                {
+                  "eventId": "20261021",
+                  "raceId": "R01-A",
+                  "raceName": "〇未勝利戦(別定A) とりのす1600 A組",
+                  "grade": "未勝利",
+                  "finishPosition": 6,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261017",
+                  "raceId": "R01",
+                  "raceName": "〇メイクデビュー とりのす2400",
+                  "grade": "新馬",
+                  "finishPosition": 12,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 13,
+              "horseId": "H000546",
+              "horseName": "ダレヨリマエニ怪【号】",
+              "ownerName": "inブリ",
+              "jockeyName": "inブリ",
+              "previousRuns": [
+                {
+                  "eventId": "20261024",
+                  "raceId": "R01",
+                  "raceName": "〇霜降ステークス OP戦(別定A) ケンターキー2000",
+                  "grade": "OP(別定A)",
+                  "finishPosition": 7,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261018",
+                  "raceId": "R02",
+                  "raceName": "〇メイクデビュー ケンターキー1600",
+                  "grade": "新馬",
+                  "finishPosition": 7,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 14,
+              "horseId": "H000528",
+              "horseName": "スタードラグノフ★★★【号】",
+              "ownerName": "siyuu007",
+              "jockeyName": "siyuu007",
+              "previousRuns": [
+                {
+                  "eventId": "20261021",
+                  "raceId": "R01-B",
+                  "raceName": "〇未勝利戦(別定A) とりのす1600 B組",
+                  "grade": "未勝利",
+                  "finishPosition": 1,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261018",
+                  "raceId": "R01",
+                  "raceName": "〇メイクデビュー ケンターキー2000",
+                  "grade": "新馬",
+                  "finishPosition": 7,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 15,
+              "horseId": "H000609",
+              "horseName": "ミルフィギドラ【号】",
+              "ownerName": "あかいくん",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [
+                {
+                  "eventId": "20261024_1",
+                  "raceId": "R01",
+                  "raceName": "〇未勝利戦(別定A) ケンターキー2000",
+                  "grade": "未勝利",
+                  "finishPosition": 11,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        }
+      ]
     }
   ],
   "defaultStartIndex": 28,
@@ -1907,7 +2323,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "回答集計済",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -1920,7 +2336,7 @@
               "condition": "予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
               "firstPrize": 800,
               "displayCondition": "ダート / コース2 / 予定開始時刻22:10。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
-              "status": "回答集計済"
+              "status": "公開済"
             }
           ]
         }
