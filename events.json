@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-28T14:44:41.308Z",
-  "generatedAtLabel": "2026/10/28 23:44",
+  "generatedAt": "2026-10-28T15:44:41.019Z",
+  "generatedAtLabel": "2026/10/29 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 4,
+  "defaultRaceCardEventIndex": 5,
   "raceCards": [
     {
       "eventId": "20261024",
@@ -2503,8 +2503,8 @@
       "dateLabel": "10月28日（水）",
       "dayNumber": "28",
       "weekday": "水",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:00 10月28日〇未勝利戦 ケンターキー競馬場 ほか2件",
       "events": [
         {
@@ -2574,7 +2574,7 @@
       "dateLabel": "10月29日（木）",
       "dayNumber": "29",
       "weekday": "木",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
