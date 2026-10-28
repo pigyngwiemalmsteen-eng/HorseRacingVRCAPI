@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-28T05:12:04.173Z",
-  "generatedAtLabel": "2026/10/28 14:12",
+  "generatedAt": "2026-10-28T14:44:41.308Z",
+  "generatedAtLabel": "2026/10/28 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -238,7 +238,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             }
@@ -290,7 +290,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -327,7 +327,7 @@
               "jockeyName": "あかいくん",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -435,7 +435,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 6,
@@ -711,7 +711,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -1230,7 +1230,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -1290,7 +1290,7 @@
               "horseId": "H000560",
               "horseName": "セーヴアヴニールΣ【号】",
               "ownerName": "Annulaire",
-              "jockeyName": "Annulaire",
+              "jockeyName": "Sirius.S",
               "previousRuns": [
                 {
                   "eventId": "20261024",
@@ -1361,7 +1361,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 6,
@@ -1505,7 +1505,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             }
           ]
@@ -1557,7 +1557,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1645,7 +1645,7 @@
               ],
               "firstCount": 1,
               "secondCount": 2,
-              "thirdCount": 1
+              "thirdCount": 2
             },
             {
               "frameNumber": 5,
@@ -1672,7 +1672,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -1719,7 +1719,7 @@
               "horseId": "H000600",
               "horseName": "レーゲンブロッサムΨ【号】",
               "ownerName": "Annulaire",
-              "jockeyName": "Annulaire",
+              "jockeyName": "なぎっちゅ。",
               "previousRuns": [
                 {
                   "eventId": "20261024_1",
