@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-29T22:44:40.609Z",
-  "generatedAtLabel": "2026/10/30 07:44",
+  "generatedAt": "2026-10-29T23:05:30.012Z",
+  "generatedAtLabel": "2026/10/30 08:05",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2080,7 +2080,7 @@
               "horseId": "H000544",
               "horseName": "アナタニオクル豊【号】",
               "ownerName": "inブリ",
-              "jockeyName": "inブリ",
+              "jockeyName": "さば煮",
               "previousRuns": [
                 {
                   "eventId": "20261025_1",
@@ -3170,7 +3170,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "枠順決定済",
+          "status": "公開済",
           "officialManaged": true,
           "races": [
             {
@@ -3183,7 +3183,7 @@
               "condition": "予定開始時刻22:10。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
               "firstPrize": 2400,
               "displayCondition": "平場芝 / コース1 / 予定開始時刻22:10。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
-              "status": "枠順決定済"
+              "status": "公開済"
             }
           ]
         }
