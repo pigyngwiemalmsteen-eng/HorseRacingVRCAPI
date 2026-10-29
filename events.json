@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-28T15:44:41.019Z",
-  "generatedAtLabel": "2026/10/29 00:44",
+  "generatedAt": "2026-10-29T14:44:43.399Z",
+  "generatedAtLabel": "2026/10/29 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2643,7 +2643,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "募集中",
+          "status": "回答集計済",
           "officialManaged": true,
           "races": [
             {
@@ -2656,7 +2656,7 @@
               "condition": "予定開始時刻22:10。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
               "firstPrize": 2400,
               "displayCondition": "平場芝 / コース1 / 予定開始時刻22:10。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
-              "status": "募集中"
+              "status": "回答集計済"
             }
           ]
         }
