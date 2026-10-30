@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-29T23:05:30.012Z",
-  "generatedAtLabel": "2026/10/30 08:05",
+  "generatedAt": "2026-10-30T00:44:44.208Z",
+  "generatedAtLabel": "2026/10/30 09:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -3526,8 +3526,19 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "21:30 - 22:00 11月11日〇未勝利戦 ダート ケンターキー競馬場 ほか2件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261111_1",
+          "title": "11月11日〇未勝利戦 ダート ケンターキー競馬場",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
@@ -3537,6 +3548,17 @@
           "description": "",
           "status": "",
           "officialManaged": false,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261111",
+          "title": "11月11日〇G3戦 ダート ケンターキー競馬場",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
           "races": []
         }
       ]
@@ -3583,8 +3605,31 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:00 11月14日〇未勝利戦 芝 トンキョー競馬場 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261114_1",
+          "title": "11月14日〇未勝利戦 芝 トンキョー競馬場",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261114",
+          "title": "11月14日〇OP戦 芝 トンキョー競馬場",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-11-15",
@@ -3594,8 +3639,31 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:00 11月11日〇未勝利戦 ダート ケンターキー競馬場 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261115_1",
+          "title": "11月11日〇未勝利戦 ダート ケンターキー競馬場",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261115",
+          "title": "11月11日〇G2戦 ダート ケンターキー競馬場",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-11-16",
