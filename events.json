@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-30T21:31:59.926Z",
-  "generatedAtLabel": "2026/10/31 06:31",
+  "generatedAt": "2026-10-31T05:14:10.865Z",
+  "generatedAtLabel": "2026/10/31 14:14",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2429,7 +2429,7 @@
               "horseId": "H000555",
               "horseName": "パルティータ♪【号】",
               "ownerName": "inブリ",
-              "jockeyName": "inブリ",
+              "jockeyName": "さば煮05",
               "previousRuns": [
                 {
                   "eventId": "20261028_1",
@@ -3577,7 +3577,7 @@
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
-          "status": "公開済",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -3590,7 +3590,7 @@
               "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
               "displayCondition": "平場芝 / コース1 / 予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": "公開済"
+              "status": "出走表作成済"
             }
           ]
         },
