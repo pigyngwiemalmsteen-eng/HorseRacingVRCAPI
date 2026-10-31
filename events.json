@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-31T14:44:42.181Z",
-  "generatedAtLabel": "2026/10/31 23:44",
+  "generatedAt": "2026-10-31T15:44:41.009Z",
+  "generatedAtLabel": "2026/11/01 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 0,
+  "defaultRaceCardEventIndex": 2,
   "raceCards": [
     {
       "eventId": "20261031",
@@ -562,7 +562,7 @@
               "jockeyName": "SHINSHI0080",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -600,7 +600,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -688,7 +688,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -2271,8 +2271,8 @@
       "dateLabel": "10月31日（土）",
       "dayNumber": "31",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:00 10月31日〇未勝利戦 とりのす競馬場 ほか1件",
       "events": [
         {
@@ -2331,7 +2331,7 @@
       "dateLabel": "11月1日（日）",
       "dayNumber": "1",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:30 - 22:00 11月1日〇未勝利戦 ケンターキー競馬場 ほか1件",
       "events": [
