@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T08:27:19.682Z",
-  "generatedAtLabel": "2026/10/31 17:27",
+  "generatedAt": "2026-10-31T21:40:18.309Z",
+  "generatedAtLabel": "2026/11/01 06:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -114,28 +114,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20261101_1",
-      "eventName": "11月1日〇未勝利戦 ケンターキー競馬場",
-      "eventDate": "2026-11-01",
-      "eventDateLabel": "2026/11/01 21:30",
-      "deadline": "2026-10-31T21:00:00.000Z",
-      "deadlineLabel": "2026/11/01 06:00",
-      "raceId": "R01",
-      "raceNo": 1,
-      "raceNoLabel": "1R",
-      "raceName": "〇11月1日未勝利戦(別定A) ケンターキー2000",
-      "grade": "未勝利",
-      "trackType": "ダート",
-      "course": "コース1",
-      "entryCondition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-      "maxEntries": 18,
-      "racehorseOnly": true,
-      "racehorseEventId": "90001",
-      "firstPrize": 400,
-      "firstPrizeLabel": "400万uma円",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20261104",
       "eventName": "11月4日〇OP戦トンキョー競馬場",
