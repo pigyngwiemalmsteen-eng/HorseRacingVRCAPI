@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-31T07:44:43.195Z",
-  "generatedAtLabel": "2026/10/31 16:44",
+  "generatedAt": "2026-10-31T07:56:57.389Z",
+  "generatedAtLabel": "2026/10/31 16:56",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2792,7 +2792,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -2805,7 +2805,7 @@
               "condition": "予定開始時刻22:00。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金1200万。",
               "firstPrize": 1200,
               "displayCondition": "坂芝 / コース3 / 予定開始時刻22:00。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金1200万。",
-              "status": ""
+              "status": "募集中"
             }
           ]
         }
