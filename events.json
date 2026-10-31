@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-31T08:16:58.622Z",
-  "generatedAtLabel": "2026/10/31 17:16",
+  "generatedAt": "2026-10-31T08:26:57.408Z",
+  "generatedAtLabel": "2026/10/31 17:26",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2828,7 +2828,7 @@
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
-          "status": "",
+          "status": "募集中",
           "officialManaged": true,
           "races": [
             {
@@ -2841,7 +2841,7 @@
               "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
               "displayCondition": "ダート / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": ""
+              "status": "募集中"
             }
           ]
         },
