@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-01T14:44:43.246Z",
-  "generatedAtLabel": "2026/11/01 23:44",
+  "generatedAt": "2026-11-01T15:44:40.708Z",
+  "generatedAtLabel": "2026/11/02 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 2,
+  "defaultRaceCardEventIndex": 3,
   "raceCards": [
     {
       "eventId": "20261031",
@@ -1764,191 +1764,6 @@
   "visibleDayCount": 28,
   "days": [
     {
-      "dateKey": "2026-09-28",
-      "displayDate": "2026.09.28",
-      "dateLabel": "9月28日（月）",
-      "dayNumber": "28",
-      "weekday": "月",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-09-29",
-      "displayDate": "2026.09.29",
-      "dateLabel": "9月29日（火）",
-      "dayNumber": "29",
-      "weekday": "火",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-09-30",
-      "displayDate": "2026.09.30",
-      "dateLabel": "9月30日（水）",
-      "dayNumber": "30",
-      "weekday": "水",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "22:00 - 22:30 【仮想中央競馬会】9月30日公式レース開催！ ほか1件",
-      "events": [
-        {
-          "calendarEventId": "ui4mevbuqbc3faa14veh1ertk8@google.com",
-          "eventId": "20260930",
-          "title": "【仮想中央競馬会】9月30日公式レース開催！",
-          "timeLabel": "22:00 - 22:30",
-          "location": "VRChat",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "特殊馬全解禁レース 芝",
-              "grade": "OP",
-              "track": "平場芝",
-              "course": "コース1",
-              "condition": "予定時刻 22:00。漢字馬を含むどの馬に乗ってもいいレースです！芝とダート両方同じ馬でも大丈夫です！こっちは芝。賞金 一着50万,二着20万,三着10万",
-              "firstPrize": 0,
-              "displayCondition": "平場芝 / コース1 / 予定時刻 22:00。漢字馬を含むどの馬に乗ってもいいレースです！芝とダート両方同じ馬でも大丈夫です！こっちは芝。賞金 一着50万,二着20万,三着10万",
-              "status": "公開済"
-            },
-            {
-              "raceId": "R02",
-              "raceNo": "2R",
-              "raceName": "特殊馬全解禁レース ダート",
-              "grade": "OP",
-              "track": "ダート",
-              "course": "コース1",
-              "condition": "予定時刻22:15。漢字馬を含むどの馬に乗ってもいいレースです！芝とダート両方同じ馬でも大丈夫です！こっちはダート。賞金 一着50万,二着20万,三着10万",
-              "firstPrize": 0,
-              "displayCondition": "ダート / コース1 / 予定時刻22:15。漢字馬を含むどの馬に乗ってもいいレースです！芝とダート両方同じ馬でも大丈夫です！こっちはダート。賞金 一着50万,二着20万,三着10万",
-              "status": "公開済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
-          "eventId": "",
-          "title": "定期交流会",
-          "timeLabel": "22:00 - 23:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-10-01",
-      "displayDate": "2026.10.01",
-      "dateLabel": "10月1日（木）",
-      "dayNumber": "1",
-      "weekday": "木",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-10-02",
-      "displayDate": "2026.10.02",
-      "dateLabel": "10月2日（金）",
-      "dayNumber": "2",
-      "weekday": "金",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "18:00 - 18:30 10月02日 公式レース開催 ほか2件",
-      "events": [
-        {
-          "calendarEventId": "",
-          "eventId": "20261002",
-          "title": "10月02日 公式レース開催",
-          "timeLabel": "18:00 - 18:30",
-          "location": "",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "10月02日 公式レース 第1R",
-              "grade": "OP",
-              "track": "ダート",
-              "course": "コース1",
-              "condition": "",
-              "firstPrize": 0,
-              "displayCondition": "ダート / コース1",
-              "status": "公開済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "",
-          "eventId": "20261002_1",
-          "title": "10月02日 公式レース開催",
-          "timeLabel": "19:00 - 20:00",
-          "location": "",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "10月02日 公式レース 第1R",
-              "grade": "OP",
-              "track": "ダート",
-              "course": "コース1",
-              "condition": "",
-              "firstPrize": 0,
-              "displayCondition": "ダート / コース1",
-              "status": "公開済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-10-03",
-      "displayDate": "2026.10.03",
-      "dateLabel": "10月3日（土）",
-      "dayNumber": "3",
-      "weekday": "土",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-10-04",
-      "displayDate": "2026.10.04",
-      "dateLabel": "10月4日（日）",
-      "dayNumber": "4",
-      "weekday": "日",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
       "dateKey": "2026-10-05",
       "displayDate": "2026.10.05",
       "dateLabel": "10月5日（月）",
@@ -2689,8 +2504,8 @@
       "dateLabel": "11月1日（日）",
       "dayNumber": "1",
       "weekday": "日",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:00 11月1日〇未勝利戦 ケンターキー競馬場 ほか1件",
       "events": [
         {
@@ -2749,7 +2564,7 @@
       "dateLabel": "11月2日（月）",
       "dayNumber": "2",
       "weekday": "月",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
@@ -3761,6 +3576,107 @@
       "displayDate": "2026.12.20",
       "dateLabel": "12月20日（日）",
       "dayNumber": "20",
+      "weekday": "日",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-21",
+      "displayDate": "2026.12.21",
+      "dateLabel": "12月21日（月）",
+      "dayNumber": "21",
+      "weekday": "月",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-22",
+      "displayDate": "2026.12.22",
+      "dateLabel": "12月22日（火）",
+      "dayNumber": "22",
+      "weekday": "火",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-23",
+      "displayDate": "2026.12.23",
+      "dateLabel": "12月23日（水）",
+      "dayNumber": "23",
+      "weekday": "水",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-12-24",
+      "displayDate": "2026.12.24",
+      "dateLabel": "12月24日（木）",
+      "dayNumber": "24",
+      "weekday": "木",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-25",
+      "displayDate": "2026.12.25",
+      "dateLabel": "12月25日（金）",
+      "dayNumber": "25",
+      "weekday": "金",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2026-12-26",
+      "displayDate": "2026.12.26",
+      "dateLabel": "12月26日（土）",
+      "dayNumber": "26",
+      "weekday": "土",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2026-12-27",
+      "displayDate": "2026.12.27",
+      "dateLabel": "12月27日（日）",
+      "dayNumber": "27",
       "weekday": "日",
       "isToday": false,
       "isPast": false,
