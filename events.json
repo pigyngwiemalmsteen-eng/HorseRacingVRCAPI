@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-01T02:44:42.044Z",
-  "generatedAtLabel": "2026/11/01 11:44",
+  "generatedAt": "2026-11-01T14:44:43.246Z",
+  "generatedAtLabel": "2026/11/01 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -947,7 +947,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -1013,7 +1013,7 @@
               "ownerName": "結月アオバ",
               "jockeyName": "結月アオバ",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -1043,7 +1043,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 1
             },
             {
@@ -1081,7 +1081,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 2
+              "thirdCount": 3
             },
             {
               "frameNumber": 3,
@@ -1575,7 +1575,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -1639,7 +1639,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -1710,7 +1710,7 @@
               "jockeyName": "結月アオバ",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
