@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T19:40:15.608Z",
-  "generatedAtLabel": "2026/11/03 04:40",
+  "generatedAt": "2026-11-02T21:17:11.670Z",
+  "generatedAtLabel": "2026/11/03 06:17",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -114,29 +114,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20261104",
-      "eventName": "11月4日〇OP戦トンキョー競馬場",
-      "eventDate": "2026-11-04",
-      "eventDateLabel": "2026/11/04 22:00",
-      "deadline": "2026-11-02T21:00:00.000Z",
-      "deadlineLabel": "2026/11/03 06:00",
-      "raceId": "R01",
-      "raceNo": 2,
-      "raceNoLabel": "2R",
-      "raceName": "〇OP(別定A)落葉ステークストンキョー2400",
-      "grade": "OP(別定A)",
-      "trackType": "坂芝",
-      "course": "コース1",
-      "entryCondition": "予定開始時刻22:00。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
-      "maxEntries": 18,
-      "setRegistrationOwnerMaxEntries": 4,
-      "racehorseOnly": true,
-      "racehorseEventId": "90001",
-      "firstPrize": 800,
-      "firstPrizeLabel": "800万uma円",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20261104_1",
       "eventName": "11月4日〇未勝利戦トンキョー競馬場",
