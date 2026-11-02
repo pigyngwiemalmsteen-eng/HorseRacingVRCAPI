@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-01T15:44:40.708Z",
-  "generatedAtLabel": "2026/11/02 00:44",
+  "generatedAt": "2026-11-02T06:44:41.029Z",
+  "generatedAtLabel": "2026/11/02 15:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -3000,12 +3000,12 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 22:00 11月11日〇未勝利戦 ダート ケンターキー競馬場 ほか1件",
+      "eventSummary": "21:30 - 22:00 11月15日〇未勝利戦 ダート ケンターキー競馬場 ほか1件",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20261115_1",
-          "title": "11月11日〇未勝利戦 ダート ケンターキー競馬場",
+          "title": "11月15日〇未勝利戦 ダート ケンターキー競馬場",
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
@@ -3029,7 +3029,7 @@
         {
           "calendarEventId": "",
           "eventId": "20261115",
-          "title": "11月11日〇G2戦 ダート ケンターキー競馬場",
+          "title": "11月15日〇G2戦 ダート ケンターキー競馬",
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
