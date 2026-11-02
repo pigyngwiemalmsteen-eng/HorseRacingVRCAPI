@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-02T15:44:40.695Z",
-  "generatedAtLabel": "2026/11/03 00:44",
+  "generatedAt": "2026-11-02T19:44:41.554Z",
+  "generatedAtLabel": "2026/11/03 04:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -550,8 +550,8 @@
           "grade": "未勝利",
           "track": "平場芝",
           "course": "コース1",
-          "condition": "",
-          "firstPrize": 0,
+          "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+          "firstPrize": 400,
           "entries": [
             {
               "frameNumber": 1,
@@ -740,8 +740,8 @@
           "grade": "未勝利",
           "track": "平場芝",
           "course": "コース1",
-          "condition": "",
-          "firstPrize": 0,
+          "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
+          "firstPrize": 400,
           "entries": [
             {
               "frameNumber": 1,
