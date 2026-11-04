@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-03T21:16:59.770Z",
-  "generatedAtLabel": "2026/11/04 06:16",
+  "generatedAt": "2026-11-04T11:44:41.103Z",
+  "generatedAtLabel": "2026/11/04 20:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2275,35 +2275,6 @@
             {
               "frameNumber": 3,
               "horseNumber": 5,
-              "horseId": "H000552",
-              "horseName": "チナッチャンΣ【号】",
-              "ownerName": "とりとりのすけたろ",
-              "jockeyName": "まっつん",
-              "previousRuns": [
-                {
-                  "eventId": "20261025_1",
-                  "raceId": "R01-B",
-                  "raceName": "〇未勝利戦(別定A) とりのす2200 B組",
-                  "grade": "未勝利",
-                  "finishPosition": 8,
-                  "last3F": ""
-                },
-                {
-                  "eventId": "20261021",
-                  "raceId": "R01-B",
-                  "raceName": "〇未勝利戦(別定A) とりのす1600 B組",
-                  "grade": "未勝利",
-                  "finishPosition": 7,
-                  "last3F": ""
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 3,
-              "horseNumber": 6,
               "horseId": "H000619",
               "horseName": "シルレイキャット【号】",
               "ownerName": "ぎんねこ851",
@@ -2331,8 +2302,8 @@
               "thirdCount": 0
             },
             {
-              "frameNumber": 4,
-              "horseNumber": 7,
+              "frameNumber": 3,
+              "horseNumber": 6,
               "horseId": "H000611",
               "horseName": "ファイアストライクΣ【号】",
               "ownerName": "小雨xiaoyu",
@@ -2344,7 +2315,7 @@
             },
             {
               "frameNumber": 4,
-              "horseNumber": 8,
+              "horseNumber": 7,
               "horseId": "H000558",
               "horseName": "フロートゥルーラブΣ【号】",
               "ownerName": "Nagare -ながれ-",
@@ -2364,8 +2335,8 @@
               "thirdCount": 0
             },
             {
-              "frameNumber": 5,
-              "horseNumber": 9,
+              "frameNumber": 4,
+              "horseNumber": 8,
               "horseId": "H000531",
               "horseName": "テラコッタ羅【号】",
               "ownerName": "えーすけ。A_S_K",
@@ -2402,7 +2373,7 @@
             },
             {
               "frameNumber": 5,
-              "horseNumber": 10,
+              "horseNumber": 9,
               "horseId": "H000569",
               "horseName": "レーゲンタイガー§【号】",
               "ownerName": "雨乃ユウ",
@@ -2438,8 +2409,8 @@
               "thirdCount": 0
             },
             {
-              "frameNumber": 6,
-              "horseNumber": 11,
+              "frameNumber": 5,
+              "horseNumber": 10,
               "horseId": "H000576",
               "horseName": "ケイノユメ★★★【号】",
               "ownerName": "くぁたん",
@@ -2468,7 +2439,7 @@
             },
             {
               "frameNumber": 6,
-              "horseNumber": 12,
+              "horseNumber": 11,
               "horseId": "H000563",
               "horseName": "クロスウィザードΣ【号】",
               "ownerName": "カイ＿声帯損傷中",
@@ -2504,8 +2475,8 @@
               "thirdCount": 0
             },
             {
-              "frameNumber": 7,
-              "horseNumber": 13,
+              "frameNumber": 6,
+              "horseNumber": 12,
               "horseId": "H000544",
               "horseName": "アナタニオクル豊【号】",
               "ownerName": "inブリ",
@@ -2542,7 +2513,7 @@
             },
             {
               "frameNumber": 7,
-              "horseNumber": 14,
+              "horseNumber": 13,
               "horseId": "H000597",
               "horseName": "ナスジェネシアΨ【号】",
               "ownerName": "小雨xiaoyu",
@@ -2563,7 +2534,7 @@
             },
             {
               "frameNumber": 7,
-              "horseNumber": 15,
+              "horseNumber": 14,
               "horseId": "H000418",
               "horseName": "カナシール★★★【号】",
               "ownerName": "東雲れいあ",
@@ -2600,7 +2571,7 @@
             },
             {
               "frameNumber": 8,
-              "horseNumber": 16,
+              "horseNumber": 15,
               "horseId": "H000552",
               "horseName": "チナッチャンΣ【号】",
               "ownerName": "とりとりのすけたろ",
@@ -2629,7 +2600,7 @@
             },
             {
               "frameNumber": 8,
-              "horseNumber": 17,
+              "horseNumber": 16,
               "horseId": "H000561",
               "horseName": "ルナルナセブン豊【号】",
               "ownerName": "神威ルカ",
@@ -2666,7 +2637,7 @@
             },
             {
               "frameNumber": 8,
-              "horseNumber": 18,
+              "horseNumber": 17,
               "horseId": "H000547",
               "horseName": "ルチカホワイトレイ【号】",
               "ownerName": "YuyaKuga",
