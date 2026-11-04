@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-04T11:44:41.103Z",
-  "generatedAtLabel": "2026/11/04 20:44",
+  "generatedAt": "2026-11-04T15:44:40.631Z",
+  "generatedAtLabel": "2026/11/05 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 4,
+  "defaultRaceCardEventIndex": 5,
   "raceCards": [
     {
       "eventId": "20261031",
@@ -689,7 +689,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1908,7 +1908,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 1
+              "thirdCount": 2
             },
             {
               "frameNumber": 3,
@@ -1936,7 +1936,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1976,7 +1976,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -3503,8 +3503,8 @@
       "dateLabel": "11月4日（水）",
       "dayNumber": "4",
       "weekday": "水",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:00 11月4日〇未勝利戦トンキョー競馬場 ほか2件",
       "events": [
         {
@@ -3574,7 +3574,7 @@
       "dateLabel": "11月5日（木）",
       "dayNumber": "5",
       "weekday": "木",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
