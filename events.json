@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-07T21:16:56.680Z",
-  "generatedAtLabel": "2026/11/08 06:16",
+  "generatedAt": "2026-11-07T23:44:41.828Z",
+  "generatedAtLabel": "2026/11/08 08:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -4170,10 +4170,10 @@
       "races": [
         {
           "eventId": "20261108_1",
-          "raceId": "R01",
+          "raceId": "R01-A",
           "raceNumber": 1,
           "raceNo": "1R",
-          "raceName": "〇11月8日未勝利戦(別定A)トンキョー2000",
+          "raceName": "〇11月8日未勝利戦(別定A)トンキョー2000 A組",
           "grade": "未勝利",
           "track": "坂芝",
           "course": "コース2",
@@ -4183,37 +4183,33 @@
             {
               "frameNumber": 1,
               "horseNumber": 1,
-              "horseId": "H000618",
-              "horseName": "シュベルトゲベール豊【号】",
-              "ownerName": "SHINSHI0080",
-              "jockeyName": "メデタイラー",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 1,
-              "horseNumber": 2,
-              "horseId": "H000595",
-              "horseName": "グランアルバ★★★【号】",
-              "ownerName": "RuM-らむ-",
-              "jockeyName": "siyuu007",
+              "horseId": "H000576",
+              "horseName": "ケイノユメ★★★【号】",
+              "ownerName": "くぁたん",
+              "jockeyName": "yakisushi0619",
               "previousRuns": [
+                {
+                  "eventId": "20261107_1",
+                  "raceId": "R01",
+                  "raceName": "〇11月7日未勝利戦(別定A) ケンターキー1600",
+                  "grade": "未勝利",
+                  "finishPosition": 7,
+                  "last3F": "29秒44"
+                },
                 {
                   "eventId": "20261104_1",
                   "raceId": "R01",
                   "raceName": "〇11月4日未勝利戦(別定A)トンキョー2400",
                   "grade": "未勝利",
-                  "finishPosition": 6,
-                  "last3F": "31秒96"
+                  "finishPosition": 10,
+                  "last3F": "31秒14"
                 },
                 {
-                  "eventId": "20261031_1",
+                  "eventId": "20261021",
                   "raceId": "R01-A",
-                  "raceName": "〇未勝利戦(別定A) とりのす2400 A組",
+                  "raceName": "〇未勝利戦(別定A) とりのす1600 A組",
                   "grade": "未勝利",
-                  "finishPosition": 4,
+                  "finishPosition": 8,
                   "last3F": ""
                 }
               ],
@@ -4222,8 +4218,8 @@
               "thirdCount": 0
             },
             {
-              "frameNumber": 2,
-              "horseNumber": 3,
+              "frameNumber": 1,
+              "horseNumber": 2,
               "horseId": "H000569",
               "horseName": "レーゲンタイガー§【号】",
               "ownerName": "雨乃ユウ",
@@ -4260,6 +4256,27 @@
             },
             {
               "frameNumber": 2,
+              "horseNumber": 3,
+              "horseId": "H000536",
+              "horseName": "パスジェネシス★★★【号】",
+              "ownerName": "PASTAKU(ぱすたく)",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [
+                {
+                  "eventId": "20261017",
+                  "raceId": "R01",
+                  "raceName": "〇メイクデビュー とりのす2400",
+                  "grade": "新馬",
+                  "finishPosition": 10,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 2,
               "horseNumber": 4,
               "horseId": "H000564",
               "horseName": "マガリャンイス【号】",
@@ -4282,18 +4299,18 @@
             {
               "frameNumber": 3,
               "horseNumber": 5,
-              "horseId": "H000586",
-              "horseName": "ネオナノガ★★★★【号】",
-              "ownerName": "なぎっちゅ。",
-              "jockeyName": "yakisushi0619",
+              "horseId": "H000620",
+              "horseName": "メルキングギドラδ【号】",
+              "ownerName": "あかいくん",
+              "jockeyName": "あかいくん",
               "previousRuns": [
                 {
-                  "eventId": "20261104",
-                  "raceId": "R01",
-                  "raceName": "〇OP(別定A)落葉ステークストンキョー2400",
-                  "grade": "OP(別定A)",
-                  "finishPosition": 10,
-                  "last3F": "31秒33"
+                  "eventId": "20261031_1",
+                  "raceId": "R01-A",
+                  "raceName": "〇未勝利戦(別定A) とりのす2400 A組",
+                  "grade": "未勝利",
+                  "finishPosition": 8,
+                  "last3F": ""
                 }
               ],
               "firstCount": 0,
@@ -4340,33 +4357,17 @@
             {
               "frameNumber": 4,
               "horseNumber": 7,
-              "horseId": "H000576",
-              "horseName": "ケイノユメ★★★【号】",
-              "ownerName": "くぁたん",
-              "jockeyName": "神威ルカ",
+              "horseId": "H000584",
+              "horseName": "エクボックスλ【号】",
+              "ownerName": "キョンシー",
+              "jockeyName": "キョンシー",
               "previousRuns": [
-                {
-                  "eventId": "20261107_1",
-                  "raceId": "R01",
-                  "raceName": "〇11月7日未勝利戦(別定A) ケンターキー1600",
-                  "grade": "未勝利",
-                  "finishPosition": 7,
-                  "last3F": "29秒44"
-                },
-                {
-                  "eventId": "20261104_1",
-                  "raceId": "R01",
-                  "raceName": "〇11月4日未勝利戦(別定A)トンキョー2400",
-                  "grade": "未勝利",
-                  "finishPosition": 10,
-                  "last3F": "31秒14"
-                },
                 {
                   "eventId": "20261021",
                   "raceId": "R01-A",
                   "raceName": "〇未勝利戦(別定A) とりのす1600 A組",
                   "grade": "未勝利",
-                  "finishPosition": 8,
+                  "finishPosition": 4,
                   "last3F": ""
                 }
               ],
@@ -4377,39 +4378,6 @@
             {
               "frameNumber": 4,
               "horseNumber": 8,
-              "horseId": "H000616",
-              "horseName": "シナシナキャットβ【号】",
-              "ownerName": "ぎんねこ851",
-              "jockeyName": "東雲れいあ",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 5,
-              "horseNumber": 9,
-              "horseId": "H000620",
-              "horseName": "メルキングギドラδ【号】",
-              "ownerName": "あかいくん",
-              "jockeyName": "あかいくん",
-              "previousRuns": [
-                {
-                  "eventId": "20261031_1",
-                  "raceId": "R01-A",
-                  "raceName": "〇未勝利戦(別定A) とりのす2400 A組",
-                  "grade": "未勝利",
-                  "finishPosition": 8,
-                  "last3F": ""
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 5,
-              "horseNumber": 10,
               "horseId": "H000533",
               "horseName": "アグニトマホークΣ【号】",
               "ownerName": "Sigure_Mia",
@@ -4437,19 +4405,62 @@
               "thirdCount": 0
             },
             {
-              "frameNumber": 6,
-              "horseNumber": 11,
-              "horseId": "H000536",
-              "horseName": "パスジェネシス★★★【号】",
-              "ownerName": "PASTAKU(ぱすたく)",
-              "jockeyName": "小雨xiaoyu",
+              "frameNumber": 5,
+              "horseNumber": 9,
+              "horseId": "H000582",
+              "horseName": "test【号】",
+              "ownerName": "なぎっちゅ。",
+              "jockeyName": "なぎっちゅ。",
               "previousRuns": [
                 {
-                  "eventId": "20261017",
+                  "eventId": "20261021",
+                  "raceId": "R01-B",
+                  "raceName": "〇未勝利戦(別定A) とりのす1600 B組",
+                  "grade": "未勝利",
+                  "finishPosition": 6,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            }
+          ]
+        },
+        {
+          "eventId": "20261108_1",
+          "raceId": "R01-B",
+          "raceNumber": 1,
+          "raceNo": "1R",
+          "raceName": "〇11月8日未勝利戦(別定A)トンキョー2000 B組",
+          "grade": "未勝利",
+          "track": "坂芝",
+          "course": "コース2",
+          "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
+          "firstPrize": 400,
+          "entries": [
+            {
+              "frameNumber": 1,
+              "horseNumber": 1,
+              "horseId": "H000595",
+              "horseName": "グランアルバ★★★【号】",
+              "ownerName": "RuM-らむ-",
+              "jockeyName": "siyuu007",
+              "previousRuns": [
+                {
+                  "eventId": "20261104_1",
                   "raceId": "R01",
-                  "raceName": "〇メイクデビュー とりのす2400",
-                  "grade": "新馬",
-                  "finishPosition": 10,
+                  "raceName": "〇11月4日未勝利戦(別定A)トンキョー2400",
+                  "grade": "未勝利",
+                  "finishPosition": 6,
+                  "last3F": "31秒96"
+                },
+                {
+                  "eventId": "20261031_1",
+                  "raceId": "R01-A",
+                  "raceName": "〇未勝利戦(別定A) とりのす2400 A組",
+                  "grade": "未勝利",
+                  "finishPosition": 4,
                   "last3F": ""
                 }
               ],
@@ -4458,8 +4469,8 @@
               "thirdCount": 0
             },
             {
-              "frameNumber": 6,
-              "horseNumber": 12,
+              "frameNumber": 1,
+              "horseNumber": 2,
               "horseId": "H000547",
               "horseName": "ルチカホワイトレイ【号】",
               "ownerName": "YuyaKuga",
@@ -4495,62 +4506,8 @@
               "thirdCount": 2
             },
             {
-              "frameNumber": 7,
-              "horseNumber": 13,
-              "horseId": "H000588",
-              "horseName": "ナノブースト羅【号】",
-              "ownerName": "Nele-san",
-              "jockeyName": "Nele-san",
-              "previousRuns": [
-                {
-                  "eventId": "20261031_1",
-                  "raceId": "R01-A",
-                  "raceName": "〇未勝利戦(別定A) とりのす2400 A組",
-                  "grade": "未勝利",
-                  "finishPosition": 5,
-                  "last3F": ""
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 7,
-              "horseNumber": 14,
-              "horseId": "H000582",
-              "horseName": "test【号】",
-              "ownerName": "なぎっちゅ。",
-              "jockeyName": "なぎっちゅ。",
-              "previousRuns": [
-                {
-                  "eventId": "20261021",
-                  "raceId": "R01-B",
-                  "raceName": "〇未勝利戦(別定A) とりのす1600 B組",
-                  "grade": "未勝利",
-                  "finishPosition": 6,
-                  "last3F": ""
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 7,
-              "horseNumber": 15,
-              "horseId": "H000612",
-              "horseName": "チノファング【号】",
-              "ownerName": "SHINSHI0080",
-              "jockeyName": "SHINSHI0080",
-              "previousRuns": [],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 8,
-              "horseNumber": 16,
+              "frameNumber": 2,
+              "horseNumber": 3,
               "horseId": "H000527",
               "horseName": "エンジェルガーデン§【号】",
               "ownerName": "結月アオバ",
@@ -4586,8 +4543,86 @@
               "thirdCount": 1
             },
             {
-              "frameNumber": 8,
-              "horseNumber": 17,
+              "frameNumber": 2,
+              "horseNumber": 4,
+              "horseId": "H000612",
+              "horseName": "チノファング【号】",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "SHINSHI0080",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 5,
+              "horseId": "H000618",
+              "horseName": "シュベルトゲベール豊【号】",
+              "ownerName": "SHINSHI0080",
+              "jockeyName": "メデタイラー",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 3,
+              "horseNumber": 6,
+              "horseId": "H000588",
+              "horseName": "ナノブースト羅【号】",
+              "ownerName": "Nele-san",
+              "jockeyName": "Nele-san",
+              "previousRuns": [
+                {
+                  "eventId": "20261031_1",
+                  "raceId": "R01-A",
+                  "raceName": "〇未勝利戦(別定A) とりのす2400 A組",
+                  "grade": "未勝利",
+                  "finishPosition": 5,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 7,
+              "horseId": "H000616",
+              "horseName": "シナシナキャットβ【号】",
+              "ownerName": "ぎんねこ851",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 4,
+              "horseNumber": 8,
+              "horseId": "H000586",
+              "horseName": "ネオナノガ★★★★【号】",
+              "ownerName": "なぎっちゅ。",
+              "jockeyName": "神威ルカ",
+              "previousRuns": [
+                {
+                  "eventId": "20261104",
+                  "raceId": "R01",
+                  "raceName": "〇OP(別定A)落葉ステークストンキョー2400",
+                  "grade": "OP(別定A)",
+                  "finishPosition": 10,
+                  "last3F": "31秒33"
+                }
+              ],
+              "firstCount": 0,
+              "secondCount": 0,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 5,
+              "horseNumber": 9,
               "horseId": "H000600",
               "horseName": "レーゲンブロッサムΨ【号】",
               "ownerName": "Annulaire",
@@ -4615,27 +4650,6 @@
                   "raceName": "〇未勝利戦(別定A) ケンターキー2000",
                   "grade": "未勝利",
                   "finishPosition": 12,
-                  "last3F": ""
-                }
-              ],
-              "firstCount": 0,
-              "secondCount": 0,
-              "thirdCount": 0
-            },
-            {
-              "frameNumber": 8,
-              "horseNumber": 18,
-              "horseId": "H000584",
-              "horseName": "エクボックスλ【号】",
-              "ownerName": "キョンシー",
-              "jockeyName": "キョンシー",
-              "previousRuns": [
-                {
-                  "eventId": "20261021",
-                  "raceId": "R01-A",
-                  "raceName": "〇未勝利戦(別定A) とりのす1600 A組",
-                  "grade": "未勝利",
-                  "finishPosition": 4,
                   "last3F": ""
                 }
               ],
