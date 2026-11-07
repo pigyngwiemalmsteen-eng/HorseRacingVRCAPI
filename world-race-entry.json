@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T21:22:47.390Z",
-  "generatedAtLabel": "2026/11/07 06:22",
+  "generatedAt": "2026-11-07T21:17:08.407Z",
+  "generatedAtLabel": "2026/11/08 06:17",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -114,29 +114,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20261108_1",
-      "eventName": "11月8日〇未勝利戦トンキョー競馬場",
-      "eventDate": "2026-11-08",
-      "eventDateLabel": "2026/11/08 21:30",
-      "deadline": "2026-11-07T21:00:00.000Z",
-      "deadlineLabel": "2026/11/08 06:00",
-      "raceId": "R01",
-      "raceNo": 1,
-      "raceNoLabel": "1R",
-      "raceName": "〇11月8日未勝利戦(別定A)トンキョー2000",
-      "grade": "未勝利",
-      "trackType": "坂芝",
-      "course": "コース2",
-      "entryCondition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
-      "maxEntries": 18,
-      "setRegistrationOwnerMaxEntries": 4,
-      "racehorseOnly": true,
-      "racehorseEventId": "90001",
-      "firstPrize": 400,
-      "firstPrizeLabel": "400万uma円",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20261111",
       "eventName": "11月11日〇G3戦 ダート ケンターキー競馬場",
