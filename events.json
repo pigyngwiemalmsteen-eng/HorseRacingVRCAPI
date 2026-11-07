@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-07T14:44:41.131Z",
-  "generatedAtLabel": "2026/11/07 23:44",
+  "generatedAt": "2026-11-07T15:44:47.179Z",
+  "generatedAtLabel": "2026/11/08 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 6,
+  "defaultRaceCardEventIndex": 8,
   "raceCards": [
     {
       "eventId": "20261031",
@@ -5093,8 +5093,8 @@
       "dateLabel": "11月7日（土）",
       "dayNumber": "7",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:00 11月7日〇未勝利戦ケンターキー競馬場 ほか1件",
       "events": [
         {
@@ -5153,7 +5153,7 @@
       "dateLabel": "11月8日（日）",
       "dayNumber": "8",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:30 - 22:00 11月8日〇未勝利戦トンキョー競馬場 ほか1件",
       "events": [
