@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-07T23:44:41.828Z",
-  "generatedAtLabel": "2026/11/08 08:44",
+  "generatedAt": "2026-11-08T14:44:40.744Z",
+  "generatedAtLabel": "2026/11/08 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -302,7 +302,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 5,
+              "firstCount": 6,
               "secondCount": 2,
               "thirdCount": 0
             },
@@ -477,7 +477,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -768,7 +768,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 1
             },
@@ -852,7 +852,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 2
+              "thirdCount": 3
             },
             {
               "frameNumber": 3,
@@ -918,7 +918,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -1538,7 +1538,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 2
+              "thirdCount": 3
             },
             {
               "frameNumber": 3,
@@ -1604,7 +1604,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -2147,7 +2147,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 2
+              "thirdCount": 3
             }
           ]
         }
@@ -2406,7 +2406,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -3169,7 +3169,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 2
+              "thirdCount": 3
             },
             {
               "frameNumber": 2,
@@ -3587,7 +3587,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -3623,7 +3623,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 5,
+              "firstCount": 6,
               "secondCount": 2,
               "thirdCount": 0
             },
@@ -4007,7 +4007,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 2
+              "thirdCount": 3
             },
             {
               "frameNumber": 7,
@@ -4252,7 +4252,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -4272,7 +4272,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -4421,7 +4421,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             }
@@ -4538,7 +4538,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 1
             },
@@ -4596,7 +4596,7 @@
               "jockeyName": "東雲れいあ",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -4655,7 +4655,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             }
           ]
         }
