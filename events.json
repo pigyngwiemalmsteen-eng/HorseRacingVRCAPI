@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-08T15:44:44.934Z",
-  "generatedAtLabel": "2026/11/09 00:44",
+  "generatedAt": "2026-11-09T05:44:42.672Z",
+  "generatedAtLabel": "2026/11/09 14:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -5846,8 +5846,19 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "21:30 - 00:00 11月18日〇未勝利戦 芝 桜坂競馬場 ほか2件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261118_1",
+          "title": "11月18日〇未勝利戦 芝 桜坂競馬場",
+          "timeLabel": "21:30 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
@@ -5857,6 +5868,17 @@
           "description": "",
           "status": "",
           "officialManaged": false,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261118",
+          "title": "11月18日〇G3戦 芝 桜坂競馬場",
+          "timeLabel": "22:00 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
           "races": []
         }
       ]
