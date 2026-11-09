@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-09T05:44:42.672Z",
-  "generatedAtLabel": "2026/11/09 14:44",
+  "generatedAt": "2026-11-09T06:44:41.693Z",
+  "generatedAtLabel": "2026/11/09 15:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -5846,13 +5846,13 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:30 - 00:00 11月18日〇未勝利戦 芝 桜坂競馬場 ほか2件",
+      "eventSummary": "21:30 - 22:00 11月18日〇未勝利戦 芝 桜坂競馬場 ほか2件",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20261118_1",
           "title": "11月18日〇未勝利戦 芝 桜坂競馬場",
-          "timeLabel": "21:30 - 00:00",
+          "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
           "status": "",
@@ -5874,7 +5874,7 @@
           "calendarEventId": "",
           "eventId": "20261118",
           "title": "11月18日〇G3戦 芝 桜坂競馬場",
-          "timeLabel": "22:00 - 00:00",
+          "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
           "status": "",
@@ -5925,8 +5925,31 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:30 - 22:00 11月21日〇未勝利戦 ケンターキー競馬場 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261121_1",
+          "title": "11月21日〇未勝利戦 ケンターキー競馬場",
+          "timeLabel": "21:30 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261121",
+          "title": "11月21日〇OP(L)戦 ダート ケンターキー競馬場",
+          "timeLabel": "22:00 - 22:30",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-11-22",
