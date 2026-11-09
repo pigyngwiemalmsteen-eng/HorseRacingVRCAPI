@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T18:37:07.691Z",
-  "generatedAtLabel": "2026/11/10 03:37",
+  "generatedAt": "2026-11-09T21:22:40.097Z",
+  "generatedAtLabel": "2026/11/10 06:22",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -116,29 +116,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20261111",
-      "eventName": "11月11日〇G3戦 ダート ケンターキー競馬場",
-      "eventDate": "2026-11-11",
-      "eventDateLabel": "2026/11/11 22:00",
-      "deadline": "2026-11-09T21:00:00.000Z",
-      "deadlineLabel": "2026/11/10 06:00",
-      "raceId": "R01",
-      "raceNo": 2,
-      "raceNoLabel": "2R",
-      "raceName": "〇G3(別定B) 立冬ステークス ケンターキー1600",
-      "grade": "G3(別定B)",
-      "trackType": "ダート",
-      "course": "コース2",
-      "entryCondition": "予定開始時刻22:00。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
-      "maxEntries": 18,
-      "setRegistrationOwnerMaxEntries": 4,
-      "racehorseOnly": true,
-      "racehorseEventId": "90001",
-      "firstPrize": 2400,
-      "firstPrizeLabel": "2400万uma円",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20261111_1",
       "eventName": "11月11日〇未勝利戦 ダート ケンターキー競馬場",
