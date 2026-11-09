@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-09T11:44:41.620Z",
-  "generatedAtLabel": "2026/11/09 20:44",
+  "generatedAt": "2026-11-09T14:44:45.460Z",
+  "generatedAtLabel": "2026/11/09 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -5974,7 +5974,56 @@
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇11月21日未勝利戦(別定A)《芝》",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "〇11月21日未勝利戦(別定A)《ダート》",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R03",
+              "raceNo": "3R",
+              "raceName": "〇11月21日OP戦(別定A)",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R04",
+              "raceNo": "4R",
+              "raceName": "〇11月21日OP(L)(別定B) スピリットサークルアニメ化記念杯《ダート》",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            }
+          ]
         }
       ]
     },
@@ -5997,7 +6046,56 @@
           "description": "",
           "status": "",
           "officialManaged": true,
-          "races": []
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "〇11月22日",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "〇11月22日",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R03",
+              "raceNo": "3R",
+              "raceName": "〇11月22日",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R04",
+              "raceNo": "4R",
+              "raceName": "〇11月22日",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            }
+          ]
         }
       ]
     },
