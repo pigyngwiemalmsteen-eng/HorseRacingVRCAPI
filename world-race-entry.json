@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T11:40:17.033Z",
-  "generatedAtLabel": "2026/11/09 20:40",
+  "generatedAt": "2026-11-09T17:40:16.686Z",
+  "generatedAtLabel": "2026/11/10 02:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -268,7 +268,7 @@
       "grade": "G1",
       "trackType": "桜坂競馬場",
       "course": "コース4（ダート・1800m）",
-      "entryCondition": "予定開始時刻22:10。最大出走頭数18頭。優先出走権を持っている馬は出走可能。他の枠は賞金順で出走抽選。分割なし。馬条件：なし。一着獲得賞金20000万。",
+      "entryCondition": "予定開始時刻22:10。出走条件：なし（最大18頭 / 分割なし）。選定方法：優先出走権を持っている馬が優先。他の枠は賞金順抽選。1着獲得賞金20000万。寿命の進み：出走で 3（勝利時は4）。",
       "maxEntries": 18,
       "setRegistrationOwnerMaxEntries": 4,
       "racehorseOnly": true,
