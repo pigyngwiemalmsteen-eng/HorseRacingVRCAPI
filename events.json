@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-09T06:44:41.693Z",
-  "generatedAtLabel": "2026/11/09 15:44",
+  "generatedAt": "2026-11-09T07:44:43.648Z",
+  "generatedAtLabel": "2026/11/09 16:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -5959,8 +5959,31 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "00:00 - 00:00 11月22日〇G3戦 芝 桜坂競馬場 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261122",
+          "title": "11月22日〇G3戦 芝 桜坂競馬場",
+          "timeLabel": "00:00 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261122_1",
+          "title": "11月22日〇未勝利戦 桜坂競馬場",
+          "timeLabel": "00:00 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-11-23",
@@ -5992,8 +6015,30 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "00:00 - 00:00 11月25日〇OP戦 ダート ケンターキー競馬場 ほか2件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261125",
+          "title": "11月25日〇OP戦 ダート ケンターキー競馬場",
+          "timeLabel": "00:00 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261125_1",
+          "title": "11月25日〇未勝利戦 ダート ケンターキー競馬場",
+          "timeLabel": "00:00 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
@@ -6049,8 +6094,31 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "00:00 - 00:00 11月28日〇G3戦 芝 桜坂競馬場 ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261128",
+          "title": "11月28日〇G3戦 芝 桜坂競馬場",
+          "timeLabel": "00:00 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261128_1",
+          "title": "11月28日〇未勝利戦 桜坂競馬場",
+          "timeLabel": "00:00 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-11-29",
@@ -6060,8 +6128,19 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 22:30 11月29日〇G1戦 ケンターキー競馬場",
+      "eventSummary": "00:00 - 00:00 11月29日〇未勝利戦 ダート ケンターキー競馬場 ほか1件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261129_1",
+          "title": "11月29日〇未勝利戦 ダート ケンターキー競馬場",
+          "timeLabel": "00:00 - 00:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "",
           "eventId": "20261129",
