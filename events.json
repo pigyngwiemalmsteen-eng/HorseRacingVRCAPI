@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-09T07:44:43.648Z",
-  "generatedAtLabel": "2026/11/09 16:44",
+  "generatedAt": "2026-11-09T09:44:48.829Z",
+  "generatedAtLabel": "2026/11/09 18:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -5941,7 +5941,7 @@
         {
           "calendarEventId": "",
           "eventId": "20261121",
-          "title": "11月21日〇OP(L)戦 ダート ケンターキー競馬場",
+          "title": "11月21日〇OP(L)戦 ダート 桜坂競馬場",
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
