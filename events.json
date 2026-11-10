@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-09T21:21:58.047Z",
-  "generatedAtLabel": "2026/11/10 06:21",
+  "generatedAt": "2026-11-10T04:44:40.788Z",
+  "generatedAtLabel": "2026/11/10 13:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -494,6 +494,43 @@
               "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 15,
+              "horseId": "H000446",
+              "horseName": "カナコイン§【号】",
+              "ownerName": "東雲れいあ",
+              "jockeyName": "東雲れいあ",
+              "previousRuns": [
+                {
+                  "eventId": "20261025_1",
+                  "raceId": "R01-A",
+                  "raceName": "〇未勝利戦(別定A) とりのす2200 A組",
+                  "grade": "未勝利",
+                  "finishPosition": 1,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20260926",
+                  "raceId": "R01",
+                  "raceName": "㋛G1 冠月賞",
+                  "grade": "G1",
+                  "finishPosition": 11,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20260923",
+                  "raceId": "R03",
+                  "raceName": "㋛OP 秋嵐ステークス",
+                  "grade": "OP",
+                  "finishPosition": 3,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 1,
+              "secondCount": 1,
+              "thirdCount": 1
             }
           ]
         }
@@ -1481,7 +1518,7 @@
           "timeLabel": "22:00 - 22:30",
           "location": "",
           "description": "",
-          "status": "公開済",
+          "status": "出走表作成済",
           "officialManaged": true,
           "races": [
             {
@@ -1494,7 +1531,7 @@
               "condition": "予定開始時刻22:00。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
               "firstPrize": 2400,
               "displayCondition": "ダート / コース2 / 予定開始時刻22:00。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金2400万。",
-              "status": "公開済"
+              "status": "出走表作成済"
             }
           ]
         }
