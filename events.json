@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-10T13:26:57.928Z",
-  "generatedAtLabel": "2026/11/10 22:26",
+  "generatedAt": "2026-11-10T15:44:41.320Z",
+  "generatedAtLabel": "2026/11/11 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1461,8 +1461,8 @@
       "dateLabel": "11月10日（火）",
       "dayNumber": "10",
       "weekday": "火",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "予定なし",
       "events": []
     },
@@ -1472,7 +1472,7 @@
       "dateLabel": "11月11日（水）",
       "dayNumber": "11",
       "weekday": "水",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:30 - 22:00 11月11日〇未勝利戦 ダート ケンターキー競馬場 ほか2件",
       "events": [
@@ -1483,7 +1483,7 @@
           "timeLabel": "21:30 - 22:00",
           "location": "",
           "description": "",
-          "status": "募集中",
+          "status": "回答集計済",
           "officialManaged": true,
           "races": [
             {
@@ -1496,7 +1496,7 @@
               "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
               "firstPrize": 400,
               "displayCondition": "ダート / コース2 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": "募集中"
+              "status": "回答集計済"
             }
           ]
         },
