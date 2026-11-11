@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-11T15:44:41.115Z",
-  "generatedAtLabel": "2026/11/12 00:44",
+  "generatedAt": "2026-11-11T16:44:40.515Z",
+  "generatedAtLabel": "2026/11/12 01:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -108,7 +108,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -344,7 +344,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -530,7 +530,7 @@
               ],
               "firstCount": 1,
               "secondCount": 1,
-              "thirdCount": 1
+              "thirdCount": 2
             }
           ]
         }
@@ -689,7 +689,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -727,7 +727,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 1
+              "thirdCount": 2
             },
             {
               "frameNumber": 4,
@@ -828,7 +828,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
