@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-11T16:44:40.515Z",
-  "generatedAtLabel": "2026/11/12 01:44",
+  "generatedAt": "2026-11-12T09:44:41.587Z",
+  "generatedAtLabel": "2026/11/12 18:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2379,12 +2379,12 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "21:10 - 22:30 11月22日〇【桜坂競馬場】G3 イントレピッドステークス《芝》（他3レース）",
+      "eventSummary": "21:10 - 22:30 11月22日〇【桜坂競馬場】G3 ボジョレーヌーヴォーカップ《芝》（他3レース）",
       "events": [
         {
           "calendarEventId": "",
           "eventId": "20261122",
-          "title": "11月22日〇【桜坂競馬場】G3 イントレピッドステークス《芝》（他3レース）",
+          "title": "11月22日〇【桜坂競馬場】G3 ボジョレーヌーヴォーカップ《芝》（他3レース）",
           "timeLabel": "21:10 - 22:30",
           "location": "",
           "description": "",
