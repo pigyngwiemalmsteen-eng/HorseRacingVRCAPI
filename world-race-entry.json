@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T21:17:19.777Z",
-  "generatedAtLabel": "2026/11/11 06:17",
+  "generatedAt": "2026-11-12T09:40:16.323Z",
+  "generatedAtLabel": "2026/11/12 18:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -394,7 +394,7 @@
     },
     {
       "eventId": "20261122",
-      "eventName": "11月22日〇【桜坂競馬場】G3 イントレピッドステークス《芝》（他3レース）",
+      "eventName": "11月22日〇【桜坂競馬場】G3 ボジョレーヌーヴォーカップ《芝》（他3レース）",
       "eventDate": "2026-11-22",
       "eventDateLabel": "2026/11/22 21:10",
       "deadline": "2026-11-21T21:00:00.000Z",
@@ -417,7 +417,7 @@
     },
     {
       "eventId": "20261122",
-      "eventName": "11月22日〇【桜坂競馬場】G3 イントレピッドステークス《芝》（他3レース）",
+      "eventName": "11月22日〇【桜坂競馬場】G3 ボジョレーヌーヴォーカップ《芝》（他3レース）",
       "eventDate": "2026-11-22",
       "eventDateLabel": "2026/11/22 21:10",
       "deadline": "2026-11-21T21:00:00.000Z",
@@ -440,7 +440,7 @@
     },
     {
       "eventId": "20261122",
-      "eventName": "11月22日〇【桜坂競馬場】G3 イントレピッドステークス《芝》（他3レース）",
+      "eventName": "11月22日〇【桜坂競馬場】G3 ボジョレーヌーヴォーカップ《芝》（他3レース）",
       "eventDate": "2026-11-22",
       "eventDateLabel": "2026/11/22 21:10",
       "deadline": "2026-11-21T21:00:00.000Z",
@@ -463,7 +463,7 @@
     },
     {
       "eventId": "20261122",
-      "eventName": "11月22日〇【桜坂競馬場】G3 イントレピッドステークス《芝》（他3レース）",
+      "eventName": "11月22日〇【桜坂競馬場】G3 ボジョレーヌーヴォーカップ《芝》（他3レース）",
       "eventDate": "2026-11-22",
       "eventDateLabel": "2026/11/22 21:10",
       "deadline": "2026-11-21T21:00:00.000Z",
