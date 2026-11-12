@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T09:40:16.323Z",
-  "generatedAtLabel": "2026/11/12 18:40",
+  "generatedAt": "2026-11-12T21:40:16.159Z",
+  "generatedAtLabel": "2026/11/13 06:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -116,29 +116,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20261114",
-      "eventName": "11月14日〇OP戦 芝 トンキョー競馬場",
-      "eventDate": "2026-11-14",
-      "eventDateLabel": "2026/11/14 22:00",
-      "deadline": "2026-11-12T21:00:00.000Z",
-      "deadlineLabel": "2026/11/13 06:00",
-      "raceId": "R01",
-      "raceNo": 2,
-      "raceNoLabel": "2R",
-      "raceName": "〇OP(別定B) マカレル賞 トンキョー1600",
-      "grade": "OP(別定B)",
-      "trackType": "トンキョー競馬場",
-      "course": "コース3（芝・1600m）",
-      "entryCondition": "予定開始時刻22:00。最大出走頭数18頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金1200万。",
-      "maxEntries": 18,
-      "setRegistrationOwnerMaxEntries": 4,
-      "racehorseOnly": true,
-      "racehorseEventId": "90001",
-      "firstPrize": 1200,
-      "firstPrizeLabel": "1200万uma円",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20261114_1",
       "eventName": "11月14日〇未勝利戦 芝 トンキョー競馬場",
