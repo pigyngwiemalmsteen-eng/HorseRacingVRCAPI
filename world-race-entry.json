@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T21:22:10.351Z",
-  "generatedAtLabel": "2026/11/14 06:22",
+  "generatedAt": "2026-11-14T21:40:17.994Z",
+  "generatedAtLabel": "2026/11/15 06:40",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "entryApiUrl": "https://vra-proj.web.app/api/world-race-entry",
@@ -116,29 +116,6 @@
     "风须sayuri"
   ],
   "races": [
-    {
-      "eventId": "20261115_1",
-      "eventName": "11月15日〇未勝利戦 ダート ケンターキー競馬場",
-      "eventDate": "2026-11-15",
-      "eventDateLabel": "2026/11/15 21:30",
-      "deadline": "2026-11-14T21:00:00.000Z",
-      "deadlineLabel": "2026/11/15 06:00",
-      "raceId": "R01",
-      "raceNo": 1,
-      "raceNoLabel": "1R",
-      "raceName": "〇11月15日未勝利戦(別定A)ケンターキー2000",
-      "grade": "未勝利",
-      "trackType": "ケンターキー競馬場",
-      "course": "コース1（ダート・2000m）",
-      "entryCondition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：仮想中央競馬で一着を取った事ない馬。一着獲得賞金400万。",
-      "maxEntries": 18,
-      "setRegistrationOwnerMaxEntries": 4,
-      "racehorseOnly": true,
-      "racehorseEventId": "90001",
-      "firstPrize": 400,
-      "firstPrizeLabel": "400万uma円",
-      "applicationType": "normalSet"
-    },
     {
       "eventId": "20261118",
       "eventName": "11月18日〇【桜坂競馬場】G3 桜坂競馬場開場記念《芝》（他3レース）",
