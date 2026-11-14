@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-14T14:44:40.751Z",
-  "generatedAtLabel": "2026/11/14 23:44",
+  "generatedAt": "2026-11-14T15:44:40.939Z",
+  "generatedAtLabel": "2026/11/15 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 0,
+  "defaultRaceCardEventIndex": 2,
   "raceCards": [
     {
       "eventId": "20261114",
@@ -2477,8 +2477,8 @@
       "dateLabel": "11月14日（土）",
       "dayNumber": "14",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:00 11月14日〇未勝利戦 芝 トンキョー競馬場 ほか1件",
       "events": [
         {
@@ -2537,7 +2537,7 @@
       "dateLabel": "11月15日（日）",
       "dayNumber": "15",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:30 - 22:00 11月15日〇未勝利戦 ダート ケンターキー競馬場 ほか1件",
       "events": [
