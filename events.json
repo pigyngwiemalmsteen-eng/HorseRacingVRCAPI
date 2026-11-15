@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-15T14:44:41.077Z",
-  "generatedAtLabel": "2026/11/15 23:44",
+  "generatedAt": "2026-11-15T15:44:41.063Z",
+  "generatedAtLabel": "2026/11/16 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 2,
+  "defaultRaceCardEventIndex": 3,
   "raceCards": [
     {
       "eventId": "20261114",
@@ -1723,181 +1723,6 @@
   "visibleDayCount": 28,
   "days": [
     {
-      "dateKey": "2026-10-12",
-      "displayDate": "2026.10.12",
-      "dateLabel": "10月12日（月）",
-      "dayNumber": "12",
-      "weekday": "月",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-10-13",
-      "displayDate": "2026.10.13",
-      "dateLabel": "10月13日（火）",
-      "dayNumber": "13",
-      "weekday": "火",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-10-14",
-      "displayDate": "2026.10.14",
-      "dateLabel": "10月14日（水）",
-      "dayNumber": "14",
-      "weekday": "水",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "22:00 - 23:00 定期交流会",
-      "events": [
-        {
-          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
-          "eventId": "",
-          "title": "定期交流会",
-          "timeLabel": "22:00 - 23:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-10-15",
-      "displayDate": "2026.10.15",
-      "dateLabel": "10月15日（木）",
-      "dayNumber": "15",
-      "weekday": "木",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-10-16",
-      "displayDate": "2026.10.16",
-      "dateLabel": "10月16日（金）",
-      "dayNumber": "16",
-      "weekday": "金",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-10-17",
-      "displayDate": "2026.10.17",
-      "dateLabel": "10月17日（土）",
-      "dayNumber": "17",
-      "weekday": "土",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:30 - 22:30 10月17日〇新馬戦 とりのす競馬場",
-      "events": [
-        {
-          "calendarEventId": "",
-          "eventId": "20261017",
-          "title": "10月17日〇新馬戦 とりのす競馬場",
-          "timeLabel": "21:30 - 22:30",
-          "location": "",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "〇メイクデビュー とりのす2400",
-              "grade": "新馬",
-              "track": "平場芝",
-              "course": "コース1",
-              "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
-              "firstPrize": 440,
-              "displayCondition": "平場芝 / コース1 / 予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
-              "status": "公開済"
-            },
-            {
-              "raceId": "R02",
-              "raceNo": "2R",
-              "raceName": "〇メイクデビュー とりのす2000",
-              "grade": "新馬",
-              "track": "平場芝",
-              "course": "コース2",
-              "condition": "予定開始時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
-              "firstPrize": 440,
-              "displayCondition": "平場芝 / コース2 / 予定開始時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
-              "status": "公開済"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-10-18",
-      "displayDate": "2026.10.18",
-      "dateLabel": "10月18日（日）",
-      "dayNumber": "18",
-      "weekday": "日",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:30 - 22:30 10月18日〇新馬戦 ケンターキー競馬場",
-      "events": [
-        {
-          "calendarEventId": "",
-          "eventId": "20261018",
-          "title": "10月18日〇新馬戦 ケンターキー競馬場",
-          "timeLabel": "21:30 - 22:30",
-          "location": "",
-          "description": "",
-          "status": "出走表作成済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "〇メイクデビュー ケンターキー2000",
-              "grade": "新馬",
-              "track": "ダート",
-              "course": "コース1",
-              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
-              "firstPrize": 440,
-              "displayCondition": "ダート / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
-              "status": "出走表作成済"
-            },
-            {
-              "raceId": "R02",
-              "raceNo": "2R",
-              "raceName": "〇メイクデビュー ケンターキー1600",
-              "grade": "新馬",
-              "track": "ダート",
-              "course": "コース2",
-              "condition": "予定開始時刻22:00。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
-              "firstPrize": 440,
-              "displayCondition": "ダート / コース2 / 予定開始時刻22:00。最大出走頭数18頭。分割あり。馬条件：本開催で出走履歴がない馬。一着獲得賞金440万。",
-              "status": "出走表作成済"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "dateKey": "2026-10-19",
       "displayDate": "2026.10.19",
       "dateLabel": "10月19日（月）",
@@ -2819,8 +2644,8 @@
       "dateLabel": "11月15日（日）",
       "dayNumber": "15",
       "weekday": "日",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:30 - 22:00 11月15日〇未勝利戦 ダート ケンターキー競馬場 ほか1件",
       "events": [
         {
@@ -2879,7 +2704,7 @@
       "dateLabel": "11月16日（月）",
       "dayNumber": "16",
       "weekday": "月",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
@@ -3950,6 +3775,107 @@
       "displayDate": "2027.01.03",
       "dateLabel": "1月3日（日）",
       "dayNumber": "3",
+      "weekday": "日",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2027-01-04",
+      "displayDate": "2027.01.04",
+      "dateLabel": "1月4日（月）",
+      "dayNumber": "4",
+      "weekday": "月",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2027-01-05",
+      "displayDate": "2027.01.05",
+      "dateLabel": "1月5日（火）",
+      "dayNumber": "5",
+      "weekday": "火",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2027-01-06",
+      "displayDate": "2027.01.06",
+      "dateLabel": "1月6日（水）",
+      "dayNumber": "6",
+      "weekday": "水",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2027-01-07",
+      "displayDate": "2027.01.07",
+      "dateLabel": "1月7日（木）",
+      "dayNumber": "7",
+      "weekday": "木",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2027-01-08",
+      "displayDate": "2027.01.08",
+      "dateLabel": "1月8日（金）",
+      "dayNumber": "8",
+      "weekday": "金",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2027-01-09",
+      "displayDate": "2027.01.09",
+      "dateLabel": "1月9日（土）",
+      "dayNumber": "9",
+      "weekday": "土",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2027-01-10",
+      "displayDate": "2027.01.10",
+      "dateLabel": "1月10日（日）",
+      "dayNumber": "10",
       "weekday": "日",
       "isToday": false,
       "isPast": false,
