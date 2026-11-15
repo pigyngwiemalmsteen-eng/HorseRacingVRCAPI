@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-15T01:31:57.267Z",
-  "generatedAtLabel": "2026/11/15 10:31",
+  "generatedAt": "2026-11-15T14:44:41.077Z",
+  "generatedAtLabel": "2026/11/15 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -616,7 +616,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 1
+              "thirdCount": 2
             },
             {
               "frameNumber": 3,
@@ -1002,7 +1002,7 @@
               ],
               "firstCount": 1,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 1,
@@ -1038,7 +1038,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1391,7 +1391,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 1
             },
@@ -1628,7 +1628,7 @@
                   "last3F": "31秒76"
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 2
             },
@@ -1641,7 +1641,7 @@
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1683,7 +1683,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 1
+              "thirdCount": 2
             },
             {
               "frameNumber": 5,
