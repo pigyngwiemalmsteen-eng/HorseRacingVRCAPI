@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-15T15:44:41.063Z",
-  "generatedAtLabel": "2026/11/16 00:44",
+  "generatedAt": "2026-11-16T15:44:41.269Z",
+  "generatedAtLabel": "2026/11/17 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2704,8 +2704,8 @@
       "dateLabel": "11月16日（月）",
       "dayNumber": "16",
       "weekday": "月",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "予定なし",
       "events": []
     },
@@ -2715,7 +2715,7 @@
       "dateLabel": "11月17日（火）",
       "dayNumber": "17",
       "weekday": "火",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
