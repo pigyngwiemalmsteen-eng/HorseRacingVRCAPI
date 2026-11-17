@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-16T15:44:41.269Z",
-  "generatedAtLabel": "2026/11/17 00:44",
+  "generatedAt": "2026-11-17T02:44:42.640Z",
+  "generatedAtLabel": "2026/11/17 11:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -3179,7 +3179,7 @@
             {
               "raceId": "R04",
               "raceNo": "4R",
-              "raceName": "〇11月28日G3(別定B)ブラックフライデーステークス《ダート》",
+              "raceName": "〇11月28日G3(別定B)ブラックフライデーステークス《芝》",
               "grade": "G3(別定B)",
               "track": "桜坂競馬場",
               "course": "コース5（芝・2200m）",
