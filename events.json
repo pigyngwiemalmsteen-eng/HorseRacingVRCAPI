@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-18T14:44:41.275Z",
-  "generatedAtLabel": "2026/11/18 23:44",
+  "generatedAt": "2026-11-18T15:44:41.947Z",
+  "generatedAtLabel": "2026/11/19 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2609,7 +2609,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 3
+              "thirdCount": 4
             },
             {
               "frameNumber": 2,
@@ -2901,7 +2901,7 @@
                 }
               ],
               "firstCount": 1,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -2937,7 +2937,7 @@
                   "last3F": "31秒78"
                 }
               ],
-              "firstCount": 1,
+              "firstCount": 2,
               "secondCount": 0,
               "thirdCount": 0
             }
@@ -3953,8 +3953,8 @@
       "dateLabel": "11月18日（水）",
       "dayNumber": "18",
       "weekday": "水",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:10 - 22:30 11月18日〇【桜坂競馬場】G3 桜坂競馬場開場記念《芝》（他3レース） ほか1件",
       "events": [
         {
@@ -4036,7 +4036,7 @@
       "dateLabel": "11月19日（木）",
       "dayNumber": "19",
       "weekday": "木",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
