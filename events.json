@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-17T21:36:57.451Z",
-  "generatedAtLabel": "2026/11/18 06:36",
+  "generatedAt": "2026-11-18T14:44:41.275Z",
+  "generatedAtLabel": "2026/11/18 23:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -197,7 +197,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -328,7 +328,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 2,
+              "secondCount": 3,
               "thirdCount": 0
             },
             {
@@ -364,7 +364,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 2
             },
@@ -594,7 +594,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -709,7 +709,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 2,
               "thirdCount": 0
             },
@@ -1260,7 +1260,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 2,
+              "secondCount": 3,
               "thirdCount": 0
             },
             {
@@ -1489,7 +1489,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -1593,7 +1593,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 3,
@@ -1771,7 +1771,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 2,
+              "secondCount": 3,
               "thirdCount": 0
             },
             {
@@ -1867,7 +1867,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -1902,7 +1902,7 @@
                   "last3F": "32秒89"
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 2
             },
@@ -1975,7 +1975,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -2219,7 +2219,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -2320,7 +2320,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 2,
               "thirdCount": 0
             }
@@ -2408,7 +2408,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             },
@@ -2446,7 +2446,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -2521,7 +2521,7 @@
               ],
               "firstCount": 0,
               "secondCount": 1,
-              "thirdCount": 0
+              "thirdCount": 1
             }
           ]
         },
