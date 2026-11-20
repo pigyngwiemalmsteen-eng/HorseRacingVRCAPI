@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-20T02:44:40.817Z",
-  "generatedAtLabel": "2026/11/20 11:44",
+  "generatedAt": "2026-11-20T15:44:41.634Z",
+  "generatedAtLabel": "2026/11/21 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -4047,8 +4047,8 @@
       "dateLabel": "11月20日（金）",
       "dayNumber": "20",
       "weekday": "金",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:00 - 22:00 初心者向け交流会",
       "events": [
         {
@@ -4070,7 +4070,7 @@
       "dateLabel": "11月21日（土）",
       "dayNumber": "21",
       "weekday": "土",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:10 - 22:30 11月21日〇【桜坂競馬場】OP(L) スピリットサークルアニメ化記念杯《ダート》（他3レース）",
       "events": [
