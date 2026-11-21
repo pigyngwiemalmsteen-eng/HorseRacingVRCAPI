@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-20T21:16:58.768Z",
-  "generatedAtLabel": "2026/11/21 06:16",
+  "generatedAt": "2026-11-21T15:44:41.137Z",
+  "generatedAtLabel": "2026/11/22 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -5152,8 +5152,8 @@
       "dateLabel": "11月21日（土）",
       "dayNumber": "21",
       "weekday": "土",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:10 - 22:30 11月21日〇【桜坂競馬場】OP(L) スピリットサークルアニメ化記念杯《ダート》（他3レース）",
       "events": [
         {
@@ -5224,7 +5224,7 @@
       "dateLabel": "11月22日（日）",
       "dayNumber": "22",
       "weekday": "日",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:10 - 22:30 11月22日〇【桜坂競馬場】G3 ボジョレーヌーヴォーカップ《芝》（他3レース）",
       "events": [
