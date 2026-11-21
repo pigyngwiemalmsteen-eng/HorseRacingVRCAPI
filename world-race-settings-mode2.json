@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "configType": "nakayama-new-mode2",
+  "revision": "mode2-v0.1",
+  "enabled": false,
+  "abilities": {
+    "referenceRating": 6,
+    "burstSpeedBaseKmh": 71,
+    "burstSpeedPerRatingKmh": 0.5,
+    "sustainedSpeedBaseKmh": 62,
+    "sustainedSpeedPerRatingKmh": 0.5,
+    "reserveCapacityBase": 100,
+    "reserveCapacityPerRating": 6,
+    "accelerationBaseKmhPerSecond": 3,
+    "accelerationPerRatingKmhPerSecond": 0.15,
+    "efficiencyPerRating": 0.055,
+    "legResistancePerRating": 0.055
+  },
+  "cardio": {
+    "initialPoints": 100,
+    "baseDrainPerSecond": 0.35,
+    "referenceSpeedKmh": 60,
+    "speedExponent": 4,
+    "burstLossAtZeroKmh": 6,
+    "sustainedLossAtZeroKmh": 2,
+    "burstShareAtZero": 0.1,
+    "burstShareGain": 0.75,
+    "enduranceShareWeight": 0.35
+  },
+  "reserve": {
+    "speedThresholdAtFullCardioKmh": 60,
+    "thresholdLossAtZeroCardioKmh": 5,
+    "baseDrainFactor": 0.38,
+    "accelerationWeightSeconds": 0.7,
+    "lowCardioCostGain": 0.6,
+    "dualSpeedCostGain": 0.6,
+    "dualSpeedRatingSumStart": 12,
+    "dualSpeedRatingSumSpan": 8
+  },
+  "legFatigue": {
+    "initialPoints": 0,
+    "drainFactor": 0.65,
+    "accelerationThresholdKmhPerSecond": 1.5,
+    "accelerationLossAtMax": 0.5
+  },
+  "depletion": {
+    "targetCapKmh": 54,
+    "minimumDurationSeconds": 5,
+    "ratingDurationGainSeconds": 5,
+    "randomDurationGainSeconds": 5,
+    "randomExponent": 2
+  },
+  "motivation": {
+    "initialPoints": 40,
+    "minimumSteadySpeedKmh": 40,
+    "steadyWindowSeconds": 1.5,
+    "steadySpeedRangeKmh": 1,
+    "steadyAccelerationMaxMps2": 0.15,
+    "steadyGainPerSecond": 1,
+    "accelerationSmoothingSeconds": 0.25,
+    "flipAccelerationMinMps2": 0.4,
+    "flipHoldSeconds": 0.25,
+    "flipSpeedDeltaKmh": 0.5,
+    "flipWindowSeconds": 3,
+    "eventMinIntervalSeconds": 0.5,
+    "flipLossPoints": 3,
+    "speedBonusThresholdPoints": 40,
+    "speedBonusPerPointKmh": 0.01,
+    "speedBonusMaxKmh": 0.6
+  },
+  "whip": {
+    "motivationGainPoints": 10,
+    "minimumIntervalSeconds": 5,
+    "maxUsesPerRace": 6
+  },
+  "radar": {
+    "radiusMeters": 10,
+    "redRadiusMeters": 1,
+    "updateIntervalSeconds": 0.1
+  },
+  "composure": {
+    "redActivationSeconds": 0.35,
+    "redReleaseSeconds": 0.35,
+    "gainKmhPerSecond": 0.5,
+    "releaseKmhPerSecond": 1,
+    "maxDesiredBonusAtLowRatingKmh": 1.5,
+    "maxDesiredBonusAtHighRatingKmh": 0.3
+  },
+  "fightingSpirit": {
+    "minimumNearbyHorses": 3,
+    "activationSeconds": 0.35,
+    "limitKmh": 0.6,
+    "saturationOffset": 2,
+    "gainKmhPerSecond": 0.6
+  },
+  "speedCap": {
+    "combinedMoodBonusMaxKmh": 0.8
+  }
+}
