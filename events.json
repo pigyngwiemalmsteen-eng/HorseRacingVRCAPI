@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-21T15:44:41.137Z",
-  "generatedAtLabel": "2026/11/22 00:44",
+  "generatedAt": "2026-11-21T17:44:40.538Z",
+  "generatedAtLabel": "2026/11/22 02:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -366,7 +366,7 @@
               ],
               "firstCount": 1,
               "secondCount": 0,
-              "thirdCount": 2
+              "thirdCount": 3
             },
             {
               "frameNumber": 6,
@@ -1866,7 +1866,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 1
             },
             {
@@ -1904,7 +1904,7 @@
               ],
               "firstCount": 1,
               "secondCount": 0,
-              "thirdCount": 2
+              "thirdCount": 3
             },
             {
               "frameNumber": 6,
@@ -1939,7 +1939,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             }
@@ -1976,7 +1976,7 @@
               ],
               "firstCount": 0,
               "secondCount": 2,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 1,
@@ -2042,7 +2042,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -2217,7 +2217,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             },
@@ -2813,7 +2813,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             },
@@ -3049,7 +3049,7 @@
               ],
               "firstCount": 0,
               "secondCount": 2,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -3122,7 +3122,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -3158,7 +3158,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             }
@@ -3209,7 +3209,7 @@
                   "last3F": "29秒93"
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 0
             },
@@ -3322,7 +3322,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -3350,7 +3350,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 1
             },
             {
@@ -3437,7 +3437,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 1
             },
@@ -3467,7 +3467,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -3579,7 +3579,7 @@
               ],
               "firstCount": 1,
               "secondCount": 0,
-              "thirdCount": 2
+              "thirdCount": 3
             },
             {
               "frameNumber": 6,
