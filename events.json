@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-22T14:44:41.007Z",
-  "generatedAtLabel": "2026/11/22 23:44",
+  "generatedAt": "2026-11-22T15:44:40.557Z",
+  "generatedAtLabel": "2026/11/23 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -594,7 +594,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -1489,7 +1489,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -1865,7 +1865,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 1
             },
@@ -2446,7 +2446,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -3285,7 +3285,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -3349,7 +3349,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 1
             },
@@ -4079,7 +4079,7 @@
                   "last3F": ""
                 }
               ],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 1,
               "thirdCount": 1
             },
@@ -4117,7 +4117,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 1,
+              "secondCount": 2,
               "thirdCount": 0
             },
             {
@@ -4155,7 +4155,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -5233,241 +5233,6 @@
   "visibleDayCount": 28,
   "days": [
     {
-      "dateKey": "2026-10-19",
-      "displayDate": "2026.10.19",
-      "dateLabel": "10月19日（月）",
-      "dayNumber": "19",
-      "weekday": "月",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-10-20",
-      "displayDate": "2026.10.20",
-      "dateLabel": "10月20日（火）",
-      "dayNumber": "20",
-      "weekday": "火",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-10-21",
-      "displayDate": "2026.10.21",
-      "dateLabel": "10月21日（水）",
-      "dayNumber": "21",
-      "weekday": "水",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:30 - 22:30 10月21日〇未勝利戦 とりのす競馬場 ほか1件",
-      "events": [
-        {
-          "calendarEventId": "",
-          "eventId": "20261021",
-          "title": "10月21日〇未勝利戦 とりのす競馬場",
-          "timeLabel": "21:30 - 22:30",
-          "location": "",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "〇未勝利戦(別定A) とりのす1600",
-              "grade": "未勝利",
-              "track": "平場芝",
-              "course": "コース4",
-              "condition": "予定開始時刻21:30。最大出走頭数12頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "firstPrize": 400,
-              "displayCondition": "平場芝 / コース4 / 予定開始時刻21:30。最大出走頭数12頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": "公開済"
-            },
-            {
-              "raceId": "R02",
-              "raceNo": "2R",
-              "raceName": "〇未勝利戦(別定A) とりのす2400",
-              "grade": "未勝利",
-              "track": "平場芝",
-              "course": "コース1",
-              "condition": "予定開始時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "firstPrize": 400,
-              "displayCondition": "平場芝 / コース1 / 予定開始時刻22:00。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": "公開済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
-          "eventId": "",
-          "title": "定期交流会",
-          "timeLabel": "22:00 - 23:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-10-22",
-      "displayDate": "2026.10.22",
-      "dateLabel": "10月22日（木）",
-      "dayNumber": "22",
-      "weekday": "木",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "予定なし",
-      "events": []
-    },
-    {
-      "dateKey": "2026-10-23",
-      "displayDate": "2026.10.23",
-      "dateLabel": "10月23日（金）",
-      "dayNumber": "23",
-      "weekday": "金",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:00 - 22:00 初心者向け交流会",
-      "events": [
-        {
-          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
-          "eventId": "",
-          "title": "初心者向け交流会",
-          "timeLabel": "21:00 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "",
-          "officialManaged": false,
-          "races": []
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-10-24",
-      "displayDate": "2026.10.24",
-      "dateLabel": "10月24日（土）",
-      "dayNumber": "24",
-      "weekday": "土",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:30 - 22:00 10月24日〇未勝利戦 ケンターキー競馬場 ほか1件",
-      "events": [
-        {
-          "calendarEventId": "",
-          "eventId": "20261024_1",
-          "title": "10月24日〇未勝利戦 ケンターキー競馬場",
-          "timeLabel": "21:30 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "〇未勝利戦(別定A) ケンターキー2000",
-              "grade": "未勝利",
-              "track": "ダート",
-              "course": "コース1",
-              "condition": "予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "firstPrize": 400,
-              "displayCondition": "ダート / コース1 / 予定開始時刻21:30。最大出走頭数18頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": "公開済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "",
-          "eventId": "20261024",
-          "title": "10月24日〇OP戦 ケンターキー競馬場",
-          "timeLabel": "22:00 - 22:30",
-          "location": "",
-          "description": "",
-          "status": "公開済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "〇霜降ステークス OP戦(別定A) ケンターキー2000",
-              "grade": "OP(別定A)",
-              "track": "ダート",
-              "course": "コース1",
-              "condition": "予定開始時刻22:00。最大出走頭数18頭。賞金順で出走抽選。分割なし。抽選に外れた場合同日の未勝利戦へ登録できます。馬条件：なし。一着獲得賞金800万。",
-              "firstPrize": 800,
-              "displayCondition": "ダート / コース1 / 予定開始時刻22:00。最大出走頭数18頭。賞金順で出走抽選。分割なし。抽選に外れた場合同日の未勝利戦へ登録できます。馬条件：なし。一着獲得賞金800万。",
-              "status": "公開済"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dateKey": "2026-10-25",
-      "displayDate": "2026.10.25",
-      "dateLabel": "10月25日（日）",
-      "dayNumber": "25",
-      "weekday": "日",
-      "isToday": false,
-      "isPast": true,
-      "eventSummary": "21:30 - 22:00 10月25日〇未勝利戦 とりのす競馬場 ほか1件",
-      "events": [
-        {
-          "calendarEventId": "",
-          "eventId": "20261025_1",
-          "title": "10月25日〇未勝利戦 とりのす競馬場",
-          "timeLabel": "21:30 - 22:00",
-          "location": "",
-          "description": "",
-          "status": "出走表作成済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "〇未勝利戦(別定A) とりのす2200",
-              "grade": "未勝利",
-              "track": "平場芝",
-              "course": "コース3",
-              "condition": "予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "firstPrize": 400,
-              "displayCondition": "平場芝 / コース3 / 予定開始時刻21:30。最大出走頭数16頭。分割あり。馬条件：本開催で一着を取った事ない馬。一着獲得賞金400万。",
-              "status": "出走表作成済"
-            }
-          ]
-        },
-        {
-          "calendarEventId": "",
-          "eventId": "20261025",
-          "title": "10月25日〇OP戦 とりのす競馬場",
-          "timeLabel": "22:00 - 22:30",
-          "location": "",
-          "description": "",
-          "status": "出走表作成済",
-          "officialManaged": true,
-          "races": [
-            {
-              "raceId": "R01",
-              "raceNo": "1R",
-              "raceName": "〇おおかみギミック発売記念 OP戦(別定A) とりのす2200",
-              "grade": "OP(別定A)",
-              "track": "平場芝",
-              "course": "コース3",
-              "condition": "予定開始時刻22:00。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
-              "firstPrize": 800,
-              "displayCondition": "平場芝 / コース3 / 予定開始時刻22:00。最大出走頭数16頭。賞金順で出走抽選。分割なし。馬条件：なし。抽選に外れた場合同日の未勝利戦へ登録できます。一着獲得賞金800万。",
-              "status": "出走表作成済"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "dateKey": "2026-10-26",
       "displayDate": "2026.10.26",
       "dateLabel": "10月26日（月）",
@@ -6425,8 +6190,8 @@
       "dateLabel": "11月22日（日）",
       "dayNumber": "22",
       "weekday": "日",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:10 - 22:30 11月22日〇【桜坂競馬場】G3 ボジョレーヌーヴォーカップ《芝》（他3レース）",
       "events": [
         {
@@ -6497,7 +6262,7 @@
       "dateLabel": "11月23日（月）",
       "dayNumber": "23",
       "weekday": "月",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
@@ -7386,6 +7151,107 @@
       "displayDate": "2027.01.10",
       "dateLabel": "1月10日（日）",
       "dayNumber": "10",
+      "weekday": "日",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2027-01-11",
+      "displayDate": "2027.01.11",
+      "dateLabel": "1月11日（月）",
+      "dayNumber": "11",
+      "weekday": "月",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2027-01-12",
+      "displayDate": "2027.01.12",
+      "dateLabel": "1月12日（火）",
+      "dayNumber": "12",
+      "weekday": "火",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2027-01-13",
+      "displayDate": "2027.01.13",
+      "dateLabel": "1月13日（水）",
+      "dayNumber": "13",
+      "weekday": "水",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "22:00 - 23:00 定期交流会",
+      "events": [
+        {
+          "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
+          "eventId": "",
+          "title": "定期交流会",
+          "timeLabel": "22:00 - 23:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2027-01-14",
+      "displayDate": "2027.01.14",
+      "dateLabel": "1月14日（木）",
+      "dayNumber": "14",
+      "weekday": "木",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2027-01-15",
+      "displayDate": "2027.01.15",
+      "dateLabel": "1月15日（金）",
+      "dayNumber": "15",
+      "weekday": "金",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "21:00 - 22:00 初心者向け交流会",
+      "events": [
+        {
+          "calendarEventId": "014ino7fbmq8pa49q9erhlcgk2@google.com",
+          "eventId": "",
+          "title": "初心者向け交流会",
+          "timeLabel": "21:00 - 22:00",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": false,
+          "races": []
+        }
+      ]
+    },
+    {
+      "dateKey": "2027-01-16",
+      "displayDate": "2027.01.16",
+      "dateLabel": "1月16日（土）",
+      "dayNumber": "16",
+      "weekday": "土",
+      "isToday": false,
+      "isPast": false,
+      "eventSummary": "予定なし",
+      "events": []
+    },
+    {
+      "dateKey": "2027-01-17",
+      "displayDate": "2027.01.17",
+      "dateLabel": "1月17日（日）",
+      "dayNumber": "17",
       "weekday": "日",
       "isToday": false,
       "isPast": false,
