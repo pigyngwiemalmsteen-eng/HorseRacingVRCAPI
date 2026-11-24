@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-24T04:32:29.747Z",
-  "generatedAtLabel": "2026/11/24 13:32",
+  "generatedAt": "2026-11-24T15:44:42.196Z",
+  "generatedAtLabel": "2026/11/25 00:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -1725,8 +1725,8 @@
       "dateLabel": "11月24日（火）",
       "dayNumber": "24",
       "weekday": "火",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "予定なし",
       "events": []
     },
@@ -1736,7 +1736,7 @@
       "dateLabel": "11月25日（水）",
       "dayNumber": "25",
       "weekday": "水",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "21:10 - 22:50 11月25日〇【桜坂競馬場】OP アルカディア賞《ダート》（他3レース） ほか1件",
       "events": [
