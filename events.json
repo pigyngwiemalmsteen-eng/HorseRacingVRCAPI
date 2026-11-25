@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-25T11:44:40.723Z",
-  "generatedAtLabel": "2026/11/25 20:44",
+  "generatedAt": "2026-11-25T16:44:40.787Z",
+  "generatedAtLabel": "2026/11/26 01:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
-  "defaultRaceCardEventIndex": 0,
+  "defaultRaceCardEventIndex": 1,
   "raceCards": [
     {
       "eventId": "20261125",
@@ -209,7 +209,7 @@
               ],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -322,6 +322,43 @@
               "jockeyName": "Sigure_Mia",
               "previousRuns": [],
               "firstCount": 0,
+              "secondCount": 1,
+              "thirdCount": 0
+            },
+            {
+              "frameNumber": 7,
+              "horseNumber": 14,
+              "horseId": "H000588",
+              "horseName": "ナノブースト羅【号】",
+              "ownerName": "まっつん_",
+              "jockeyName": "小雨xiaoyu",
+              "previousRuns": [
+                {
+                  "eventId": "20261118",
+                  "raceId": "R02",
+                  "raceName": "〇11月18日未勝利戦(別定A)《芝》",
+                  "grade": "未勝利",
+                  "finishPosition": 4,
+                  "last3F": "31秒81"
+                },
+                {
+                  "eventId": "20261114_1",
+                  "raceId": "R01",
+                  "raceName": "〇11月14日未勝利戦(別定A)トンキョー1600",
+                  "grade": "未勝利",
+                  "finishPosition": 9,
+                  "last3F": ""
+                },
+                {
+                  "eventId": "20261108_1",
+                  "raceId": "R01-B",
+                  "raceName": "〇11月8日未勝利戦(別定A)トンキョー2000 B組",
+                  "grade": "未勝利",
+                  "finishPosition": 4,
+                  "last3F": ""
+                }
+              ],
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             }
@@ -348,7 +385,7 @@
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -373,7 +410,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -455,7 +492,7 @@
               "ownerName": "神威ルカ",
               "jockeyName": "神威ルカ",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -505,7 +542,7 @@
               "ownerName": "雨乃ユウ",
               "jockeyName": "神威ルカ",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -518,7 +555,7 @@
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -591,7 +628,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 5,
@@ -676,7 +713,7 @@
               "jockeyName": "siyuu007",
               "previousRuns": [],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 0
             },
             {
@@ -701,7 +738,7 @@
               "previousRuns": [],
               "firstCount": 0,
               "secondCount": 0,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 4,
@@ -711,7 +748,7 @@
               "ownerName": "結月アオバ",
               "jockeyName": "結月アオバ",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -850,7 +887,7 @@
               ],
               "firstCount": 1,
               "secondCount": 3,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 2,
@@ -935,7 +972,7 @@
                 }
               ],
               "firstCount": 0,
-              "secondCount": 0,
+              "secondCount": 1,
               "thirdCount": 1
             },
             {
@@ -1020,7 +1057,7 @@
               "ownerName": "らいむぎぱん",
               "jockeyName": "小雨xiaoyu",
               "previousRuns": [],
-              "firstCount": 0,
+              "firstCount": 1,
               "secondCount": 0,
               "thirdCount": 0
             },
@@ -1188,6 +1225,14 @@
               "jockeyName": "結月アオバ",
               "previousRuns": [
                 {
+                  "eventId": "20261125",
+                  "raceId": "R04",
+                  "raceName": "〇11月25日OP(別定B)アルカディア賞《ダート》",
+                  "grade": "OP(別定B)",
+                  "finishPosition": 7,
+                  "last3F": "31秒12"
+                },
+                {
                   "eventId": "20261101",
                   "raceId": "R01",
                   "raceName": "〇メメントステークス G3戦(別定B) ケンターキー2000",
@@ -1283,6 +1328,14 @@
               "jockeyName": "Sirius․S",
               "previousRuns": [
                 {
+                  "eventId": "20261125",
+                  "raceId": "R04",
+                  "raceName": "〇11月25日OP(別定B)アルカディア賞《ダート》",
+                  "grade": "OP(別定B)",
+                  "finishPosition": 12,
+                  "last3F": "31秒97"
+                },
+                {
                   "eventId": "20261121",
                   "raceId": "R04",
                   "raceName": "〇11月21日OP(L)(別定B) スピリットサークルアニメ化記念杯《ダート》",
@@ -1297,14 +1350,6 @@
                   "grade": "特別(500万下)",
                   "finishPosition": 4,
                   "last3F": "32秒42"
-                },
-                {
-                  "eventId": "20261115",
-                  "raceId": "R01",
-                  "raceName": "〇G2(定量)砂海盃 ケンターキー2000",
-                  "grade": "G2(定量)",
-                  "finishPosition": 9,
-                  "last3F": "33秒14"
                 }
               ],
               "firstCount": 1,
@@ -1357,6 +1402,14 @@
               "jockeyName": "RenNeko12",
               "previousRuns": [
                 {
+                  "eventId": "20261125",
+                  "raceId": "R04",
+                  "raceName": "〇11月25日OP(別定B)アルカディア賞《ダート》",
+                  "grade": "OP(別定B)",
+                  "finishPosition": 8,
+                  "last3F": "31秒33"
+                },
+                {
                   "eventId": "20261122",
                   "raceId": "R03",
                   "raceName": "〇11月22日OP戦(別定A) 初雪ステークス《ダート》",
@@ -1371,14 +1424,6 @@
                   "grade": "OP(L)",
                   "finishPosition": 7,
                   "last3F": "30秒86"
-                },
-                {
-                  "eventId": "20261118",
-                  "raceId": "R04",
-                  "raceName": "〇11月18日G3(別定C) 桜坂競馬場開場記念《芝》",
-                  "grade": "G3(別定C)",
-                  "finishPosition": 10,
-                  "last3F": "31秒76"
                 }
               ],
               "firstCount": 0,
@@ -1394,6 +1439,14 @@
               "jockeyName": "東雲れいあ",
               "previousRuns": [
                 {
+                  "eventId": "20261125",
+                  "raceId": "R04",
+                  "raceName": "〇11月25日OP(別定B)アルカディア賞《ダート》",
+                  "grade": "OP(別定B)",
+                  "finishPosition": 5,
+                  "last3F": "31秒38"
+                },
+                {
                   "eventId": "20261122",
                   "raceId": "R04",
                   "raceName": "〇11月22日G3(別定B) ボジョレーヌーヴォーカップ《芝》",
@@ -1408,14 +1461,6 @@
                   "grade": "G3(別定C)",
                   "finishPosition": 12,
                   "last3F": "31秒39"
-                },
-                {
-                  "eventId": "20261107",
-                  "raceId": "R01",
-                  "raceName": "〇OP(別定A)とりのいち記念 ケンターキー1600",
-                  "grade": "OP(別定A)",
-                  "finishPosition": 1,
-                  "last3F": "29秒15"
                 }
               ],
               "firstCount": 1,
@@ -1505,6 +1550,14 @@
               "jockeyName": "なぎっちゅ。",
               "previousRuns": [
                 {
+                  "eventId": "20261125",
+                  "raceId": "R04",
+                  "raceName": "〇11月25日OP(別定B)アルカディア賞《ダート》",
+                  "grade": "OP(別定B)",
+                  "finishPosition": 3,
+                  "last3F": "31秒73"
+                },
+                {
                   "eventId": "20261122",
                   "raceId": "R03",
                   "raceName": "〇11月22日OP戦(別定A) 初雪ステークス《ダート》",
@@ -1519,19 +1572,11 @@
                   "grade": "OP(L)",
                   "finishPosition": 6,
                   "last3F": "31秒03"
-                },
-                {
-                  "eventId": "20261118",
-                  "raceId": "R01",
-                  "raceName": "〇11月18日未勝利戦(別定A)《ダート》",
-                  "grade": "未勝利",
-                  "finishPosition": 2,
-                  "last3F": "32秒25"
                 }
               ],
               "firstCount": 1,
               "secondCount": 3,
-              "thirdCount": 0
+              "thirdCount": 1
             },
             {
               "frameNumber": 6,
@@ -1579,6 +1624,14 @@
               "jockeyName": "ぎんねこ851",
               "previousRuns": [
                 {
+                  "eventId": "20261125",
+                  "raceId": "R04",
+                  "raceName": "〇11月25日OP(別定B)アルカディア賞《ダート》",
+                  "grade": "OP(別定B)",
+                  "finishPosition": 11,
+                  "last3F": "31秒62"
+                },
+                {
                   "eventId": "20261118",
                   "raceId": "R04",
                   "raceName": "〇11月18日G3(別定C) 桜坂競馬場開場記念《芝》",
@@ -1593,14 +1646,6 @@
                   "grade": "未勝利",
                   "finishPosition": 1,
                   "last3F": "29秒88"
-                },
-                {
-                  "eventId": "20261104_1",
-                  "raceId": "R01",
-                  "raceName": "〇11月4日未勝利戦(別定A)トンキョー2400",
-                  "grade": "未勝利",
-                  "finishPosition": 2,
-                  "last3F": "31秒51"
                 }
               ],
               "firstCount": 1,
@@ -1653,6 +1698,14 @@
               "jockeyName": "YuyaKuga",
               "previousRuns": [
                 {
+                  "eventId": "20261125",
+                  "raceId": "R04",
+                  "raceName": "〇11月25日OP(別定B)アルカディア賞《ダート》",
+                  "grade": "OP(別定B)",
+                  "finishPosition": 6,
+                  "last3F": "31秒18"
+                },
+                {
                   "eventId": "20261122",
                   "raceId": "R03",
                   "raceName": "〇11月22日OP戦(別定A) 初雪ステークス《ダート》",
@@ -1667,14 +1720,6 @@
                   "grade": "OP(L)",
                   "finishPosition": 5,
                   "last3F": "31秒13"
-                },
-                {
-                  "eventId": "20261118",
-                  "raceId": "R01",
-                  "raceName": "〇11月18日未勝利戦(別定A)《ダート》",
-                  "grade": "未勝利",
-                  "finishPosition": 4,
-                  "last3F": "31秒84"
                 }
               ],
               "firstCount": 0,
@@ -2852,8 +2897,8 @@
       "dateLabel": "11月25日（水）",
       "dayNumber": "25",
       "weekday": "水",
-      "isToday": true,
-      "isPast": false,
+      "isToday": false,
+      "isPast": true,
       "eventSummary": "21:10 - 22:50 11月25日〇【桜坂競馬場】OP アルカディア賞《ダート》（他3レース） ほか1件",
       "events": [
         {
@@ -2935,7 +2980,7 @@
       "dateLabel": "11月26日（木）",
       "dayNumber": "26",
       "weekday": "木",
-      "isToday": false,
+      "isToday": true,
       "isPast": false,
       "eventSummary": "予定なし",
       "events": []
