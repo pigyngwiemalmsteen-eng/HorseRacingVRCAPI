@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-24T21:31:56.601Z",
-  "generatedAtLabel": "2026/11/25 06:31",
+  "generatedAt": "2026-11-25T09:44:46.026Z",
+  "generatedAtLabel": "2026/11/25 18:44",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2869,7 +2869,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "〇11月25日未勝利戦(別定A)《芝》",
+              "raceName": "〇11月25日未勝利戦(別定A)結月アオバ誕生日記念《芝》",
               "grade": "未勝利",
               "track": "桜坂競馬場",
               "course": "コース1（芝・1600m）",
@@ -3149,8 +3149,68 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "21:10 - 22:40 12月2日〇【平安競馬場】OPドラミちゃん御生誕記念 他3レース ほか1件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261202",
+          "title": "12月2日〇【平安競馬場】OPドラミちゃん御生誕記念 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "未勝利戦",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "おいでよ豪雪地帯特別",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R03",
+              "raceNo": "3R",
+              "raceName": "ドラミちゃん御生誕記念",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R04",
+              "raceNo": "4R",
+              "raceName": "未勝利戦",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            }
+          ]
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
@@ -3206,8 +3266,69 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:10 - 22:40 12月5日〇【平安競馬場】G2 極月賞 他3レース",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261205",
+          "title": "12月5日〇【平安競馬場】G2 極月賞 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "未勝利戦",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "木枯らし特別",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R03",
+              "raceNo": "3R",
+              "raceName": "極月賞",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R04",
+              "raceNo": "4R",
+              "raceName": "未勝利戦",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-12-06",
@@ -3217,8 +3338,69 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:10 - 22:40 12月6日〇【平安競馬場】G3 冬夜賞 他3レース",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261206",
+          "title": "12月6日〇【平安競馬場】G3 冬夜賞 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": [
+            {
+              "raceId": "R01",
+              "raceNo": "1R",
+              "raceName": "未勝利戦",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R02",
+              "raceNo": "2R",
+              "raceName": "初氷ステークス",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R03",
+              "raceNo": "3R",
+              "raceName": "冬夜賞",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            },
+            {
+              "raceId": "R04",
+              "raceNo": "4R",
+              "raceName": "未勝利戦",
+              "grade": "",
+              "track": "",
+              "course": "",
+              "condition": "",
+              "firstPrize": 0,
+              "displayCondition": "",
+              "status": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "dateKey": "2026-12-07",
@@ -3250,8 +3432,19 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "21:10 - 22:40 12月9日〇【平安競馬場】G3 カトレアカップ 他3レース ほか1件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261209",
+          "title": "12月9日〇【平安競馬場】G3 カトレアカップ 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
@@ -3307,8 +3500,20 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:10 - 22:40 12月12日〇【平安競馬場】G2 白椿賞 他3レース",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261212",
+          "title": "12月12日〇【平安競馬場】G2 白椿賞 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-12-13",
@@ -3318,8 +3523,20 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:10 - 22:40 12月13日〇【平安競馬場】OP サジタリウスステークス 他3レース",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261213",
+          "title": "12月13日〇【平安競馬場】OP サジタリウスステークス 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-12-14",
@@ -3351,8 +3568,19 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "21:10 - 22:40 12月16日〇【山央競馬場】G3 スピリットサークル放送記念 他3レース ほか1件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261216",
+          "title": "12月16日〇【山央競馬場】G3 スピリットサークル放送記念 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
@@ -3408,8 +3636,20 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:10 - 22:40 12月19日〇【山央競馬場】G3 ブッシュドノエル賞 他3レース",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261219",
+          "title": "12月19日〇【山央競馬場】G3 ブッシュドノエル賞 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-12-20",
@@ -3419,8 +3659,20 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:10 - 22:40 12月20日〇【山央競馬場】OP(L)セリオラ賞 他3レース",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261220",
+          "title": "12月20日〇【山央競馬場】OP(L)セリオラ賞 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-12-21",
@@ -3452,8 +3704,19 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "21:10 - 22:40 12月23日〇【山央競馬場】G2 霜夜賞 他3レース ほか1件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261223",
+          "title": "12月23日〇【山央競馬場】G2 霜夜賞 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
@@ -3509,8 +3772,31 @@
       "weekday": "土",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:10 - 22:10 12月26日〇【山央競馬場】新馬戦 他2レース ほか1件",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261226_1",
+          "title": "12月26日〇【山央競馬場】新馬戦 他2レース",
+          "timeLabel": "21:10 - 22:10",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
+        {
+          "calendarEventId": "",
+          "eventId": "20261226",
+          "title": "12月26日〇【山央競馬場】G1 VRAクリスマス記念",
+          "timeLabel": "22:10 - 22:50",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-12-27",
@@ -3520,8 +3806,20 @@
       "weekday": "日",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "予定なし",
-      "events": []
+      "eventSummary": "21:10 - 22:40 12月27日〇【山央競馬場】G3 キャンドルステークス 他3レース",
+      "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261227",
+          "title": "12月27日〇【山央競馬場】G3 キャンドルステークス 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        }
+      ]
     },
     {
       "dateKey": "2026-12-28",
@@ -3553,8 +3851,19 @@
       "weekday": "水",
       "isToday": false,
       "isPast": false,
-      "eventSummary": "22:00 - 23:00 定期交流会",
+      "eventSummary": "21:10 - 22:40 12月30日〇【山央競馬場】G3 クライマックスターフ 他3レース ほか1件",
       "events": [
+        {
+          "calendarEventId": "",
+          "eventId": "20261230",
+          "title": "12月30日〇【山央競馬場】G3 クライマックスターフ 他3レース",
+          "timeLabel": "21:10 - 22:40",
+          "location": "",
+          "description": "",
+          "status": "",
+          "officialManaged": true,
+          "races": []
+        },
         {
           "calendarEventId": "69fihl96vgt1mvemka8kqjtigk@google.com",
           "eventId": "",
