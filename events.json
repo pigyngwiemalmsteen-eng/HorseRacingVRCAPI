@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-11-26T10:44:42.192Z",
-  "generatedAtLabel": "2026/11/26 19:44",
+  "generatedAt": "2026-11-26T10:46:57.512Z",
+  "generatedAtLabel": "2026/11/26 19:46",
   "timezone": "Asia/Tokyo",
   "refreshAfterSeconds": 3600,
   "officialWebUrl": "https://vra-proj.web.app/races",
@@ -2468,7 +2468,7 @@
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "OP ヤドリギ特別",
+              "raceName": "OP ヤドリギ特別《ダート》",
               "grade": "OP(別定B)",
               "track": "平安競馬場",
               "course": "コース6（ダート・1200m）",
@@ -2480,7 +2480,7 @@
             {
               "raceId": "R03",
               "raceNo": "3R",
-              "raceName": "G2 白椿賞",
+              "raceName": "G2 白椿賞《芝》",
               "grade": "G2(定量)",
               "track": "平安競馬場",
               "course": "コース3（芝・3000m）",
@@ -2573,7 +2573,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "未勝利戦",
+              "raceName": "未勝利戦《芝》",
               "grade": "未勝利",
               "track": "山央競馬場",
               "course": "コース3（芝・2000m）",
@@ -2585,7 +2585,7 @@
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "OP ホーリーステークス",
+              "raceName": "OP ホーリーステークス《ダート》",
               "grade": "OP(別定B)",
               "track": "山央競馬場",
               "course": "コース6（ダート・1800m）",
@@ -2597,7 +2597,7 @@
             {
               "raceId": "R03",
               "raceNo": "3R",
-              "raceName": "G3 スピリットサークル放送記念",
+              "raceName": "G3 スピリットサークル放送記念《芝》",
               "grade": "G3(別定C)",
               "track": "山央競馬場",
               "course": "コース3（芝・2000m）",
@@ -2609,7 +2609,7 @@
             {
               "raceId": "R04",
               "raceNo": "4R",
-              "raceName": "未勝利戦",
+              "raceName": "未勝利戦《ダート》",
               "grade": "未勝利",
               "track": "山央競馬場",
               "course": "コース6（ダート・1800m）",
@@ -2690,7 +2690,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "未勝利戦",
+              "raceName": "未勝利戦《ダート》",
               "grade": "未勝利",
               "track": "山央競馬場",
               "course": "コース5（ダート・1200m）",
@@ -2702,7 +2702,7 @@
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "OP トナカイダッシュ",
+              "raceName": "OP トナカイダッシュ《芝》",
               "grade": "OP(別定B)",
               "track": "山央競馬場",
               "course": "コース1（芝・1200m）",
@@ -2714,7 +2714,7 @@
             {
               "raceId": "R03",
               "raceNo": "3R",
-              "raceName": "G3 ブッシュドノエル賞",
+              "raceName": "G3 ブッシュドノエル賞《ダート》",
               "grade": "G3(別定C)",
               "track": "山央競馬場",
               "course": "コース5（ダート・1200m）",
@@ -2726,7 +2726,7 @@
             {
               "raceId": "R04",
               "raceNo": "4R",
-              "raceName": "未勝利戦",
+              "raceName": "未勝利戦《芝》",
               "grade": "未勝利",
               "track": "山央競馬場",
               "course": "コース1（芝・1200m）",
@@ -2762,7 +2762,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "未勝利戦",
+              "raceName": "未勝利戦《芝》",
               "grade": "未勝利",
               "track": "山央競馬場",
               "course": "コース4（芝・2500m）",
@@ -2774,7 +2774,7 @@
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "OP 炬燵蜜柑特別",
+              "raceName": "OP 炬燵蜜柑特別《ダート》",
               "grade": "OP(別定B)",
               "track": "山央競馬場",
               "course": "コース6（ダート・1800m）",
@@ -2786,7 +2786,7 @@
             {
               "raceId": "R03",
               "raceNo": "3R",
-              "raceName": "OP(L)セリオラ賞",
+              "raceName": "OP(L)セリオラ賞《芝》",
               "grade": "OP(L)",
               "track": "山央競馬場",
               "course": "コース4（芝・2500m）",
@@ -2798,7 +2798,7 @@
             {
               "raceId": "R04",
               "raceNo": "4R",
-              "raceName": "未勝利戦",
+              "raceName": "未勝利戦《ダート》",
               "grade": "未勝利",
               "track": "山央競馬場",
               "course": "コース6（ダート・1800m）",
@@ -2856,7 +2856,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "新馬戦",
+              "raceName": "新馬戦《ダート》",
               "grade": "新馬",
               "track": "山央競馬場",
               "course": "コース5（ダート・1200m）",
@@ -2868,7 +2868,7 @@
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "新馬戦",
+              "raceName": "新馬戦《芝》",
               "grade": "新馬",
               "track": "山央競馬場",
               "course": "コース2（芝・1600m）",
@@ -2880,7 +2880,7 @@
             {
               "raceId": "R03",
               "raceNo": "3R",
-              "raceName": "G2 霜夜賞",
+              "raceName": "G2 霜夜賞《ダート》",
               "grade": "G2(別定C)",
               "track": "山央競馬場",
               "course": "コース5（ダート・1200m）",
@@ -2892,7 +2892,7 @@
             {
               "raceId": "R04",
               "raceNo": "4R",
-              "raceName": "未勝利戦",
+              "raceName": "未勝利戦《芝》",
               "grade": "未勝利",
               "track": "山央競馬場",
               "course": "コース2（芝・1600m）",
@@ -2973,7 +2973,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "新馬戦",
+              "raceName": "新馬戦《芝》",
               "grade": "新馬",
               "track": "山央競馬場",
               "course": "コース3（芝・2000m）",
@@ -2985,7 +2985,7 @@
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "新馬戦",
+              "raceName": "新馬戦《ダート》",
               "grade": "新馬",
               "track": "山央競馬場",
               "course": "コース6（ダート・1800m）",
@@ -2997,7 +2997,7 @@
             {
               "raceId": "R03",
               "raceNo": "4R",
-              "raceName": "未勝利戦",
+              "raceName": "未勝利戦《ダート》",
               "grade": "未勝利",
               "track": "山央競馬場",
               "course": "コース6（ダート・1800m）",
@@ -3021,7 +3021,7 @@
             {
               "raceId": "R01",
               "raceNo": "3R",
-              "raceName": "G1 VRAクリスマス記念",
+              "raceName": "G1 VRAクリスマス記念《芝》",
               "grade": "G1",
               "track": "山央競馬場",
               "course": "コース4（芝・2500m）",
@@ -3057,7 +3057,7 @@
             {
               "raceId": "R01",
               "raceNo": "1R",
-              "raceName": "未勝利戦",
+              "raceName": "未勝利戦《ダート》",
               "grade": "未勝利",
               "track": "山央競馬場",
               "course": "コース6（ダート・1800m）",
@@ -3081,7 +3081,7 @@
             {
               "raceId": "R03",
               "raceNo": "3R",
-              "raceName": "G3 キャンドルステークス",
+              "raceName": "G3 キャンドルステークス《ダート》",
               "grade": "G3(別定B)",
               "track": "山央競馬場",
               "course": "コース6（ダート・1800m）",
@@ -3163,7 +3163,7 @@
             {
               "raceId": "R02",
               "raceNo": "2R",
-              "raceName": "OP 年越し特別",
+              "raceName": "OP 年越し特別《ダート》",
               "grade": "OP(別定B)",
               "track": "山央競馬場",
               "course": "コース5（ダート・1200m）",
@@ -3187,7 +3187,7 @@
             {
               "raceId": "R04",
               "raceNo": "4R",
-              "raceName": "未勝利戦 山央ファイナルレース",
+              "raceName": "未勝利戦 山央ファイナルレース《ダート》",
               "grade": "未勝利",
               "track": "山央競馬場",
               "course": "コース5（ダート・1200m）",
